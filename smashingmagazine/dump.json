@@ -1,0 +1,327 @@
+{
+  "episodes": [
+    {
+      "creator": "hello@smashingmagazine.com (Steven Hoober)",
+      "title": "Touch Design For Mobile Interfaces: Defining Mobile Devices (Excerpt)",
+      "publicURL": "https://smashingmagazine.com/2021/12/touch-design-mobile-interfaces-devices/",
+      "description": "Before we can talk about how people interact, much less how to take advantage of that knowledge and design, it’s important to understand a bit about the history, the technology, and what today counts as a mobile touchscreen device at all.",
+      "publishedAt": "2021-12-15T11:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9e9a3814-1de8-4be8-87c4-a14712d76776/1-touch-design-mobile-interfaces-devices.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Nafees Nehar)",
+      "title": "Modifying Headers In HTTP(s) Requests In UI Automation Testing",
+      "publicURL": "https://smashingmagazine.com/2021/12/headers-https-requests-ui-automation-testing/",
+      "description": "To be able to modify headers in a testing environment is a great thing to have. It allows control over your application as one can bypass authentication, set cookies, and so on. In this article, Nafees Nehar explores some methods which allow modification of headers in an automation testing setup.",
+      "publishedAt": "2021-12-14T10:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2d7717e3-3b0e-4104-b8c8-4675e91267a4/1-headers-https-requests-ui-automation-testing.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+      "title": "Free Christmas Icon Sets And Vector Elements",
+      "publicURL": "https://smashingmagazine.com/2021/12/free-holiday-icons-vector-elements/",
+      "description": "Everybody loves a nice freebie, right? To get you in the mood for the upcoming holidays, we collected some winter- and holiday-themed icon sets and vector elements that you can use in your projects for free. Enjoy!",
+      "publishedAt": "2021-12-09T13:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fccdf329-285c-4a77-b9ff-f8c8bd3956f9/jolly-3d-icons-2-opt.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Slava Shestopalov)",
+      "title": "Designing Better Links For Websites And Emails: A Guideline",
+      "publicURL": "https://smashingmagazine.com/2021/12/designing-better-links-websites-emails-guideline/",
+      "description": "There are so many websites out there that have not considered the overall usability of their visually impaired users. When it comes to designing better links and sending better emails, Slava Shestopalov has a few tips on how to improve your website’s experience while accessibility in mind.",
+      "publishedAt": "2021-12-06T17:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fd05c109-c7cc-4ca7-97b3-869ac54767c6/9-designing-better-links-websites-emails.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "title": "Advent Calendars For Web Designers And Developers (December 2021 Edition)",
+      "publicURL": "https://smashingmagazine.com/2021/12/tech-advent-calendars-web-developers-web-designers-2021/",
+      "description": "Are you ready for the countdown to Christmas? From [festive](https://www.smashingmagazine.com/2016/12/freebie-christmas-advent-icon-set-25-icons-ai-eps-svg-png-pdf/) [icon](https://www.smashingmagazine.com/2015/12/freebie-christmas-icons-illustrations/) [sets](https://www.smashingmagazine.com/2014/11/freebie-christmas-icon-set-ai-psd-eps-pdf-svg-png/) to advent calendars that are bound to sweeten your days with a delightful little surprise each morning, we’ve decided to join in on this lovely annual tradition and bring it all to one place. So prepare yourself a nice cup of coffee and get cozy — there’s always something new to learn and discover!",
+      "publishedAt": "2021-12-02T14:00:43.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6e09cbdf-49c2-4250-a290-4c0fce6fe0a8/advent-roundup-2021.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Caleb Olojo)",
+      "title": "How To Protect Your API Key In Production With Next.js API Route",
+      "publicURL": "https://smashingmagazine.com/2021/12/protect-api-key-production-nextjs-api-route/",
+      "description": "There’s a great challenge that comes with building Jamstack applications on the web. In this article, Caleb Olojo explains how you can use Next.js to bootstrap your app safely.",
+      "publishedAt": "2021-12-02T09:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Drew McLellan)",
+      "title": "Smashing Podcast Episode 44 With Chris Ferdinandi: Is The Web Dead?",
+      "publicURL": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-44/",
+      "description": "In this episode, we’re asking if changes to best practises over the last year have negatively impacted the web. Is it all downhill from here? Drew McLellan talks to expert Chris Ferdinandi to find out.",
+      "publishedAt": "2021-11-30T14:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/013d0d6a-f33c-41ea-bfe6-f99f95fdd75d/chris-ferdinandi-200x200-opt.jpg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+      "title": "It’s That Time Of The Year (December 2021 Desktop Wallpapers Edition)",
+      "publicURL": "https://smashingmagazine.com/2021/11/desktop-wallpaper-calendars-december-2021/",
+      "description": "Let’s welcome December with some new wallpapers! Designed by artists and designers from across the globe, they are available with and without a calendar for the month. Enjoy!",
+      "publishedAt": "2021-11-30T09:45:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b96c8c2-9305-4a64-aa40-cf22662ea698/dec-21-winter-holidays-preview-opt.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Jhey Tompkins)",
+      "title": "3D CSS Flippy Snaps With React And GreenSock",
+      "publicURL": "https://smashingmagazine.com/2021/11/3d-css-flippy-snaps-react-greensock/",
+      "description": "One of Jhey’s main mantras is to make learning fun.  In this article, he shows you ways to level up your skills by bringing your ideas to life, and not forgetting that [you can be playful with code](https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/). With that mindset, every idea is bound to become an opportunity to try something new.",
+      "publishedAt": "2021-11-29T12:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Nirmalya Ghosh)",
+      "title": "How To Maintain A Large Next.js Application",
+      "publicURL": "https://smashingmagazine.com/2021/11/maintain-large-nextjs-application/",
+      "description": "In this article, Nirmalya discusses some of the complex problems that he faced while building and maintaining large Next.js applications. He always explains how these problems can be solved by using various tools.",
+      "publishedAt": "2021-11-26T12:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+      "title": "A Showcase Of Lovely Little Websites",
+      "publicURL": "https://smashingmagazine.com/2021/11/showcase-lovely-little-websites/",
+      "description": "Instead of spending your coffee break scrolling through your social feeds, how about a lovely little website instead? We came across some fantastic ones that are just too good not to be shared. But be warned, your break might take a bit longer than intended.",
+      "publishedAt": "2021-11-24T12:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f848cc48-7b12-4e47-80fa-dcc288faf357/plant-guides-opt.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (John C Barstow)",
+      "title": "Adding A Dyslexia-Friendly Mode To A Website",
+      "publicURL": "https://smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/",
+      "description": "With a little CSS, we can adapt our web designs to be more accommodating for people with dyslexia. In this article, we’ll explore those techniques by adding a dyslexia-friendly mode to an existing design.",
+      "publishedAt": "2021-11-23T10:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Iris Lješnjanin)",
+      "title": "Smashing Workshops: Winter 2021",
+      "publicURL": "https://smashingmagazine.com/2021/11/smashingconf-workshops-winter-2021/",
+      "description": "What’s the state of CSS, Vue.js and Next.js? What are new, smart interface design patterns we could use? Let’s figure it out. With our [online workshops on UX, front-end and design](https://smashingconf.com/online-workshops).",
+      "publishedAt": "2021-11-22T16:00:00.000Z",
+      "thumbnail": "https://d33wubrfki0l68.cloudfront.net/502cf7a10bd06fcb572acfb8b0592d9b28c50975/11b60/images/speakers/brad-frost.jpg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Dan Shappir)",
+      "title": "Improving The Performance Of Wix Websites (Case Study)",
+      "publicURL": "https://smashingmagazine.com/2021/11/improving-performance-wix-websites-case-study/",
+      "description": "Implementing a performance culture is very important. In this article, Dan Shappir shares which actions and processes the Wix team put in place in order to achieve dramatic improvements in the performance of websites built and hosted on their platform.",
+      "publishedAt": "2021-11-22T10:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8f53e04f-3b31-4900-b385-83b426169171/8-improving-performance-wix-websites-case-study.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Sam Poder)",
+      "title": "Next.js Wildcard Subdomains",
+      "publicURL": "https://smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/",
+      "description": "Hosting with a wildcard subdomain enables your users to visit your site on any subdomain of your domain (*.example.com), and as you can imagine, we can use this to create unique user experiences which we’ll be exploring in this article through a Next.js lens.",
+      "publishedAt": "2021-11-19T10:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Michelle Barker)",
+      "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
+      "publicURL": "https://smashingmagazine.com/2021/11/guide-modern-css-colors/",
+      "description": "In this article, we’ll take a look at the best ways to handle colors in CSS today, some tips for using them in a design system, and what we can expect from our colors in the not-too-distant future.",
+      "publishedAt": "2021-11-17T16:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a6d3545f-7d8b-497a-99be-6f4bb8704b64/1-modern-css-color.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
+      "title": "Meet Touch Design For Mobile Interfaces, A New Smashing Book By Steven Hoober",
+      "publicURL": "https://smashingmagazine.com/2021/11/touch-design-pre-release/",
+      "description": "Meet “Touch Design for Mobile Interfaces”, our brand-new guide on designing for mobile with proven, universal, human-centric standards. 400 pages. Shipping starting in mid-January 2022.",
+      "publishedAt": "2021-11-16T16:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b9bd7979-279d-4547-8540-cb1e344cbf19/newsletter-header-opt.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Louis Lazaris)",
+      "title": "Powerful Terminal And Command-Line (CLI) Tools For Modern Web Development",
+      "publicURL": "https://smashingmagazine.com/2021/11/powerful-terminal-commandline-tools-modern-web-development/",
+      "description": "What’s your favorite command-line tool? In this post, Louis Lazaris shares a collection of relevant command-line apps and utilities that he has personally come across in the past few years. If there’s a useful one that hasn’t been mentioned and one you use regularly, please do share it in the comments.",
+      "publishedAt": "2021-11-15T13:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e5982e51-254c-4834-8f4f-4afd3663cf5c/1-terminal-and-cli-tools.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Ifeanyi Dike)",
+      "title": "Useful React Hooks That You Can Use In Your Projects",
+      "publicURL": "https://smashingmagazine.com/2021/11/useful-react-hooks/",
+      "description": "The React team introduced several hooks in React 16.8 which you can use from third-party providers in your application, or even create your own custom hook. In this tutorial, we’ll take a look at some of the most useful hooks in React and how to use them.",
+      "publishedAt": "2021-11-12T10:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Adam Fard)",
+      "title": "From Good To Great In Dashboard Design: Research, Decluttering And Data Viz",
+      "publicURL": "https://smashingmagazine.com/2021/11/dashboard-design-research-decluttering-data-viz/",
+      "description": "Dribbbleshots just might be the hotbed of questionable dashboards. Striking visuals, little context, and no research: all recipes for mediocrity. Mediocrity won’t do. We’ll pursue greatness. And in that pursuit, we’ll cover research, decluttering, and data visualization.",
+      "publishedAt": "2021-11-11T14:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/a846211d-35b3-44b0-97b0-1dc98854332b/image-1-one-layered-dashboard.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Átila Fassina)",
+      "title": "Localizing Your Next.js App",
+      "publicURL": "https://smashingmagazine.com/2021/11/localizing-your-nextjs-app/",
+      "description": "Internationalized routing is not exactly a new feature on Next.js. In this article, we are not only checking what we get from this feature, but also how to leverage such functionalities to achieve the best user experience and a smooth developer experience as well.",
+      "publishedAt": "2021-11-09T13:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Leonardo Losoviz)",
+      "title": "Automatically Transforming And Optimizing Images And Videos On Your WordPress Website",
+      "publicURL": "https://smashingmagazine.com/2021/11/transforming-optimizing-images-videos-wordpress-website/",
+      "description": "In this article, Leonardo Losoviz explains how Cloudinary’s integration can be used with WordPress to produce and deliver optimal digital experiences.",
+      "publishedAt": "2021-11-09T09:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/13b433e7-9c0e-4ee9-a907-04259176eb8f/1-transforming-optimizing-images-videos-wordpress-website.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Ilya Grigorik)",
+      "title": "Meet Hydrogen: A React Framework For Dynamic, Contextual And Personalized E-Commerce",
+      "publicURL": "https://smashingmagazine.com/2021/11/hydrogen-react-framework-dynamic-contextual-personalized-ecommerce/",
+      "description": "A great commerce experience is not a Lighthouse score or a set of Core Web Vitals figures (although both are important inputs), but it’s also a trilemma that carefully balances competing needs of delivering a great customer experience, dynamic storefront capabilities and long-term business objectives.",
+      "publishedAt": "2021-11-08T14:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b995898d-bc04-4353-bc30-3a80c482977e/in-line-product-snapshot-cart.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Victor Yocco)",
+      "title": "The Value Of Concept Testing As Part Of Product Design",
+      "publicURL": "https://smashingmagazine.com/2021/11/concept-testing-part-of-product-design/",
+      "description": "Concept testing ideas before moving into a detailed design is good UX practice. In this article, Victor Yocco presents details on how and when to engage in concept testing, as well as case studies providing details on the insights gained in two very different settings.",
+      "publishedAt": "2021-11-05T11:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6d59b74c-dd98-4bd7-a8b4-facda9e2be03/2-concept-testing-part-of-product-design.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Drew McLellan)",
+      "title": "Smashing Podcast Episode 43 With Matthew Phillips: What Is Astro?",
+      "publicURL": "https://smashingmagazine.com/2021/11/smashing-podcast-episode-43/",
+      "description": "In this episode, we’re talking about Astro. Will this modern static site builder launch you into the stratosphere? Drew McLellan talks to developer Matthew Phillips to find out.",
+      "publishedAt": "2021-11-04T18:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/f19a730b-169d-44cb-9214-4b4019c2b5f2/matthew-phillips-250x250.jpeg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (David Atanda)",
+      "title": "GraphQL On The Front-End (React And Apollo)",
+      "publicURL": "https://smashingmagazine.com/2021/11/graphql-frontend-react-apollo/",
+      "description": "Within the last decade, technologies like GraphQL have changed how we build web apps and how they communicate with each other. GraphQL provides certain benefits over REST APIs — let’s find out what they are.",
+      "publishedAt": "2021-11-04T11:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Ikeh Akinyemi)",
+      "title": "A Deep Dive Into Serverless UI With TypeScript",
+      "publicURL": "https://smashingmagazine.com/2021/11/deep-dive-into-serverless-ui-typescript/",
+      "description": "Serverless UI is simply a free, open-source command-line utility for quickly building and deploying serverless applications on the AWS platform. In this article, we will learn and cover everything needed on using Serverless UI to deploy our projects or serverless applications to cloud services providers.",
+      "publishedAt": "2021-11-03T11:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/37b7b12a-581c-49ef-8ca3-00b55baaa71e/2-deep-dive-into-severless-ui-typescript.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Alex Husar)",
+      "title": "Creating A Magento PWA: Customizing Themes vs. Coding From Scratch",
+      "publicURL": "https://smashingmagazine.com/2021/11/magento-pwa-customizing-themes-coding/",
+      "description": "This article sheds the spotlight on Magento PWAs and explains why business owners are getting them (often instead of native applications). Alex Husar introduces ways of how progressive web applications can be developed on Magento, as well as go over the major pros and cons of each development path.",
+      "publishedAt": "2021-11-02T12:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/126e9642-1fe9-4d7b-b4fa-9ebb32064b66/6-creating-magento-pwa-customizing-themes-coding.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+      "title": "A Splash Of Color For Misty Days (November 2021 Desktop Wallpapers Edition)",
+      "publicURL": "https://smashingmagazine.com/2021/10/desktop-wallpaper-calendars-november-2021/",
+      "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make November colorful!",
+      "publishedAt": "2021-10-31T08:20:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7a2a341f-4f72-4716-91c6-ed6da6add2fd/nov-21-no-shave-november-preview-opt.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Freya Giles)",
+      "title": "50 Resources And Tools To Turbocharge Your Copywriting Skills",
+      "publicURL": "https://smashingmagazine.com/2021/10/resources-tools-turbocharge-copywriting-skills/",
+      "description": "Stop wasting time and effort writing copy that falls flat. Raise your copywriting game and boost your powers of persuasion with these rich and informative online resources.",
+      "publishedAt": "2021-10-29T10:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/9b6ef055-f387-4de1-857f-fe1c81a68d2a/plain-english.jpg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Robert Sfichi)",
+      "title": "How To Build An Amazon Product Scraper With Node.js",
+      "publicURL": "https://smashingmagazine.com/2021/10/building-amazon-product-scraper-nodejs/",
+      "description": "The wealth of data that Amazon holds can make a huge difference when you’re designing a product or hunting for a bargain. But, how can a developer get that data? Simple, by using a web scraper. Here’s how to build your data extraction bot with Node.js.",
+      "publishedAt": "2021-10-28T11:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/24b88181-3bb5-4c72-8ad7-d7f6e2657d9d/2-building-amazon-product-scraper-nodejs.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Mariana Macedo)",
+      "title": "Eye-Tracking In Mobile UX Research",
+      "publicURL": "https://smashingmagazine.com/2021/10/eye-tracking-mobile-ux-research/",
+      "description": "Thanks to technology, eye-tracking has become more accessible to UX research as it allows researchers to get insights about users ’visual attention. This article explores the latest trends in the eye-tracking market and how the methodology can be included in the UX researcher’s toolbox.",
+      "publishedAt": "2021-10-27T10:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/df5a937e-b95d-48a5-899a-d0af61761bba/5-eye-tracking-mobile-ux-research.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Melvin Kosisochukwu)",
+      "title": "Optimizing Next.js Applications With Nx",
+      "publicURL": "https://smashingmagazine.com/2021/10/optimizing-nextjs-applications-nx/",
+      "description": "Nx is a build framework that facilitates optimization, efficient scaling of applications, and other features such as shared libraries and components. In this article, we will be looking at how we can effectively scale Next.js applications by using Nx.",
+      "publishedAt": "2021-10-26T10:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/7e5e7aec-7c22-43c2-88f0-eca07dddd458/image-nx-home.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Ahmad Shadeed)",
+      "title": "A Deep Dive Into object-fit And background-size In CSS",
+      "publicURL": "https://smashingmagazine.com/2021/10/object-fit-background-size-css/",
+      "description": "In this article, we will go through how `object-fit` and `background-size` work, when we can use them, and why, along with some practical use cases and recommendations. Let’s dive in.",
+      "publishedAt": "2021-10-25T13:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fb4530e2-8132-4b2c-8571-5c17403b691c/1-object-fit-vs-css-background-size.jpg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Joel Olawanle)",
+      "title": "An Introduction To Quasar Framework: Building Cross-Platform Applications",
+      "publicURL": "https://smashingmagazine.com/2021/10/introduction-quasar-framework-cross-platform-applications/",
+      "description": "Quasar is an open-source Vue.js-based cross-platform framework that allows you, as a developer, to easily build apps for both desktop and mobile using technologies such as Cordova and Electron and writing your code once. The app we’ll build will store and get its data from Firebase, meaning that we will also be seeing how to use Firebase in Quasar.",
+      "publishedAt": "2021-10-23T11:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3da4ae7a-6396-428b-bb01-b51d414a79f7/12-introduction-quasar-framework-cross-platform-applications.JPG"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Martin Grubinger)",
+      "title": "How To Build A Real-Time Multi-User Game From Scratch",
+      "publicURL": "https://smashingmagazine.com/2021/10/real-time-multi-user-game/",
+      "description": "This article highlights the process, technical decisions and lessons learned behind building the real-time game Autowuzzler. Learn how to share game state across multiple clients in real-time with Colyseus, do physics calculations with Matter.js, store data in Supabase.io and build the front-end with SvelteKit.",
+      "publishedAt": "2021-10-22T09:30:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/6252ae01-40e7-48c9-88af-15add0425258/2-real-time-multi-user-game.png"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Michelle Barker)",
+      "title": "Respecting Users’ Motion Preferences",
+      "publicURL": "https://smashingmagazine.com/2021/10/respecting-users-motion-preferences/",
+      "description": "The `prefers-reduced-motion` media query has excellent support in all modern browsers going back a couple of years. In this article, Michelle Barker explains why there’s no reason not to use it today to make your sites more accessible.",
+      "publishedAt": "2021-10-21T10:30:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Ben Holmes)",
+      "title": "Building The SSG I’ve Always Wanted: An 11ty, Vite And JAM Sandwich",
+      "publicURL": "https://smashingmagazine.com/2021/10/building-ssg-11ty-vite-jam-sandwich/",
+      "description": "Back in January 2020, Ben Holmes set out to do what just about every web developer does each year: rebuild his personal site. In this article, he shares his story of how he set out to build his own build pipeline from absolute ground zero and created “Slinkity”.",
+      "publishedAt": "2021-10-20T11:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/1cfcdeb4-7d7f-4261-a55b-8ba45d0a5c02/page-transitions.gif"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Paul Scanlon)",
+      "title": "Building An API With Gatsby Functions",
+      "publicURL": "https://smashingmagazine.com/2021/10/building-api-gatsby-functions/",
+      "description": "In this tutorial, Paul Scanlon explains how to build an API by using Gatsby Functions and what you need to keep in mind when deploying it to Gatsby Cloud.",
+      "publishedAt": "2021-10-19T14:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/2e18d48c-1680-459e-bb3f-b13867984872/10-building-api-gatsby-functions.jpg"
+    },
+    {
+      "creator": "hello@smashingmagazine.com (Drew McLellan)",
+      "title": "Smashing Podcast Episode 42 With Jeff Smith: What Is DevOps?",
+      "publicURL": "https://smashingmagazine.com/2021/10/smashing-podcast-episode-42/",
+      "description": "In this episode, we’re talking about DevOps. What is it, and is it a string to add to your web development bow? Drew McLellan talks to expert Jeff Smith to find out.",
+      "publishedAt": "2021-10-19T10:00:00.000Z",
+      "thumbnail": "https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41f3aaa9-a951-4861-afb0-1645f9d6c26f/jeff-smith-250x250.jpg"
+    }
+  ],
+  "programTitle": "Articles on Smashing Magazine — For Web Designers And Developers",
+  "programImage": "https://www.smashingmagazine.com/images/favicon/app-icon-512x512.png",
+  "programDescription": "Recent content in Articles on Smashing Magazine — For Web Designers And Developers"
+}

@@ -1,0 +1,147 @@
+{
+  "episodes": [
+    {
+      "creator": "Created By Anyone",
+      "title": "Deepwork",
+      "publicURL": "https://pudding.cool/2022/01/deepwork",
+      "description": "A satire about the future of job hunting.",
+      "publishedAt": "2022-01-19T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "The Hidden Risks of Sesame Allergies",
+      "publicURL": "https://pudding.cool/2021/12/sesame",
+      "description": "What we learned from reading the labels of 200 crackers.",
+      "publishedAt": "2021-12-14T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Can Data Die? Tracking the Lenna Image",
+      "publicURL": "https://pudding.cool/2021/10/lenna",
+      "description": "Why one of the internet’s oldest images lives on without its subject’s consent",
+      "publishedAt": "2021-10-29T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "How you play Spades is how you play life",
+      "publicURL": "https://pudding.cool/2021/08/spades",
+      "description": "First-of-its kind data exploration of Spades in the African-American community",
+      "publishedAt": "2021-08-30T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Ranking the Biggest NBA Finals Carry Jobs",
+      "publicURL": "https://pudding.cool/2021/08/nba-carry",
+      "description": "It is mostly LeBron James.",
+      "publishedAt": "2021-08-17T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "A Visual History of Rickrolling",
+      "publicURL": "https://pudding.cool/2021/07/rickrolling",
+      "description": "Millions of comments, posts, and links, charted.",
+      "publishedAt": "2021-07-20T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "“I Kissed A Girl” to “Call Me By Your Name”",
+      "publicURL": "https://pudding.cool/2021/06/same-gender-lyrics",
+      "description": "A story about hearing yourself in same-gender lyrics for the first time",
+      "publishedAt": "2021-06-29T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Help a Computer Win the New Yorker Cartoon Caption Contest",
+      "publicURL": "https://pudding.cool/projects/caption-contest",
+      "description": "This is an experiment to see if an AI program can produce humor.",
+      "publishedAt": "2021-05-26T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "How many artists overshadow their band after going solo?",
+      "publicURL": "https://pudding.cool/2021/04/solo",
+      "description": "What the data say about Beyoncé, Nick Lachey, and others.",
+      "publishedAt": "2021-04-22T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Get out of your geographic music bubble",
+      "publicURL": "https://pudding.cool/2021/04/music-bubble",
+      "description": "The songs that are popular, far away from you.",
+      "publishedAt": "2021-04-08T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "How Science Came Together During COVID-19",
+      "publicURL": "https://pudding.cool/2021/03/covid-science",
+      "description": "A look at the global research effort to combat the coronavirus pandemic.",
+      "publishedAt": "2021-03-31T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "The Naked Truth",
+      "publicURL": "https://pudding.cool/2021/03/foundation-names",
+      "description": "How the names of 6,816 complexion products can reveal bias in beauty.",
+      "publishedAt": "2021-03-25T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Wine & Math: A Model Pairing",
+      "publicURL": "https://pudding.cool/2021/03/wine-model",
+      "description": "We built a model that attempts to predict a wine’s quality.",
+      "publishedAt": "2021-03-18T04:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Nothing Breaks Like A.I. Heart",
+      "publicURL": "https://pudding.cool/2021/03/love-and-ai",
+      "description": "An essay about artificial and emotional intelligence and finding an ending.",
+      "publishedAt": "2021-03-08T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Introducing the Live Music Analyst",
+      "publicURL": "https://pudding.cool/2021/02/jukebox",
+      "description": "An auditory comparison of 770 artists’ live and studio tracks",
+      "publishedAt": "2021-02-08T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Every time someone says cool in Community",
+      "publicURL": "https://pudding.cool/2021/01/cool",
+      "description": "Watch all 412 cools from Abed, and others.",
+      "publishedAt": "2021-01-11T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Oreos and the Art of Crossword Puzzle Construction",
+      "publicURL": "https://pudding.cool/2021/01/oreo",
+      "description": "A chronicle of a controversial cookie and condiment crossword clue.",
+      "publishedAt": "2021-01-05T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "How Bad is Your Streaming Music?",
+      "publicURL": "https://pudding.cool/2021/10/judge-my-music",
+      "description": "Our sophisticated A.I. judges your awful taste in music.",
+      "publishedAt": "2020-12-22T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "The Historical Cost of Light",
+      "publicURL": "https://pudding.cool/2020/12/lighting-cost",
+      "description": "How difficult was it to obtain artificial light before the 19th century? Well...",
+      "publishedAt": "2020-12-18T05:00:00.000Z"
+    },
+    {
+      "creator": "Created By Anyone",
+      "title": "Who’s in the Crossword?",
+      "publicURL": "https://pudding.cool/2020/11/crossword",
+      "description": "A look at representation and inclusivity in crossword puzzles.",
+      "publishedAt": "2020-11-16T05:00:00.000Z"
+    }
+  ],
+  "programTitle": "The Pudding",
+  "programImage": "https://pudding.cool/common/assets/misc/social-facebook.jpg",
+  "programDescription": "The Pudding is an editorial publication that explains ideas debated in culture with visual essays."
+}

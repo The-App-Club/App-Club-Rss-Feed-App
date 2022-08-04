@@ -1,0 +1,167 @@
+{
+  "episodes": [
+    {
+      "creator": "ksec",
+      "title": "A summary of Shopify in 2021 vs. 2019",
+      "publicURL": "https://news.ycombinator.com/item?id=30373044",
+      "description": "Article URL: https://twitter.com/harleyf/status/1493959677251665926\nComments URL: https://news.ycombinator.com/item?id=30373044\nPoints: 1\n# ...",
+      "publishedAt": "2022-02-17T13:57:09.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "ashvardanian",
+      "title": "Unicorns built on top of Chrome, Gmail, Shopify",
+      "publicURL": "https://news.ycombinator.com/item?id=30328188",
+      "description": "Article URL: https://twitter.com/jasonlk/status/1492993234959847429\nComments URL: https://news.ycombinator.com/item?id=30328188\nPoints: 6\n# ...",
+      "publishedAt": "2022-02-14T03:51:58.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "heshiebee",
+      "title": "Shopify for Digital Health?",
+      "publicURL": "https://news.ycombinator.com/item?id=30318674",
+      "description": "Article URL: https://www.healthtechstack.io/p/shopify-for-digital-health\nComments URL: https://news.ycombinator.com/item?id=30318674\nPoints:...",
+      "publishedAt": "2022-02-13T02:51:52.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "ksec",
+      "title": "Cloud, Load, and Modular Code: What 2022 Looks Like for Shopify",
+      "publicURL": "https://news.ycombinator.com/item?id=30305884",
+      "description": "Article URL: https://shopify.engineering/cloud-load-modular-code-shopify-2022\nComments URL: https://news.ycombinator.com/item?id=30305884\nPo...",
+      "publishedAt": "2022-02-11T19:23:01.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "simranjitk",
+      "title": "Enhancing Local Delivery Using Shopify",
+      "publicURL": "https://news.ycombinator.com/item?id=30295029",
+      "description": "DeliveryAssist will make you and your customers happier when it comes to setting local delivery costs. Shopify only allows you to set 5 deli...",
+      "publishedAt": "2022-02-11T00:27:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "robodobo",
+      "title": "Shopify: The Entrepreneur's Platform",
+      "publicURL": "https://news.ycombinator.com/item?id=30246754",
+      "description": "Article URL: https://www.apifirst.tech/p/shopify-the-entrepreneurs-platform\nComments URL: https://news.ycombinator.com/item?id=30246754\nPoin...",
+      "publishedAt": "2022-02-07T16:12:42.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "smohnot",
+      "title": "Flexport valued at $8B, A16Z and Shopify invest",
+      "publicURL": "https://news.ycombinator.com/item?id=30245469",
+      "description": "Article URL: https://www.forbes.com/sites/alexkonrad/2022/02/07/flexport-is-silicon-valleys-solution-to-the-supply-chain-mess-why-do-insider...",
+      "publishedAt": "2022-02-07T14:41:40.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "joshcsimmons",
+      "title": "I Quit Shopify After Five Months",
+      "publicURL": "https://news.ycombinator.com/item?id=30245441",
+      "description": "Article URL: https://www.joshcsimmons.com/posts/why-i-quit-shopify\nComments URL: https://news.ycombinator.com/item?id=30245441\nPoints: 297\n#...",
+      "publishedAt": "2022-02-07T14:39:25.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "mooreds",
+      "title": "I have over 500 commits in Rails and I failed the Shopify coding interview",
+      "publicURL": "https://news.ycombinator.com/item?id=30234499",
+      "description": "Article URL: https://twitter.com/drogus/status/1490045261997035521\nComments URL: https://news.ycombinator.com/item?id=30234499\nPoints: 47\n# ...",
+      "publishedAt": "2022-02-06T17:16:25.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "gmays",
+      "title": "CMS, Commerce Churn Data Shows WordPress Maintaining Lead, Shopify Gaining",
+      "publicURL": "https://news.ycombinator.com/item?id=30216781",
+      "description": "Article URL: https://wptavern.com/cms-and-e-commerce-churn-data-shows-wordpress-maintaining-market-lead-shopify-gaining-on-woocommerce\nComme...",
+      "publishedAt": "2022-02-05T03:15:32.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "mooreds",
+      "title": "The Shopify Entrepreneurial Developer",
+      "publicURL": "https://news.ycombinator.com/item?id=30196775",
+      "description": "Article URL: https://blog.almaer.com/the-shopify-entrepreneurial-developer-from-hello-world-to-ipo/\nComments URL: https://news.ycombinator.c...",
+      "publishedAt": "2022-02-03T18:46:46.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "steelstraw",
+      "title": "CEO of Shopify to Join Coinbase Board of Directors",
+      "publicURL": "https://news.ycombinator.com/item?id=30157300",
+      "description": "Article URL: https://blog.coinbase.com/tobias-l%C3%BCtke-ceo-of-shopify-to-join-coinbase-board-of-directors-242fa9935c71?gi=20d8eb546bd\nComm...",
+      "publishedAt": "2022-02-01T01:06:55.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "mulkave",
+      "title": "Upgrading MySQL at Shopify",
+      "publicURL": "https://news.ycombinator.com/item?id=29980590",
+      "description": "Article URL: https://shopify.engineering/upgrading-mysql-shopify\nComments URL: https://news.ycombinator.com/item?id=29980590\nPoints: 3\n# Com...",
+      "publishedAt": "2022-01-18T15:29:30.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "sebrindom",
+      "title": "Migrate from Shopify to an open-source headless commerce engine",
+      "publicURL": "https://news.ycombinator.com/item?id=29968087",
+      "description": "Article URL: https://www.medusajs.com/post/migrating-from-shopify\nComments URL: https://news.ycombinator.com/item?id=29968087\nPoints: 1\n# Co...",
+      "publishedAt": "2022-01-17T16:17:10.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "softwaredoug",
+      "title": "Search at Shopify–Data and Engineering Is the Future",
+      "publicURL": "https://news.ycombinator.com/item?id=29937403",
+      "description": "Article URL: https://shopify.engineering/search-at-shopify\nComments URL: https://news.ycombinator.com/item?id=29937403\nPoints: 5\n# Comments:...",
+      "publishedAt": "2022-01-14T17:37:33.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "bariumbitmap",
+      "title": "How does Shopify know my contact and credit card information (2019)",
+      "publicURL": "https://news.ycombinator.com/item?id=29916691",
+      "description": "Article URL: https://community.shopify.com/c/shopify-discussions/how-does-shopify-know-my-contact-and-credit-card-information-if/td-p/451517...",
+      "publishedAt": "2022-01-13T03:59:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "fagnerbrack",
+      "title": "Shopify Stores Are Down",
+      "publicURL": "https://news.ycombinator.com/item?id=29900187",
+      "description": "Article URL: https://www.shopify.com\nComments URL: https://news.ycombinator.com/item?id=29900187\nPoints: 1\n# Comments: 0",
+      "publishedAt": "2022-01-11T23:52:23.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "savrajsingh",
+      "title": "Shopify Down",
+      "publicURL": "https://news.ycombinator.com/item?id=29899921",
+      "description": "Article URL: https://www.shopifystatus.com/\nComments URL: https://news.ycombinator.com/item?id=29899921\nPoints: 7\n# Comments: 1",
+      "publishedAt": "2022-01-11T23:23:54.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "soroushjp",
+      "title": "How Shopify Outfoxed Amazon to Become the Everywhere Store",
+      "publicURL": "https://news.ycombinator.com/item?id=29804999",
+      "description": "Article URL: https://www.bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-bo...",
+      "publishedAt": "2022-01-05T04:05:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "conanxin",
+      "title": "Shopify Outfoxed Amazon to Become the Everywhere Store",
+      "publicURL": "https://news.ycombinator.com/item?id=29795664",
+      "description": "Article URL: https://www.bloomberg.com/news/features/2021-12-23/shopify-amazon-retail-rivalry-heats-up-with-covid-sparked-online-shopping-bo...",
+      "publishedAt": "2022-01-04T15:20:25.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "Hacker News - Newest: \"shopify\"",
+  "programImage": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+  "programDescription": "Hacker News RSS"
+}

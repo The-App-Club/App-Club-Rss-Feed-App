@@ -1,0 +1,282 @@
+{
+  "episodes": [
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.10 Released",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-10/",
+      "description": "Highlights:\t\tScrollSmoother plugin for delicious, buttery-smooth scrolling the leverages native scroll. 💚\t\t\t\tObserver plugin that g...",
+      "publishedAt": "2022-03-31T08:04:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2022_03/3-10-thumb.png.8be8645c342f2b0da1089e03e2c1053e.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "CodeSandbox Challenges 🏆",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/codesandbox/",
+      "description": "Are you familiar with CodeSandbox? \tIf not, you should check it out! It's a super powerful online code editor and prototyping tool that ...",
+      "publishedAt": "2022-03-30T12:13:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2022_03/thumbnail.png.1a3ecbe768483943ff34d1c1ae32aeec.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.9 Released",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-9/",
+      "description": "See the Pen box by GreenSock (@GreenSock) on CodePen. \tHighlights:\t\tFlip Plugin is no longer for members-only! - consider it an ear...",
+      "publishedAt": "2021-12-16T10:19:45.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_11/3-9.png.9fc8ca89760a8dd7e4e6c4257f2f585e.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Understanding GSAP Keyframes",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/understanding-keyframes/",
+      "description": "If you find yourself writing multiple tweens to animate one target, it may be time to reach for keyframes. Keyframes are a great way to move...",
+      "publishedAt": "2021-12-16T10:19:16.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_11/understanding-keyframes.png.17b13e51aa65c873057f307dc4d08202.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "CodePen Challenges 2021",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/cpc-2021/",
+      "description": ".cCmsCategoryFeaturedEntry .cBlackContent a { text-decoration: none; }\t\r.cCmsCategoryFeaturedEntry .cBlackContent h3.ipsPos_right { text-al...",
+      "publishedAt": "2021-12-13T16:58:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_12/challenges-2021.png.4193a9b61c22385a53d18c5b257a1351.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.8 Released",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-8/",
+      "description": "GSAP 3.8 is here, and it's packed to the brim with ScrollTrigger improvements! \tHighlights:\t\tcontainerAnimation - vertical scrollin...",
+      "publishedAt": "2021-09-27T10:29:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_09/3.8.png.d66a9c93ae8b3ab05044514354134ea5.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP + React, Advanced Animation Techniques.",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/react-advanced/",
+      "description": "Are you working with React and looking to really advance your GSAP animation skills? You're in the right place. This guide contains advanced...",
+      "publishedAt": "2021-08-17T16:10:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_08/gsap-react-advanced-colorflare.gif.gif.9d3fa2da7ea3b9697f3f21c2b709b71c.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP + React, First Steps & Handy Techniques.",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/react/",
+      "description": "React is a hugely popular library choice, and as evidenced by many of the sites in our showcase - React and GSAP can be a powerful combinati...",
+      "publishedAt": "2021-08-17T16:09:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_08/gsap-react-colorflare.gif.9761663d78a4b6dcd0107a397d3d8a41.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.7 Released",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-7/",
+      "description": "GSAP 3.7 is here!\tHere are some of our favorite bits... \t\tPercentage based position parameter options for timelines\t\t\t\tBetter su...",
+      "publishedAt": "2021-06-09T16:52:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_06/667942934_Artboard2_1-8.png.c82ff1baf92bd1ab346883d31e9d5b2e.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "immediateRender demystified",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/immediaterender/",
+      "description": "The immediateRender property of from() and fromTo() tweens is one of those things you only find out about when it gives you unexpected resul...",
+      "publishedAt": "2021-06-03T15:57:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_06/immediateRender.jpg.b6f50c6cfff0a028a3863b1596a65af8.jpg"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Going “Meta GSAP”: The Quest for “Perfect” Infinite Scrolling",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/going-%E2%80%9Cmeta-gsap%E2%80%9D-the-quest-for-%E2%80%9Cperfect%E2%80%9D-infinite-scrolling/",
+      "description": "https://css-tricks.com/going-meta-gsap-the-quest-for-perfect-infinite-scrolling/",
+      "publishedAt": "2021-05-26T16:05:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_05/Screenshot-2021-05-26-at-16_58_32.gif.1145fc3f892700229a18be8608616ff5.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Dynamic CSS Masks with Custom Properties and GSAP",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/dynamic-css-masks-with-custom-properties-and-gsap/",
+      "description": "https://tympanus.net/codrops/2021/05/04/dynamic-css-masks-with-custom-properties-and-gsap/",
+      "publishedAt": "2021-05-06T15:17:13.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_05/mask.jpg.a70554833d1303600255c4302764e7c0.jpg"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Handling conflicting tweens",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/conflict/",
+      "description": "Have you ever been in a situation with GSAP where you needed a higher level of control over conflicting tweens? If you’re just creating line...",
+      "publishedAt": "2021-02-18T22:26:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_02/overwrite-thumb.gif.ecf604d21a263abb8986b0467a6da1cb.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Using ScrollTrigger in React",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/using-scrolltrigger-in-react/",
+      "description": "https://edidiongasikpo.com/using-gsap-scrolltrigger-plugin-in-react",
+      "publishedAt": "2021-02-01T18:15:46.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_02/302484148_scrolltrigger-react-thumb(1).gif.c741d9de85475900112bba18dde33cee.gif.76db76e0dc60b32c3ac86386f0642eb4.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.6 Released - Introducing Flip Plugin",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-6/",
+      "description": "Introducing Flip Plugin\tFlip Plugin lets you seamlessly transition between two states even if there are sweeping changes to the structur...",
+      "publishedAt": "2020-10-21T16:19:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2021_01/gsap-3-6-thumb.gif.a22ee6e98df2fab51eebf72b69e86474.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Animating React Components With GSAP",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/animating-react-components-with-gsap/",
+      "description": "GSAP works great with React and other frameworks. Learn how to integrate the two by building an example landing page with a variety of anima...",
+      "publishedAt": "2020-09-18T13:13:59.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_09/animating-react-components-greensock.gif.8af67f9a23ce272efa686600958fa5c3.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Most Common ScrollTrigger Mistakes",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/st-mistakes/",
+      "description": "Are you guilty of any of the most common mistakes people make in their ScrollTrigger code? \t\tNesting ScrollTriggers inside multiple tim...",
+      "publishedAt": "2020-09-10T19:02:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_09/scrolltrigger-mistakes-thumb.gif.7650483e583ca40ca167a220ff8849d6.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Rethinking Kilobytes",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/size/",
+      "description": "Conventional wisdom says that kilobytes have a direct impact on load times and consequently user experience. Too many developers, however, m...",
+      "publishedAt": "2020-09-09T22:31:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_09/rethinking-kilobytes-thumb.gif.326e770ad33d47918083a5684d9f844c.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Practical GreenSock Course",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/practical-greensock-course/",
+      "description": "Learn how to build 3 interactive projects using GSAP 3, JavaScript, and ScrollTrigger: Practical GreenSock.",
+      "publishedAt": "2020-08-20T19:10:56.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_08/1427516680_practical-greensock-thumb(1).gif.7abd39e03f36e5dc841eecbd0e68ff0b.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "How to get GSAP Auto-completion and Hinting",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/hinting/",
+      "description": "\"What was that method name again?\"   \"Is the 2nd parameter supposed to be a number or a boolean?\"  \tEven seasoned GSAP users need reminders...",
+      "publishedAt": "2020-08-05T13:54:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_08/hinting.gif.a771ada50f00ad1ec2ff7bcdde21d384.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "GSAP 3.4 Released",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/3-4/",
+      "description": "GSAP 3.4 has arrived with some significant improvements to ScrollTrigger like: \t\tAccommodating different setups for various screen size...",
+      "publishedAt": "2020-07-13T15:44:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_07/gsap-3-4-thumbnail.png.b677664668ac65471530d05e2f50e687.png"
+    },
+    {
+      "creator": "by anyone",
+      "title": "ScrollTrigger Express",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/scrolltrigger-express/",
+      "description": "Learn to control your animations on scroll with GreenSock's powerful ScrollTrigger in this mini-course by SnorklTV.",
+      "publishedAt": "2020-07-10T20:51:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_08/scrolltrigger-course-thumb-not-free.gif.894b7f62833a46271b79fa12f8b8607a.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Motion Tricks",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/motion-tricks/",
+      "description": "Ready to get your pixels movin'? Motion Tricks is home to web animation tutorials with an emphasis on real world projects powered by GSAP.",
+      "publishedAt": "2020-07-07T19:34:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_07/GreenSockMotionTricksLearning.gif.93085ce5e1694993a982f4486c3076c7.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Most Common GSAP Mistakes",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/mistakes/",
+      "description": "With over 100,000 posts in the popular GreenSock forums, we've noticed some common mistakes that you'd be wise to avoid. We threw in a few t...",
+      "publishedAt": "2020-07-02T18:17:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_06/mistakes-thumb-2.gif.bd57e220f40ab9667b84db7a3d648a3c.gif"
+    },
+    {
+      "creator": "by anyone",
+      "title": "Learn GSAP in 23 Minutes",
+      "categories": [
+        "gsap"
+      ],
+      "publicURL": "https://greensock.com/learn-gsap-in-23-minutes/",
+      "description": "",
+      "publishedAt": "2020-06-30T19:49:00.000Z",
+      "thumbnail": "https://greensock.com/uploads/monthly_2020_06/maxresdefault.gif.a1d1b1113478700056181fdcadc3be48.gif"
+    }
+  ],
+  "programTitle": "Blogs",
+  "programImage": "https://res.cloudinary.com/cpress/image/upload/v1602675575/hhmdxfk96fnbq3effjk1.png",
+  "programDescription": "RSS feed of all blog posts"
+}

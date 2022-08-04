@@ -1,0 +1,167 @@
+{
+  "episodes": [
+    {
+      "creator": "ぼ寿司",
+      "title": "スプレッドシートを使ったCMSプラットフォームを作った",
+      "publicURL": "https://zenn.dev/bosushi/articles/84673facc02ae4",
+      "description": "Googleのspreadsheetを使ったHeadress CMSプラットフォームと、そこで作成したコンテンツをプロダクトに落とし込むためのnpmを開発しました🎉\n\n作成画面\n👆作成画面はこんな感じで下の黒いボタンを押すとそれに紐づいたデータを入力できるようになります。\n\nコンテンツ作成\n👆こんな感じでテキストはもちろんリッチエディターを使った記事作成やJSONデータを扱うこともできるので柔軟なコンテンツ作成が可能です\nnpmは既にOSS化しておりいつでも使っていただけます👏\nプラットフォームのサービス名は「Grid CMS」でパッケージ名は「grid-cms-sdk」です。\nhttp...",
+      "publishedAt": "2021-12-19T02:11:40.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--xBJizzOb--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25BC%25E5%25AF%25BF%25E5%258F%25B8%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2583%2589%25E3%2582%25B7%25E3%2583%25BC%25E3%2583%2588%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259FCMS%25E3%2583%2597%25E3%2583%25A9%25E3%2583%2583%25E3%2583%2588%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25A0%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hHdDlwT2JkbDlIcktHWmI0Wlc5V09FS3N1RnVYR3pmQ2dJcUJKYlE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "▲",
+      "title": "Firebase Cloud Functionsでwebhookを使ってSlackに投稿する",
+      "publicURL": "https://zenn.dev/misumith/articles/56e03c77ad624a",
+      "description": "Cloud Functionsでwebhookを使って、slackに投稿するメモ。\n\n Slackの設定\n\n Slack Appを作る\nまずは以下のURLからSlack Appを作ります。名前と追加したいSlackのスペースを選択します。\nhttps://api.slack.com/apps\n\n\n Incoming Webhooksを有効化する\nSlack Appを作った後の画面にある「Add features and functionality」の中の「Incoming Webhooks」を選択。\n\nActivate Incoming Webhooksを「On」にします。\n\n\n Web...",
+      "publishedAt": "2021-12-19T01:25:26.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--IfpOaMI5--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E2%2596%25B2%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Firebase%2520Cloud%2520Functions%25E3%2581%25A7webhook%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6Slack%25E3%2581%25AB%25E6%258A%2595%25E7%25A8%25BF%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2oxazBJYWtFWjRGRzZJQkVlNWp1V1B6V3JGZnAxSVhMMVIyLWU0M3c9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "おみ",
+      "title": "Flutter: FirestoreでwhereとorderByを同時に実行したい",
+      "publicURL": "https://zenn.dev/moimoi_prog/articles/72c3f5e99bd0f9",
+      "description": "Firebaseで下記のような複数のフィールドに対してwhereやorderByを行うクエリ(複合クエリ)を投げる場合、複合インデックスを作成していないといけません。\nFirebaseFirestore.instance\n  .collection(\"post\")\n  .where(\"uid\", isEqualTo: user.uid)\n  .orderBy(\"timestamp\", descending: true)\n  .snapshots()\n複合インデックスは、Firestoreの設定画面で簡単に作成できます。\n早速やってみましょう！\n\n 複合インデックスの追加画面を開く\nfir...",
+      "publishedAt": "2021-12-18T11:18:03.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--KqE4NrrR--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%258A%25E3%2581%25BF%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Flutter%253A%2520Firestore%25E3%2581%25A7where%25E3%2581%25A8orderBy%25E3%2582%2592%25E5%2590%258C%25E6%2599%2582%25E3%2581%25AB%25E5%25AE%259F%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hRQ3R2c0M3ZDNHVVZlVTlTeXplcC1CaGJaTEpLdmc0Qll6N3R5ZkE9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "石井大雅",
+      "title": "Firebaseを使った大量ドキュメントの処理実現について",
+      "publicURL": "https://zenn.dev/shichisan/articles/05b4f590667e6c",
+      "description": "この記事は Goodpatch Advent Calendar の18日目の記事です。\n\n はじめに\nGoodpatch で自社プロダクトを開発している石井です。\n今回は Goodpatch が提供しているオンラインホワイトボード「Strap」のボード複製機能について、 Firebase を利用してどのように実現したのか記載しています。\nStrapのバックエンドにFirebaseを選定した理由に関しては、弊チームのバックエンドエンジニアである、やっはーさんの記事を御覧ください。\nhttps://goodpatch-tech.hatenablog.com/entry/2021/12/13/...",
+      "publishedAt": "2021-12-18T02:47:41.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s---iIUB1Gj--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E7%259F%25B3%25E4%25BA%2595%25E5%25A4%25A7%25E9%259B%2585%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Firebase%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%259F%25E5%25A4%25A7%25E9%2587%258F%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E5%2587%25A6%25E7%2590%2586%25E5%25AE%259F%25E7%258F%25BE%25E3%2581%25AB%25E3%2581%25A4%25E3%2581%2584%25E3%2581%25A6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2psajBZNTR2aGZ0NmhBTGZ2WVRleW0zc1AwRVlZVXdUNEVOaDVTS2c9czgwLWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "knaka Tech-Blog",
+      "title": "firebase v9 Authentication の変更で、苦戦したメモ",
+      "publicURL": "https://zenn.dev/knaka0209/articles/9472e94612a6f0",
+      "description": "概要:\nfirebase v9の変更で、旧版認証コードのエラー発生し、修正難航したメモとなります。\n\n今回は、typescriptです\n\n\n\n 構成\n\nFirebase\nreact\n\n\n\n 参考のぺージ\nhttps://firebase.google.com/docs/auth/web/start?hl=ja\n\n\nユーザー登録\n\nhttps://gist.github.com/kuc-arc-f/076db83ad05d1e6a8a32451c3d6e7769\n\n\nfirebase読込, firebase.ts\n\n\nfirebase.auth() と書くとエラー、getAuth() ...",
+      "publishedAt": "2021-12-18T00:04:30.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--XFTWu29_--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:knaka%2520Tech-Blog%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:firebase%2520v9%2520Authentication%2520%25E3%2581%25AE%25E5%25A4%2589%25E6%259B%25B4%25E3%2581%25A7%25E3%2580%2581%25E8%258B%25A6%25E6%2588%25A6%25E3%2581%2597%25E3%2581%259F%25E3%2583%25A1%25E3%2583%25A2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2owZG5pNFJFRHhHSGxQMkJMVGgtMzNaV2hoSjI5RVIxOG14d3FFV2c9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "stafes",
+      "title": "ReactNative+FCMでiOSに画像をpush通知するときのつまづきポイント",
+      "publicURL": "https://zenn.dev/stafes/articles/rn-fcm-ios-image",
+      "description": "この記事はスターフェスティバル Advent Calendar 2021の17日目です。 We're hiring!\n--\nこんにちは、スターフェスティバル エンジニアのsoriです。Advent Calendarの他の記事では個人ブログにて掲載していましたが、今回の記事は社Zennアカウントから投稿してみます。\n今回は、React Native環境でFirebase Cloud Messaging(以下FCM)にて、画像付きのPush notificationを送りたい場合につまづいた点を、備忘録ついでにご紹介したいと思います。\nなお、前提としてReact Native Firebas...",
+      "publishedAt": "2021-12-16T15:14:53.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--FDI3Hr-4--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:stafes%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:ReactNative%252BFCM%25E3%2581%25A7iOS%25E3%2581%25AB%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592push%25E9%2580%259A%25E7%259F%25A5%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A8%25E3%2581%258D%25E3%2581%25AE%25E3%2581%25A4%25E3%2581%25BE%25E3%2581%25A5%25E3%2581%258D%25E3%2583%259D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1mdXdWNmtOMC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EyMTk0MTRjYWQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "hibimosaku",
+      "title": "sendgridとfirebase cloud functionsでメール作成",
+      "publicURL": "https://zenn.dev/hibimosaku/articles/2d2fd9934f9113",
+      "description": "メール送信の一例を投稿しました。\n以下パターンを作成しました。\n順番は簡単にできる順です。\n\nhttpリクエストよりメール受信\n問い合わせフォームからのメール受信\nメール文をテンプレート化してメール受信\n自動返信\n\n\n 前提\n\n 環境\n\nnode\nfirebase cloud functions\nsendGrid\naxios\nvue3\n\n\n 準備\n\n環境構築は割愛\nsendgridはログインできること\nfirebase cloud functionsはhttpリクエストが出来る状態であること\n\n\n 内容\n\n httpリクエストよりメール受信\n1.sendgridより、apiKey取得\n\n...",
+      "publishedAt": "2021-12-16T00:51:26.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--YWDctbe1--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:hibimosaku%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:sendgrid%25E3%2581%25A8firebase%2520cloud%2520functions%25E3%2581%25A7%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E4%25BD%259C%25E6%2588%2590%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1CWTh2QUFqTC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzEzZTI4ODA2YzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "Gesu",
+      "title": "肥大化しがちなFirebase Cloud Functionsのファイルを整理する",
+      "publicURL": "https://zenn.dev/gesupher/articles/07d76682a13b72",
+      "description": "肥大化するindex.js\ncloud functionsの処理をfunctions/index.jsに書き込んでいくと、いつの間にか膨大なサイズになっていることがあります。これらを整理して管理コストを下げたい。\n\n グループ関数\n公式のドキュメントにもあるとおり、グループ関数を使うと機能ごとにfunctionsをまとめられデプロイも容易になります。\n\n      \n        functions/index.js\n        exports.user = require('./user')\nexports.post = require('./post')\n\n\n      \n...",
+      "publishedAt": "2021-12-14T05:46:11.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--oQTm6I9K--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Gesu%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:%25E8%2582%25A5%25E5%25A4%25A7%25E5%258C%2596%25E3%2581%2597%25E3%2581%258C%25E3%2581%25A1%25E3%2581%25AAFirebase%2520Cloud%2520Functions%25E3%2581%25AE%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A4%25E3%2583%25AB%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pwSU1oZmJwSWN5a1JVY0JZeUVSYUlmSi1jRFFyUWNWcHdtSUUwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "Gesu",
+      "title": "Firebase WebSDK ver.9 でのFirestoreのクエリ例",
+      "publicURL": "https://zenn.dev/gesupher/articles/481b40e4f80896",
+      "description": "Firebase webSDK バージョン9では機能ごとのモジュール化が進み、必要な機能だけをインポートすることが可能になりました。\nこれによって私の環境ではver8のコードと比べてコンパイル時のファイルサイズを半分程度に減らすことができたので、アプリの高速化が期待できます。\nバージョン8からのアップグレードについては公式ドキュメントがあるので参考にして更新するといいでしょう。\n今回はver.9で記述方法の変わったFirestoreのクエリについて簡単にまとめます。\n\n      \n        \n        import { initializeApp } from 'fireb...",
+      "publishedAt": "2021-12-13T09:52:36.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--gRixqWki--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Gesu%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Firebase%2520WebSDK%2520ver.9%2520%25E3%2581%25A7%25E3%2581%25AEFirestore%25E3%2581%25AE%25E3%2582%25AF%25E3%2582%25A8%25E3%2583%25AA%25E4%25BE%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pwSU1oZmJwSWN5a1JVY0JZeUVSYUlmSi1jRFFyUWNWcHdtSUUwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "naoki-haba",
+      "title": "React+FireBase初心者の備忘録 < デプロイまで>",
+      "publicURL": "https://zenn.dev/naonao70/articles/befb30ac14af69",
+      "description": "概要\nりあクト！ Firebaseで始めるサーバーレスReact開発の備忘録です\nhttps://booth.pm/ja/items/1572683\n\n 基本環境を作成\nhttps://qiita.com/rinpa/items/81766cd6a7b23dea9f3c\n\n      \n        bash\n        # 様々な **env 系ツールをまとめて管理する\nbrew install anyenv\n\n# 初期設定\necho 'eval \"$(anyenv init -)\"' >> ~/.zshrc\n\n# シェルを再起動\nexec $SHELL -l\n\n...",
+      "publishedAt": "2021-12-12T14:58:14.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--JkzuhqGZ--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:naoki-haba%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:React%252BFireBase%25E5%2588%259D%25E5%25BF%2583%25E8%2580%2585%25E3%2581%25AE%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2520%253C%2520%25E3%2583%2587%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25A4%25E3%2581%25BE%25E3%2581%25A7%253E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1fdktaYTJhUC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I2NzNkMWMwODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "naoki-haba",
+      "title": "firebase initで403エラーが出たので解消した話",
+      "publicURL": "https://zenn.dev/naonao70/articles/42f3e1d7e24d88",
+      "description": "概要\nFirebase initをすると403エラーが出た時の対応方法を残します\n\n      \n        bash\n        HTTP Error: 403, Project 'xxxx' not found or permission denied.\n\n\n      \n      \n やり方\n\n Firebaseのプロジェクト一覧を表示\n表示されているプロジェクトIDが現在のプロジェクトIDと異なっていることが原因\n\n      \n        bash\n        firebase projects:list\n\n```bash:bash\nfirebase pr...",
+      "publishedAt": "2021-12-12T14:38:04.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--n9XpdF-l--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:naoki-haba%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:firebase%2520init%25E3%2581%25A7403%25E3%2582%25A8%25E3%2583%25A9%25E3%2583%25BC%25E3%2581%258C%25E5%2587%25BA%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B6%2588%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1fdktaYTJhUC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2I2NzNkMWMwODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "Hiroto",
+      "title": "Next.js の API で firestore と エミュレータを使って開発する方法",
+      "publicURL": "https://zenn.dev/hasehiro0828/articles/ff696aa68ba853",
+      "description": "はじめに\nNext.js の API routes で firestore(firebase-admin) と Firestore Emulator を使用して開発をする方法について書きます。\nhttps://zenn.dev/hasehiro0828/articles/8a5212198840cd\nこちらに記述してる内容も前提になってるので、よろしければこちらもご参照ください。\n\n 準備\n\n firebase CLI のインストールと init\nhttps://firebase.google.com/docs/emulator-suite/connect_and_prototype...",
+      "publishedAt": "2021-12-12T11:07:21.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--FQcWcDmb--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Hiroto%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_65_bold:Next.js%2520%25E3%2581%25AE%2520API%2520%25E3%2581%25A7%2520firestore%2520%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%259F%25E3%2583%25A5%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2599%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1GZUQ1SXBiWC0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2JjNTRmOTVlNGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "manycicadas",
+      "title": "[PWA ( React + TypeScript )] 死んだ金魚を追悼するためのサイトを作った備忘録",
+      "publicURL": "https://zenn.dev/manycicadas/articles/2cd702ab45164d",
+      "description": "はじめに\n＊PWA（Progressive Web Apps） Advent Calendar 2021用の記事です\n今年の悲しい出来事としては、飼っていた金魚が死んでしまいました・・・。\n名前はベルちゃんで、とても可愛かったです😢\n「ベルちゃんの追悼サイトを作って、いつでも手を合わせられるようにしよう！」と思ってサイトを作りました。\nサイト自体は以下になります。\nBel-chan's grave\nただ、このサイトを作ったのはもう何ヶ月も前で、もう何やったか忘れてしまいました…。\n無駄にプッシュ通知をつけたことは覚えています。\n今コードを見返しても何やってるか思い出せないかもしれませ...",
+      "publishedAt": "2021-12-12T00:49:01.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--_QagxHfz--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:manycicadas%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:%255BPWA%2520%2528%2520React%2520%252B%2520TypeScript%2520%2529%255D%2520%25E6%25AD%25BB%25E3%2582%2593%25E3%2581%25A0%25E9%2587%2591%25E9%25AD%259A%25E3%2582%2592%25E8%25BF%25BD%25E6%2582%25BC%25E3%2581%2599%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AE%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2p2cFc4RVc3QlA2ZUc3V0NoQTdyRUpCcDdKaFNJbnk2ZEJ5eGpZUnc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "Gesu",
+      "title": "Next.js + Vercel でSPAの動的OGPに対応する",
+      "publicURL": "https://zenn.dev/gesupher/articles/916e24e8e63ff0",
+      "description": "結論\nNext.js + VercelでISRを使う。\nこの結論に至るまで試行錯誤したので、その過程も含めて記事にします。\n\n 環境\nReact + Firebase\n\n 前提: SPAと動的OGP\nSPAとFirebaseのデータベースサービスであるFirestoreの相性が非常にいいので最近よく使っているのですが、動的OGPに対応するには工夫が必要です。\nOGPは現在では主にTwitter/Facebook等のSNSでシェアされた際の拡散を目的に、タイトルや概要・アイキャッチ画像を設定されています。\n問題はTwitter/FacebookのクローラーがOGPを読み込む際、java...",
+      "publishedAt": "2021-12-11T10:39:23.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--bhhzxUPF--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Gesu%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Next.js%2520%252B%2520Vercel%2520%25E3%2581%25A7SPA%25E3%2581%25AE%25E5%258B%2595%25E7%259A%2584OGP%25E3%2581%25AB%25E5%25AF%25BE%25E5%25BF%259C%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pwSU1oZmJwSWN5a1JVY0JZeUVSYUlmSi1jRFFyUWNWcHdtSUUwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "stray dog",
+      "title": "Firebase SDKでのトラブルシューティング【Javascript】",
+      "publicURL": "https://zenn.dev/straydog/articles/7f0bed8f027ec6cc0824",
+      "description": "はじめに\n以下のようなエラーで躓いたため、備忘録。\n\n      \n        \n        \"export 'default' (imported as 'firebase') was not found in 'firebase/app'\n\n\n      \n      調べた感じだと、3種類の方法でimport方法が記載されており、それぞれversionが原因でした。ここで記載するのは2021年11月現在における情報です。この感じからすると、定期的なアップデートによってやり方がよく変わるようなので、今後このことを念頭に使用した方が良いと考えます。\n\n サンプルコード\nサン...",
+      "publishedAt": "2021-12-10T06:23:09.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--bMEWCpL6--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:stray%2520dog%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Firebase%2520SDK%25E3%2581%25A7%25E3%2581%25AE%25E3%2583%2588%25E3%2583%25A9%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25B7%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25B3%25E3%2582%25B0%25E3%2580%2590Javascript%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "stray dog",
+      "title": "Firebase Cloud Messagingを利用【プッシュ通知】",
+      "publicURL": "https://zenn.dev/straydog/articles/494c63cfbc7bf0b88d19",
+      "description": "概要\nここ2年の間に書き方が少し変わっているようなので、その備忘録。\nここでいう、「プッシュ通知」はリモートプッシュ通知を指します。広義では「お知らせを表示する」くらいの温度感ですが、ここでは別のマシンからのメッセージを受け取り、それを表示するといったくらいに思ってください。\n\n 初期化\nFirebaseの「プロジェクトの設定」->「全般」の下の方に「アプリの追加」があるので、追加する。\n\n\n      \n        \n        // firebase.js\nimport { initializeApp } from \"firebase/app\";\nimport { ...",
+      "publishedAt": "2021-12-10T06:23:08.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--GifXwa7o--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:stray%2520dog%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Firebase%2520Cloud%2520Messaging%25E3%2582%2592%25E5%2588%25A9%25E7%2594%25A8%25E3%2580%2590%25E3%2583%2597%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E9%2580%259A%25E7%259F%25A5%25E3%2580%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2Rhcmsvcy5zdmc=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "Gesu",
+      "title": "Google Transcoder APIを使って動画のサムネイル画像を生成する",
+      "publicURL": "https://zenn.dev/gesupher/articles/f6b9d3b6a6c141",
+      "description": "前回に引き続きGoogle Transcode APIについて。今回はスプライトシートを生成する機能を使ったサムネイル画像の抽出についてです。\n\n スプライトシート\nGoogle Transcode APIには動画をトランスコードする際にスプライトシートを作成する機能が備わっています。動画のプレビュー用の画像として使われることが多いですが、パラメータをいじれば動画サムネイルの作成にも使えます。ドキュメントはここ\n\nスプライトシートのサンプル\nコードは非常にシンプルで、トランスコードする際にスプライトシートを生成する設定を追加するだけです。\n\n      \n        \n       ...",
+      "publishedAt": "2021-12-10T00:33:32.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--Sf0yYRf7--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:Gesu%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Google%2520Transcoder%2520API%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E5%258B%2595%25E7%2594%25BB%25E3%2581%25AE%25E3%2582%25B5%25E3%2583%25A0%25E3%2583%258D%25E3%2582%25A4%25E3%2583%25AB%25E7%2594%25BB%25E5%2583%258F%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pwSU1oZmJwSWN5a1JVY0JZeUVSYUlmSi1jRFFyUWNWcHdtSUUwPXM5Ni1j%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "niwatty",
+      "title": "Firebase Analyticsのアナリティクスデータに開発機からのイベントが反映されないようにする",
+      "publicURL": "https://zenn.dev/niwatty/articles/c36b23afa3a23b",
+      "description": "開発機（Android実機、Androidエミュレーター）から操作したイベントデータがFirebase Analyticsに記録されてしまうと、一般ユーザーのイベントと開発者のイベントが入り混じってしまい、分析しづらくなってしまいます。\nそこで、 Firebase Analytics のデバッグモードを実機、エミュレーター上で有効にしておくことで、アナリティクスデータに反映されないようにできます。\nデバッグモードは以下のようなコマンドをターミナルから実行することで有効になります。\n\n      \n        \n        adb shell setprop debug.fireb...",
+      "publishedAt": "2021-12-09T12:59:13.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--BXxjxDFm--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:niwatty%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_60_bold:Firebase%2520Analytics%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%258A%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2581%25AB%25E9%2596%258B%25E7%2599%25BA%25E6%25A9%259F%25E3%2581%258B%25E3%2582%2589%25E3%2581%25AE%25E3%2582%25A4%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2588%25E3%2581%258C%25E5%258F%258D%25E6%2598%25A0%25E3%2581%2595%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFUWEFKeEsyS0tsenRzZlRRbzBEbzNqRnVNNHZlc2hWNjVncVprVWhDdkI9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "taroooth",
+      "title": "Flutter × FirebaseでOGP付きURLを生成する",
+      "publicURL": "https://zenn.dev/taroooth/articles/2d4eba2c451e22",
+      "description": "DEPARTURE Advent Calendar 2021 | 5日目\n\n OGPとは\n\nOGP とは Open Graph Protocol (オープン・グラフ・プロトコル)の略称です。\nFacebook、TwitterなどのSNS上でシェアされた時やシェアされたい時に、ページのタイトル、URL、概要、画像（サムネイル）を正しく伝えるためにHTMLソースに記述するタグ情報です。\n\n引用：https://seopack.jp/seo_articles/ogp.php\nTwitterなどのSNSでよく見かけるこちらのことです。\n\nアプリのことをSNSでシェアしてもらう時に、アプリ内の情報...",
+      "publishedAt": "2021-12-08T12:51:47.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--zHUoVG0i--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:taroooth%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:Flutter%2520%25C3%2597%2520Firebase%25E3%2581%25A7OGP%25E4%25BB%2598%25E3%2581%258DURL%25E3%2582%2592%25E7%2594%259F%25E6%2588%2590%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1UbmxUb2NMLS0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzQxZDc1ZjZlYTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    },
+    {
+      "creator": "つー",
+      "title": "【React Native】怠惰な人向けの5分で消えるTodoアプリをつくった",
+      "publicURL": "https://zenn.dev/tsuxxx/articles/3b2bd7ca9ba631",
+      "description": "はじめに\nはじめてモバイルアプリつくってみてどうこうって感じです。\n機能としては、Todoアプリ的な感じなので技術的におおお...！とはなりません。\n\n サービスの概要\n5分で終わるような簡単なタスクだけを登録し、スタートしたら完了するか５分たつと勝手にタスクが消えるTodoアプリです。やらなきゃな〜 → やらないで終わる人が「やるぞー」ってなるトリガーみたいになるのをイメージしています。たまっている簡単なタスクをまとめて30分でできたらテンションあがりそうみたいなのもある。\nやる気は作業始めてからでる的なのあるしとりあえず5分するぞ〜っていう用途もありそうだと思いました。\nApp ...",
+      "publishedAt": "2021-12-07T03:57:11.000Z",
+      "thumbnail": "https://res.cloudinary.com/zenn/image/upload/s--vypwKPuU--/co_rgb:222%2Cg_south_west%2Cl_text:notosansjp-medium.otf_37_bold:%25E3%2581%25A4%25E3%2583%25BC%2Cx_203%2Cy_98/c_fit%2Cco_rgb:222%2Cg_north_west%2Cl_text:notosansjp-medium.otf_70_bold:%25E3%2580%2590React%2520Native%25E3%2580%2591%25E6%2580%25A0%25E6%2583%25B0%25E3%2581%25AA%25E4%25BA%25BA%25E5%2590%2591%25E3%2581%2591%25E3%2581%25AE5%25E5%2588%2586%25E3%2581%25A7%25E6%25B6%2588%25E3%2581%2588%25E3%2582%258BTodo%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9yZXMuY2xvdWRpbmFyeS5jb20vemVubi9pbWFnZS9mZXRjaC9zLS1ZZmdrQ3BvWi0tL2NfbGltaXQlMkNmX2F1dG8lMkNmbF9wcm9ncmVzc2l2ZSUyQ3FfYXV0byUyQ3dfNzAvaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2EwMTZmMzM1ZTUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_72/v1627274783/default/og-base_z4sxah.png"
+    }
+  ],
+  "programTitle": "Zennの「Firebase」のフィード",
+  "programImage": "https://storage.googleapis.com/zenn-topics/firebase.png",
+  "programDescription": "トピック「Firebase」の投稿フィード"
+}

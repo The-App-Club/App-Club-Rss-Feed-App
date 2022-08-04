@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.audioPlayer,
+.audioPlayer:hover,
+.audioPlayer:focus,
+.audioPlayer:active {
+  background-color: #f1f3f4;
+  border: 1px solid #ccc;
+  border-radius: 0px;
+  outline: none;
+  width: 100%;
+}

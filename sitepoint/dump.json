@@ -1,0 +1,807 @@
+{
+  "episodes": [
+    {
+      "creator": "Ivaylo Gerchev",
+      "title": "Nuxt 3 Beta: What’s New and How to Get Started",
+      "publicURL": "/?p=254739",
+      "description": "In this article, we’ll explore the most notable new features and improvements offered by Nuxt 3, and we’ll also look at how most of them can...",
+      "publishedAt": "2021-12-15T15:00:16.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "SitePoint Sponsors",
+      "title": "5 Upcoming Web Design Trends for 2022",
+      "publicURL": "/?p=254673",
+      "description": "This sponsored article was created by our content partners, BAW Media. Thank you for supporting the partners who make SitePoint possible.We...",
+      "publishedAt": "2021-12-14T15:00:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Simon Plenderleith",
+      "title": "How To Write Shell Scripts in Node with Google’s zx Library",
+      "publicURL": "/?p=254657",
+      "description": "In this article, we’ll learn what Google’s zx library provides, and how we can use it to write shell scripts with Node.js. We’ll then learn ...",
+      "publishedAt": "2021-12-13T15:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Kaarle Varkki",
+      "title": "The Most Popular React UI Component Libraries in 2022",
+      "publicURL": "/?p=254645",
+      "description": "In this article, we’ll review some of the best React UI component libraries, and how to choose the right one for you. The article is written...",
+      "publishedAt": "2021-12-12T15:00:51.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shachee Swadia",
+      "title": "A Beginner’s Guide to Creating a Map Using Leaflet.js",
+      "publicURL": "/?p=254590",
+      "description": "Leaflet is currently one of the most popular mapping libraries. It’s a flexible, lightweight, and open-source JavaScript library for creatin...",
+      "publishedAt": "2021-12-08T15:00:43.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Antonello Zanini",
+      "title": "5 Reasons You Should Adopt a Micro Frontend Architecture",
+      "publicURL": "/?p=254179",
+      "description": "Micro frontends are an architectural approach to frontend development that has become increasingly popular. This could easily represent the ...",
+      "publishedAt": "2021-12-07T15:00:50.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Wern Ancheta",
+      "title": "A Beginner’s Guide to Vue Router",
+      "publicURL": "/?p=247502",
+      "description": "In this tutorial, we’ll be looking at how we can implement routing in a Vue app using Vue Router. So we can have a hands-on practice, we’ll ...",
+      "publishedAt": "2021-12-06T15:00:26.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Giorgio Barilla",
+      "title": "Stay Private and Declutter Your Inbox Using Email Aliases",
+      "publicURL": "/?p=247254",
+      "description": "In this article, you’ll learn how to create an email alias and how to utilize it in the best way possible to secure your mailbox, protect yo...",
+      "publishedAt": "2021-12-05T15:00:31.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Diaz",
+      "title": "How to Quickly Start a Django Project and a Django App",
+      "publicURL": "/?p=241817",
+      "description": "In this tutorial, we’ll learn the difference between a Django project and a Django app, and how to start a new Django project.Django is the...",
+      "publishedAt": "2021-12-01T16:00:13.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Amber Leigh Turner",
+      "title": "An Absolute Beginner’s Guide to Webflow",
+      "publicURL": "/?p=238156",
+      "description": "In this article, we’ll present a beginner’s guide to Webflow, a no-code web design tool for designers, exploring how you can start using it ...",
+      "publishedAt": "2021-11-30T15:00:12.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Michael Wanyoike",
+      "title": "How to Build Your Backend with Hasura and PostgreSQL",
+      "publicURL": "/?p=238030",
+      "description": "Backend development often requires writing many lines of code that handle CRUD, authorization and business logic. All this code needs to be ...",
+      "publishedAt": "2021-11-29T15:00:38.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Miracle Onyenma",
+      "title": "Build a Link Previewer with Puppeteer and Serverless Functions",
+      "publicURL": "/?p=237998",
+      "description": "In this tutorial, we’re going to see how we can deploy serverless functions alongside our front-end application and create an API that gener...",
+      "publishedAt": "2021-11-28T15:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Catalin Pit",
+      "title": "An Introduction to Cloud Computing and AWS Certification",
+      "publicURL": "/?p=232296",
+      "description": "In this article, we’ll look at what cloud computing is, the different types of cloud computing, what a cloud provider is, and why you might ...",
+      "publishedAt": "2021-11-25T15:00:21.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Monique Danao",
+      "title": "How to Make Your Website Pass Google’s Core Web Vitals",
+      "publicURL": "/?p=231377",
+      "description": "In this article, we’ll look at how to optimize your website to get a good score on Google’s Core Web Vitals report. Google favors websites w...",
+      "publishedAt": "2021-11-24T15:00:55.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Christian Coulson",
+      "title": "Surfer SEO vs Outranking: Which SEO Tool Is Best for You?",
+      "publicURL": "/?p=220540",
+      "description": "In this article, we’ll be comparing Surfer SEO vs Outranking — two search engine optimization (SEO) tools that use artificial intelligence (...",
+      "publishedAt": "2021-11-23T15:00:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tim Hurd",
+      "title": "Functional Programming in PHP: Higher-order Functions",
+      "publicURL": "/?p=213231",
+      "description": "If you examine several frameworks and large-scale applications, you’ll certainly see a higher-order function at some point. Many languages s...",
+      "publishedAt": "2021-11-22T15:00:41.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Victory Tuduo",
+      "title": "Build a Code Snippet Web App with Next.js and FaunaDB",
+      "publicURL": "/?p=213199",
+      "description": "While programming, developers encounter problems requiring code reuse, leading to repetitive programming that can be time-wasting and reduce...",
+      "publishedAt": "2021-11-21T15:00:12.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Schwarz",
+      "title": "The 5 Best Design Handoff Tools in 2021",
+      "publicURL": "https://www.sitepoint.com/?p=172412",
+      "description": "In this article, we’ll explore the current state of design handoff tools and the design process overall, and offer our pick of the five best...",
+      "publishedAt": "2021-11-17T15:00:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Ivaylo Gerchev",
+      "title": "How to Create Reusable Components with the Vue 3 Composition API",
+      "publicURL": "/?p=209359",
+      "description": "In this tutorial, we’ll explore how to use the Vue 3 Composition API and its latest code reusability capabilities.Code sharing and reusabil...",
+      "publishedAt": "2021-11-16T15:00:03.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Anna Prenzel",
+      "title": "Build Interactive Gantt Charts with Airtable, Gatsby and React",
+      "publicURL": "/?p=209321",
+      "description": "With Gatsby, it’s very easy to integrate different data sources into one application. In this article, we’ll develop a task management tool ...",
+      "publishedAt": "2021-11-15T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "David Adeneye",
+      "title": "How to Fetch Data in Svelte",
+      "publicURL": "/?p=209307",
+      "description": "This tutorial explores how you can consume and render data from an API in your Svelte application. You can interact with APIs in Svelte in t...",
+      "publishedAt": "2021-11-14T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Amber Leigh Turner",
+      "title": "Six Ways to Remove Backgrounds in Photoshop in 2021",
+      "publicURL": "http://www.sitepoint.com/blogs/?p=15218",
+      "description": "With many advances to Photoshop over the last several years, removing the background from an image has never been easier or quicker. Knowing...",
+      "publishedAt": "2021-11-14T13:01:28.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Aarnav Pai",
+      "title": "Create a GitHub Tracker with Push Notifications in Svelte",
+      "publicURL": "/?p=208635",
+      "description": "In this article, you’ll learn how to build a GitHub tracker that notifies users when there’s a new Issue/PR on a tracked repository by sendi...",
+      "publishedAt": "2021-11-10T15:00:15.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Kingsley Ubah",
+      "title": "A Beginner’s Guide to Routing in Next.js, with Examples",
+      "publicURL": "/?p=208498",
+      "description": "There are many benefits of using Next.js, but one very useful feature is its file routing system. This architecture has significantly simpli...",
+      "publishedAt": "2021-11-09T15:00:43.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Michael Wanyoike",
+      "title": "A Beginner’s Guide to the Parse Platform on Back4App",
+      "publicURL": "/?p=208020",
+      "description": "These days, it seems like the future of software developers is bleak with the rise of no-code platforms. Fortunately, there’s a way to make ...",
+      "publishedAt": "2021-11-08T15:00:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Alex Walker",
+      "title": "SitePoint Origami Rhino NFT Drop #2 – Electric Boogaloo",
+      "publicURL": "/?p=208429",
+      "description": "I thought I’d post a quick update on our NFT project. Firstly, to our delight (and somewhat surprise) our first block of 10 Origami Rhinos s...",
+      "publishedAt": "2021-11-08T11:00:44.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Anna Senkina",
+      "title": "How to Create Emails that Foster Customer Loyalty",
+      "publicURL": "/?p=207793",
+      "description": "Each day, 4 billion email users receive 300 billion emails. No wonder most people experience email fatigue, which makes it harder for market...",
+      "publishedAt": "2021-11-07T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Nida Khan",
+      "title": "How to Implement Memoization in React to Improve Performance",
+      "publicURL": "/?p=207779",
+      "description": "In this tutorial, we’ll learn how to implement memoization in React. Memoization improves performance by storing the results of expensive fu...",
+      "publishedAt": "2021-11-03T15:00:57.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "Magento 2 Translation: How Internationalization Works",
+      "publicURL": "/?p=207699",
+      "description": "One of the most important features of creating ecommerce websites with Magento 2 is the ability to add multiple languages to your store. In ...",
+      "publishedAt": "2021-11-02T15:00:52.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Dennis",
+      "title": "Create Your Own Brag Document with Zapier and Google Sheets",
+      "publicURL": "/?p=207676",
+      "description": "In this article, we’ll set up a method where you can receive a daily email with questions for you to answer. These questions can be un ique ...",
+      "publishedAt": "2021-11-01T15:00:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "An Introduction to PostCSS",
+      "publicURL": "http://www.sitepoint.com/?p=124370",
+      "description": "CSS preprocessors are popular, but they have some drawbacks. In this introduction to PostCSS, we’ll explore the advantages of PostCSS, how i...",
+      "publishedAt": "2021-10-31T15:00:49.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Taminoturoko Briggs",
+      "title": "Add a Contact Form to a React App with Netlify Forms",
+      "publicURL": "/?p=207591",
+      "description": "In this tutorial, you’ll learn how to add a contact form to a React application with Netlify Forms.Adding a contact form to a React applica...",
+      "publishedAt": "2021-10-27T23:00:22.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Jack Franklin",
+      "title": "A Step-by-Step TypeScript Tutorial for Beginners",
+      "publicURL": "/?p=207577",
+      "description": "You’ve probably heard of TypeScript — the language created and maintained by Microsoft that’s had a huge impact on the Web, with many promin...",
+      "publishedAt": "2021-10-26T15:00:21.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Rui Sousa",
+      "title": "Use the Notion API to Create a Quiz with JavaScript",
+      "publicURL": "/?p=207562",
+      "description": "Notion is a multi-featured app for organizing all sorts of content, from notes to calendars and reminders. In our last article, “Getting Sta...",
+      "publishedAt": "2021-10-25T15:00:31.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Monique Danao",
+      "title": "How to Get Started with Social Media Automation",
+      "publicURL": "/?p=207482",
+      "description": "Social media automation tools enable seamless management of social accounts across a range of different platforms. These automation tools le...",
+      "publishedAt": "2021-10-24T15:00:41.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Alex Walker",
+      "title": "SitePoint NFTs – or how we floated rhinos on the OpenSea",
+      "publicURL": "/?p=207534",
+      "description": "After 20+ years and over 100 book cover designs, we’re releasing a strictly limited run of our latest design work as purchasable NFT artwork...",
+      "publishedAt": "2021-10-21T05:58:49.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Alex Husar",
+      "title": "Is Magento 2 Migration Worth It? The Process Explained",
+      "publicURL": "/?p=207464",
+      "description": "This article will explain the ins and outs of Magento 2 migration, and why it’s a good idea to consider Magento 1 to Magento 2 migration now...",
+      "publishedAt": "2021-10-20T15:00:13.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "Back to Basics: Understanding the for…in Loop in JavaScript",
+      "publicURL": "/?p=207439",
+      "description": "Loops allow us to cycle through items in arrays or objects and do things like print them, modify them, or perform other kinds of tasks or ac...",
+      "publishedAt": "2021-10-19T15:00:53.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shachee Swadia",
+      "title": "How to Create a Linear Gauge Chart in JavaScript",
+      "publicURL": "/?p=207398",
+      "description": "This article presents an easy-to-follow guide for building an interactive linear gauge chart in JavaScript. We’ll show to quickly create a ...",
+      "publishedAt": "2021-10-18T15:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Kingsley Ubah",
+      "title": "Build a Hacker News Clone using React and HarperDB",
+      "publicURL": "/?p=207378",
+      "description": "One of the most effective and fun ways to boost your web development skills is by cloning an existing web page or website. In this tutorial,...",
+      "publishedAt": "2021-10-17T23:00:42.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Alina Tytarenko",
+      "title": "The Ultimate Guide to 3xx HTTP Status Codes",
+      "publicURL": "/?p=207282",
+      "description": "If you manage websites, an understanding of HTTP redirects is essential for reliable site performance. In this article, we’ll take a compreh...",
+      "publishedAt": "2021-10-12T15:00:57.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Matt Nikonorov",
+      "title": "How to Create a CSS Typewriter Effect for your Website",
+      "publicURL": "/?p=207175",
+      "description": "In this article, you’ll learn how to make your website’s text dynamic and more engaging using typewriter effects in pure CSS.The typewriter...",
+      "publishedAt": "2021-10-11T15:00:04.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Antonello Zanini",
+      "title": "How to Create Responsive React Components with React Textfit",
+      "publicURL": "/?p=207078",
+      "description": "Developing in React involves defining reusable components and assembling them into various parts of your application to achieve your desired...",
+      "publishedAt": "2021-10-10T15:00:08.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Monique Danao",
+      "title": "Internationalization: How to Boost Traffic with a Multilingual Site",
+      "publicURL": "/?p=207059",
+      "description": "Website internationalization can be advantageous for companies that want to cater to different languages and reap the benefits of today’s gl...",
+      "publishedAt": "2021-10-06T15:00:11.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Christian Coulson",
+      "title": "Marketing Automation: The Best AI Tools for Boosting Growth",
+      "publicURL": "/?p=206951",
+      "description": "The best AI-powered marketing automation tools are the ones that make it easy for marketers to create and optimize content, increase sales, ...",
+      "publishedAt": "2021-10-05T15:00:07.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Diaz",
+      "title": "The 4 Best Linux Distros for Helping You Stay Anonymous",
+      "publicURL": "/?p=206938",
+      "description": "In this article, we’ll look at four Linux distros that help to keep you anonymous on the Web. The Linux operating system offers a lot of pri...",
+      "publishedAt": "2021-10-04T15:00:26.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Wern Ancheta",
+      "title": "Get Started with Bubble, a No-code Tool for Building Serious Apps",
+      "publicURL": "/?p=206927",
+      "description": "Have you ever wondered what it’s like to build web applications without the need to write a single line of code? Enter Bubble, a visual prog...",
+      "publishedAt": "2021-10-03T15:00:07.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tobias Günther",
+      "title": "Understanding and Working with Submodules in Git",
+      "publicURL": "/?p=206915",
+      "description": "Most modern software projects depend on the work of others. It would be a waste of time to reinvent the wheel in your own code when someone ...",
+      "publishedAt": "2021-09-30T02:00:42.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "42 Visual Studio Code Shortcuts for Boosting Your Productivity",
+      "publicURL": "/?p=206871",
+      "description": "In this article, we’ll go over some of the most useful Visual Studio Code shortcuts that will save you time and supercharge your development...",
+      "publishedAt": "2021-09-28T16:00:14.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Michael Wanyoike",
+      "title": "How to Build an MVP with React and Firebase",
+      "publicURL": "/?p=206781",
+      "description": "When prototyping an idea, it’s recommended that you simplify and build only the minimum core features required to launch a product into the ...",
+      "publishedAt": "2021-09-27T16:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Madars Biss",
+      "title": "React Tutorial: Build a Calculator App from Scratch",
+      "publicURL": "/?p=206749",
+      "description": "In this tutorial, we’ll be building a React Calculator app. You’ll learn how to make a wireframe, design a layout, create components, update...",
+      "publishedAt": "2021-09-26T16:00:09.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Monique Danao",
+      "title": "How To Create Professional Websites Effortlessly with Jimdo",
+      "publicURL": "/?p=206179",
+      "description": "In this tutorial, you’ll how to create professional websites within minutes using Jimdo. We’ll show you how to use Jimdo’s drag-and-drop bui...",
+      "publishedAt": "2021-09-22T16:00:13.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Andy Li",
+      "title": "Exploring Vite Through its Source Code",
+      "publicURL": "/?p=206254",
+      "description": "As you’ve probably heard, the front-end ecosystem has a new cool kid on the block: a build tool called Vite. Although it was created by Evan...",
+      "publishedAt": "2021-09-21T16:00:43.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Ivaylo Gerchev",
+      "title": "Yarn vs npm: Everything You Need to Know",
+      "publicURL": "https://www.sitepoint.com/?p=141636",
+      "description": "In this tutorial, we’ll compare Yarn vs npm — the two most popular package managers. We’ll set them side by side and explore their respectiv...",
+      "publishedAt": "2021-09-20T16:00:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Matthias Frank",
+      "title": "How to Learn Quickly: 10 Proven Methods for Mastering Any Skill",
+      "publicURL": "/?p=205155",
+      "description": "In this article, we’ll cover ten proven methods for mastering any skill. You’ll learn how to learn quickly, supercharge your personal growth...",
+      "publishedAt": "2021-09-19T16:00:09.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Merilyn Chesler",
+      "title": "How to Expand Your Engineering Skill Set Without Quitting Your Day Job",
+      "publicURL": "/?p=204794",
+      "description": "The world is moving at a fast pace with innovations in technology every year to tackle all kinds of challenges. Companies are regularly upda...",
+      "publishedAt": "2021-09-15T16:00:26.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Andrew McDermott",
+      "title": "5 Reasons Managers Refuse to Give Developers the Rewards They Deserve",
+      "publicURL": "/?p=204776",
+      "description": "In this article, we’ll explore five reasons managers refuse to give developers the rewards they deserve, and what you can do about it.The P...",
+      "publishedAt": "2021-09-14T16:00:08.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Chisimdiri Ejinkeonye",
+      "title": "How to Set Up VS Code Remote Development for Free on Amazon EC2",
+      "publicURL": "/?p=203984",
+      "description": "Remote development is simply development on a remote server. An SSH connection is made from your local machine to a server in the cloud. SSH...",
+      "publishedAt": "2021-09-13T16:00:27.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "How to Record Audio Using the MediaStream API",
+      "publicURL": "/?p=203861",
+      "description": "The Media Capture and Streams API (aka MediaStream API) allows you to record audio from a user’s microphone, then get the recorded audio or ...",
+      "publishedAt": "2021-09-12T16:00:04.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Merilyn Chesler",
+      "title": "Creating a Portfolio to Showcase Your Engineering Abilities",
+      "publicURL": "/?p=203504",
+      "description": "Portfolios have been used to promote graphic designers, photographers, graphic illustrators, and artists, but they can be just as useful to ...",
+      "publishedAt": "2021-09-08T16:00:36.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tim Hurd",
+      "title": "Flexible API Design: Create Hooks for Your PHP API Pipeline",
+      "publicURL": "/?p=203463",
+      "description": "Designing application programming interfaces (APIs) can be a challenging endeavor. Good APIs have simple interfaces that are straightforward...",
+      "publishedAt": "2021-09-07T16:00:55.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Kaarle Varkki",
+      "title": "How to Get Started with Automated Email Marketing",
+      "publicURL": "/?p=203280",
+      "description": "Automated email marketing is the best option for sending personalized messages. Thanks to automation workflows, you can send personalized of...",
+      "publishedAt": "2021-09-06T16:00:07.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Hanbyeol (Benny) Joo",
+      "title": "A Practical Guide to Creating Reusable React Components",
+      "publicURL": "/?p=203273",
+      "description": "Although React is one of the most popular and most used front-end frameworks in the world, many developers still struggle when it comes to r...",
+      "publishedAt": "2021-09-05T23:00:04.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "7 of the Best Code Playgrounds",
+      "publicURL": "http://www.sitepoint.com/?p=63469",
+      "description": "A variety of front-end code playgrounds have appeared over the years. Most offer a quick and dirty way to experiment with client-side (and s...",
+      "publishedAt": "2021-09-01T16:00:40.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "Teaching as a Side Hustle for Engineers",
+      "publicURL": "/?p=203240",
+      "description": "Even if you’ve only progressed a short way into your development career, your knowledge has value to others. There may be people who know fa...",
+      "publishedAt": "2021-08-31T16:00:41.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tiffany Brown",
+      "title": "Using SVG with Media Queries",
+      "publicURL": "https://www.sitepoint.com/?p=168375",
+      "description": "In HTML documents, we can show, hide, or rearrange parts of the page based on the conditions of the viewport. If the browser window is 480 p...",
+      "publishedAt": "2021-08-30T15:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Kate Andlund",
+      "title": "Notion Guide: All-in-One Workspace & Notes App",
+      "publicURL": "/?p=203026",
+      "description": "So you’re ready to dig into Notion, but you don’t know where to start? You’ve heard great things about how customizable and intuitive it is,...",
+      "publishedAt": "2021-08-29T16:00:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Christian Coulson",
+      "title": "10 Free Browser Extensions for a More Efficient SEO Workflow",
+      "publicURL": "/?p=202323",
+      "description": "SEO is an essential piece of the puzzle that makes up every website. But like many pieces, it can be difficult to keep track of and manage. ...",
+      "publishedAt": "2021-08-25T16:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Maria Antonietta Perna",
+      "title": "Flexbox or CSS Grid? How to Make Layout Decisions that Make Sense",
+      "publicURL": "/?p=202299",
+      "description": "Following the widespread implementation of CSS Grid Layout, one question became prominent in front-end web development circles: Is there sti...",
+      "publishedAt": "2021-08-24T16:00:39.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Michael Wanyoike",
+      "title": "5 Streaming Platforms That Let You Control Your Own Content",
+      "publicURL": "/?p=201895",
+      "description": "The easiest way to livestream to millions of users is to use social media platforms like Facebook, Instagram, YouTube or Twitch. These platf...",
+      "publishedAt": "2021-08-23T16:00:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tobias Günther",
+      "title": "5 Ways to Undo Mistakes with Git",
+      "publicURL": "/?p=201901",
+      "description": "No matter how experienced you are, the craft of software development cannot be practiced without making mistakes. But what separates the ave...",
+      "publishedAt": "2021-08-22T16:00:34.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "Truthy and Falsy: When All is Not Equal in JavaScript",
+      "publicURL": "http://www.sitepoint.com/blogs/?p=11126",
+      "description": "Comparing two things for equality can often trip up the unwary JavaScript developer, as the language has several quirks we need to be aware ...",
+      "publishedAt": "2021-08-18T15:00:30.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Ugur Kadakal",
+      "title": "No-code for Enterprise: Opportunities and Challenges",
+      "publicURL": "/?p=201701",
+      "description": "No-code and low-code development platforms allow non-programmers to create apps without writing any or much code. They often consist of grap...",
+      "publishedAt": "2021-08-17T16:00:22.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "What’s New in Bootstrap 5",
+      "publicURL": "/?p=201688",
+      "description": "Bootstrap is one of the most popular CSS libraries. It allows developers to easily use beautiful styles and components and create responsive...",
+      "publishedAt": "2021-08-16T16:00:34.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Nirmalya Ghosh",
+      "title": "How to Build a Monorepo with Nx, Next.js and TypeScript",
+      "publicURL": "/?p=201610",
+      "description": "In this article, we’ll learn what a monorepo is, and how monorepos help in developing applications faster with a better development experien...",
+      "publishedAt": "2021-08-15T16:00:20.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Adrian Try",
+      "title": "The Best Markdown Plugins for WordPress",
+      "publicURL": "http://www.sitepoint.com/?p=107196",
+      "description": "Markdown is a fast and efficient way to write content for the Web. It’s easy to write, easy to read, and easily converted to HTML. It empowe...",
+      "publishedAt": "2021-08-11T20:00:16.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Schwarz",
+      "title": "Build Your Own Subscription Blog with Shopify",
+      "publicURL": "/?p=201543",
+      "description": "In this article, I’ll show how to build a paywalled blog with Shopify using HTML, CSS, and Liquid (Shopify’s template language). Even though...",
+      "publishedAt": "2021-08-10T16:00:18.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "The Complete Guide to HTML Forms and Constraint Validation",
+      "publicURL": "/?p=201500",
+      "description": "In this article, we look at HTML form fields and the validation options offered by HTML5. We’ll also look at how these can be enhanced throu...",
+      "publishedAt": "2021-08-09T16:00:06.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Diaz",
+      "title": "What is GitHub Copilot? An AI Pair Programmer for Everyone",
+      "publicURL": "/?p=201493",
+      "description": "Programmers spend a lot of time writing code. Tools like code editors can help us along with syntax suggestions, snippets, debugging suggest...",
+      "publishedAt": "2021-08-08T16:00:12.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Collin Bouchard",
+      "title": "8 Things You Didn’t Know a VPN Can Do",
+      "publicURL": "/?p=201360",
+      "description": "VPNs are an essential part of protecting your online privacy, and nowadays it’s common to hear of people using them.Ten years ago, if you’d...",
+      "publishedAt": "2021-08-03T16:00:33.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Diaz",
+      "title": "How to Send Email with Django",
+      "publicURL": "/?p=201371",
+      "description": "In this tutorial, we’ll walk through how to send emails through your own app using Django. We’ll cover how to configure Django SMTP connecti...",
+      "publishedAt": "2021-08-02T16:00:10.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Christian Coulson",
+      "title": "Using Automation to Increase Web Traffic",
+      "publicURL": "/?p=201339",
+      "description": "One of the biggest challenges entrepreneurs face is getting their business in front of potential customers. Marketing attracts leads, leads ...",
+      "publishedAt": "2021-08-01T16:00:27.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "SitePoint Sponsors",
+      "title": "4 Trends for Modernizing An Online Booking System in 2021",
+      "publicURL": "/?p=201310",
+      "description": "This sponsored article was created by our content partner, BAW Media. Thank you for supporting the partners who make SitePoint possible.Con...",
+      "publishedAt": "2021-08-01T15:00:37.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Adrian Try",
+      "title": "The Best Markdown Editors for iOS",
+      "publicURL": "/?p=200404",
+      "description": "Markdown is a fast and efficient way to write for the Web. It uses easy-to-read markup and plain text files. It comes with a low learning cu...",
+      "publishedAt": "2021-07-27T22:00:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "A Beginner’s Guide to Lighthouse",
+      "publicURL": "/?p=200350",
+      "description": "You’ve built a website, but how well does it perform for your end users? It’s crucial to ask this question, but how can you get answers? One...",
+      "publishedAt": "2021-07-26T16:00:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tim Hurd",
+      "title": "5 Easy Strategies to Make WordPress Enterprise-ready in 2021",
+      "publicURL": "/?p=200314",
+      "description": "WordPress is a popular, easy-to-use, PHP-based content management system and blogging platform. Many enterprise organizations believe that W...",
+      "publishedAt": "2021-07-25T16:00:44.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "SitePoint Sponsors",
+      "title": "How the Muffin Live Builder Will Help You Build Better Sites, Faster",
+      "publicURL": "/?p=199582",
+      "description": "This sponsored article was created by our content partner, BAW Media. Thank you for supporting the partners who make SitePoint possible. Pag...",
+      "publishedAt": "2021-07-22T02:19:51.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Oltjano Terpollari, Daniel Diaz",
+      "title": "Virtual Environments in Python Made Easy",
+      "publicURL": "http://www.sitepoint.com/?p=103242",
+      "description": "Most Python newcomers don’t know how to set up a development environment that follows the latest standards used by professional programmers....",
+      "publishedAt": "2021-07-21T16:00:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Adrian Try",
+      "title": "Learn Markdown: Structure, Syntax, and Conventions",
+      "publicURL": "/?p=198566",
+      "description": "Content on the Web needs to be presented in HTML format. Many web publishing tools (such as blogging software and CMSs) convert your content...",
+      "publishedAt": "2021-07-20T16:00:41.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Jakob Meier",
+      "title": "How to Idiomatically Use Global Variables in Rust",
+      "publicURL": "/?p=198553",
+      "description": "Declaring and using global variables in Rust can be tricky. Typically for this language, Rust ensures robustness by forcing us to be very ex...",
+      "publishedAt": "2021-07-19T16:00:46.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Craig Buckler",
+      "title": "An Introduction to Frameworkless Web Components",
+      "publicURL": "/?p=198546",
+      "description": "This tutorial provides an introduction to standard web components written without using a JavaScript framework. You’ll learn what they are a...",
+      "publishedAt": "2021-07-18T16:00:25.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Isabel Nyo",
+      "title": "How to Hire the Best Freelance Developers in the Gig Economy",
+      "publicURL": "/?p=198428",
+      "description": "Over the last two decades in my career in the technology industry, I’ve experienced both sides of the gig economy — as a freelancer, and as ...",
+      "publishedAt": "2021-07-14T16:00:43.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shaumik Daityari",
+      "title": "Using Python to Parse Spreadsheet Data",
+      "publicURL": "http://www.sitepoint.com/?p=97142",
+      "description": "Large organizations and enterprises often store data in spreadsheets and require an interface for entering this data into their web apps. Th...",
+      "publishedAt": "2021-07-13T15:00:13.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Ivaylo Gerchev",
+      "title": "Using Redis with Node.js",
+      "publicURL": "http://www.sitepoint.com/?p=97737",
+      "description": "Redis is a fast and efficient in-memory key-value store. It is also known as a data structure server, as the keys can contain strings, lists...",
+      "publishedAt": "2021-07-12T15:00:03.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Rui Sousa",
+      "title": "Getting Started with the Notion API and Its JavaScript SDK",
+      "publicURL": "/?p=196986",
+      "description": "Notion is a multi-featured app for organizing all sorts of content, from notes to calendars and reminders. Notion recently launched its own ...",
+      "publishedAt": "2021-07-11T16:00:50.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Monique Danao",
+      "title": "10 Best WordPress eCommerce Themes for 2021",
+      "publicURL": "/?p=195646",
+      "description": "As more people shift to online shopping, small businesses and retailers have been pressured to build their own ecommerce stores to keep up. ...",
+      "publishedAt": "2021-07-07T16:00:16.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shaumik Daityari",
+      "title": "A Beginner’s Guide to Keras: Digit Recognition in 30 Minutes",
+      "publicURL": "https://www.sitepoint.com/?p=173918",
+      "description": "Over the last decade, the use of artificial neural networks (ANNs) has increased considerably. People have used ANNs in medical diagnoses, t...",
+      "publishedAt": "2021-07-06T17:00:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Daniel Kehoe",
+      "title": "A Comparison of Ruby Version Managers for macOS",
+      "publicURL": "/?p=195573",
+      "description": "In this article, I’ll compare the most popular version managers for Ruby on a Mac: Chruby, Rbenv, and RVM, as well as Asdf, a version manage...",
+      "publishedAt": "2021-07-06T16:00:19.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shahed Nasser",
+      "title": "Build a Website with React and Tailwind CSS",
+      "publicURL": "/?p=195547",
+      "description": "This tutorial shows how to create a product website using React and Tailwind CSS. We’ll cover how to set up React with Tailwind CSS using Cr...",
+      "publishedAt": "2021-07-05T16:00:21.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Tobias Günther",
+      "title": "A Guide to Git Interactive Rebase, with Practical Examples",
+      "publicURL": "/?p=195515",
+      "description": "Version control with Git has become a default in every modern developer’s tool belt. Commands like commit, push, and pull have made it into ...",
+      "publishedAt": "2021-07-04T16:00:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "SitePoint",
+  "programImage": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif",
+  "programDescription": "Learn CSS &#124; HTML5 &#124; JavaScript &#124; Wordpress &#124; Tutorials-Web Development &#124; Reference &#124; Books and More"
+}

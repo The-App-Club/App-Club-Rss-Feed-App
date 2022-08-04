@@ -1,0 +1,102 @@
+{
+  "episodes": [
+    {
+      "title": "What is the DOM API (and How is it Used to Write JavaScript for the Web)?",
+      "publicURL": "https://webdesign.tutsplus.com/articles/what-is-the-dom-api-for-javascript--cms-35650",
+      "categories": "non-categoraized",
+      "description": "* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0 ...",
+      "publishedAt": "2021-11-30T12:28:08.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Essential Cheat Sheet: Convert jQuery to JavaScript",
+      "publicURL": "https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633",
+      "categories": "non-categoraized",
+      "description": "* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0 ...",
+      "publishedAt": "2020-09-07T08:46:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Build a UIkit Lightbox With Dot Navigation",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/uikit-lightbox-with-dot-navigation--cms-39113",
+      "categories": "non-categoraized",
+      "description": "* { box-sizing: border-box; } body {margin: 0;}*{box-sizing:border-box;}body{margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0 ...",
+      "publishedAt": "2021-11-28T10:01:03.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Add Custom JavaScript to Your WordPress Site",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/how-to-add-custom-javascript-to-your-wordpress-site--cms-34368",
+      "categories": "non-categoraized",
+      "description": "If you want to enhance your WordPress site's front-end functionality, you'll need to add JavaScript to your site—whether you're using a thir ...",
+      "publishedAt": "2020-01-28T22:46:56.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Build a Cursor Hover Effect With JavaScript Mouse Events and GSAP",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/cursor-hover-effect-with-javascript-mouse-events-and-gsap--cms-38899",
+      "categories": "non-categoraized",
+      "description": "* { box-sizing: border-box; } body {margin: 0;}\nIn this tutorial, we’ll work with two JavaScript mouse events and GSAP to build a creative e ...",
+      "publishedAt": "2021-11-08T07:35:27.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Build a Multilevel Animated Mobile Menu With JavaScript",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/build-a-multilevel-animated-mobile-menu-with-javascript--cms-38817",
+      "categories": "non-categoraized",
+      "description": "One of my first tutorials here in Tuts+ back in 2015 covered the creation of an off-canvas sliding menu with jQuery.mmenu. If you check the  ...",
+      "publishedAt": "2021-11-01T07:23:57.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Build a Draggable Image Gallery and a Custom Lightbox With GSAP",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/draggable-javascript-image-gallery-with-gsap--cms-37591",
+      "categories": "non-categoraized",
+      "description": "In a previous tutorial, we learned how to build a responsive image gallery with slick.js. Today, let’s build something similar yet even more ...",
+      "publishedAt": "2021-07-26T07:30:27.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Create a Unique Scrolling Website With Locomotive Scroll & Tailwind CSS",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/scrolling-website-with-locomotive-scroll-tailwind-css--cms-36943",
+      "categories": "non-categoraized",
+      "description": "Have you ever wanted to build a unique single-page scrolling website yet didn’t know where to start? If so, don’t worry! Today we’re going t ...",
+      "publishedAt": "2021-07-11T08:06:12.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Hide/Reveal Header Notification Bar on Scroll with JavaScript",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/hide-reveal-sticky-notification-bar-on-scroll-with-javascript--cms-37012",
+      "categories": "non-categoraized",
+      "description": "In a previous tutorial, we learned how to hide and reveal a sticky header on scroll. Today, let's build something similar: a sticky header w ...",
+      "publishedAt": "2021-06-21T07:33:23.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Implement Smooth Scrolling With CSS & JavaScript",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/smooth-scrolling-vanilla-javascript--cms-35165",
+      "categories": "non-categoraized",
+      "description": "In this new tutorial, we’ll learn how to implement smooth scrolling in our web pages. We’ll start with a pure CSS solution and then move on  ...",
+      "publishedAt": "2020-05-26T06:30:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Generate Random Background Colors With JavaScript",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/generate-random-background-colors-javascript--cms-37030",
+      "categories": "non-categoraized",
+      "description": "In this tutorial you’ll learn how to change the background color of a page randomly, using JavaScript. You’ll also learn how to modify your  ...",
+      "publishedAt": "2021-05-23T07:38:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Hide/Reveal a Sticky Header on Scroll (With JavaScript)",
+      "publicURL": "https://webdesign.tutsplus.com/tutorials/how-to-hide-reveal-a-sticky-header-on-scroll-with-javascript--cms-33756",
+      "categories": "non-categoraized",
+      "description": "Have you ever seen one of those fixed (or “sticky’) header bars that disappear when you begin scrolling down the page, then reappear wheneve ...",
+      "publishedAt": "2019-08-11T17:49:33.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "Envato Tuts+ Web Design - JavaScript",
+  "programImage": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+}

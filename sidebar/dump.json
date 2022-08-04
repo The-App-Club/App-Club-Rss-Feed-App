@@ -1,0 +1,167 @@
+{
+  "episodes": [
+    {
+      "creator": "@css",
+      "title": "Working With Web Feeds: It’s More Than RSS",
+      "publicURL": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
+      "description": "There’s been renewed interest in RSS feeds and they’re primed for a comeback as we get into 2022.",
+      "publishedAt": "2021-12-17T01:14:57.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@okozzie_",
+      "title": "Straw.Page",
+      "publicURL": "https://straw.page/",
+      "description": "Straw.Page is the world’s simplest website builder. Create unique websites from your mobile device.",
+      "publishedAt": "2021-12-17T01:12:06.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@turborepo",
+      "title": "Turborepo",
+      "publicURL": "https://turborepo.org/",
+      "description": "Turborepo is a high-performance build system for JavaScript and TypeScript codebases.",
+      "publishedAt": "2021-12-17T01:11:11.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@mccrmx",
+      "title": "Doodle CSS",
+      "publicURL": "https://chr15m.github.io/DoodleCSS/",
+      "description": "A simple hand drawn HTML/CSS theme.",
+      "publishedAt": "2021-12-17T01:10:39.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@5t3ph",
+      "title": "12 Days of Web",
+      "publicURL": "https://12daysofweb.dev/",
+      "description": "A year-end celebration of fundamental web technologies: HTML, CSS, and JavaScript.",
+      "publishedAt": "2021-12-17T01:08:03.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@datajournalism",
+      "title": "The history of data journalism",
+      "publicURL": "https://datajournalism.com/read/longreads/the-history-of-data-journalism",
+      "description": "From the 1950s to the present day, journalism professor and author Brant Houston explores how data journalism began.",
+      "publishedAt": "2021-12-16T07:06:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@fastcompany",
+      "title": "This high-tech mask went viral. Then Razer had to figure out how to build it",
+      "publicURL": "https://www.fastcompany.com/90706115/this-high-tech-mask-went-viral-but-then-the-company-had-to-figure-out-how-to-build-it",
+      "description": "What happens when a beloved PC gaming company jumps into PPE.",
+      "publishedAt": "2021-12-16T06:58:56.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@livetibekk",
+      "title": "An introduction to UI sounds",
+      "publicURL": "https://www.bekk.christmas/post/2021/14/an-introduction-to-ui-sounds",
+      "description": "What are UI sounds and how can we use them to create better user experiences?",
+      "publishedAt": "2021-12-16T06:55:02.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@ChromiumDev",
+      "title": "The UI fund",
+      "publicURL": "https://web.dev/ui-fund/",
+      "description": "Announcing the UI fund from Chrome, designed to provide grants for people who work on design tools, CSS, and HTML.",
+      "publishedAt": "2021-12-16T06:51:05.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@chus9000",
+      "title": "The process to design a conversational interface",
+      "publicURL": "https://uxdesign.cc/the-process-to-design-a-conversational-interface-8c861674fead",
+      "description": "Follow these 6 steps to successfully develop a conversational interface that helps your users achieve their goals.",
+      "publishedAt": "2021-12-16T06:49:30.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@glyphe",
+      "title": "The ideal line length & line height in web design",
+      "publicURL": "https://pimpmytype.com/line-length-line-height",
+      "description": "Line length & height are crucial to make your text to look pleasant. This article shows how they are interconnected, what to focus on when s...",
+      "publishedAt": "2021-12-15T06:38:38.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@JonYablonski",
+      "title": "Cognitive Bias and the Design Process, Part 2",
+      "publicURL": "https://jonyablonski.com/articles/2021/cognitive-bias-and-the-design-process-part-2",
+      "description": "A look at the systematic errors in thinking that affects decisions and judgment during the design process.",
+      "publishedAt": "2021-12-15T06:37:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@MaximeHeckel",
+      "title": "Cubic Bézier: from math to motion",
+      "publicURL": "https://blog.maximeheckel.com/posts/cubic-bezier-from-math-to-motion/",
+      "description": "A deep dive into the math behind Bézier curves, from simple linear interpolations to Cubic Bézier.",
+      "publishedAt": "2021-12-15T06:34:28.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@yuanchuan23",
+      "title": "Pixel Patterns",
+      "publicURL": "https://yuanchuan.dev/pixel-patterns",
+      "description": "A while ago I saw an interesting pattern generated by a pure mathematical rule.",
+      "publishedAt": "2021-12-15T06:30:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@SachaGreif",
+      "title": "The State of CSS 2021",
+      "publicURL": "https://2021.stateofcss.com/",
+      "description": "The results for the annual survey about the latest trends in CSS are out.",
+      "publishedAt": "2021-12-15T03:46:20.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@jenniferdaniel",
+      "title": "The Most Frequently Used Emoji of 2021",
+      "publicURL": "https://observablehq.com/@jenniferdaniel/unicode-emoji-mirror",
+      "description": "92% of the world’s online population use emoji — but which emoji are we using?",
+      "publishedAt": "2021-12-14T08:30:34.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@simulacroix",
+      "title": "Dither Pattern Maker",
+      "publicURL": "https://simulacroix.github.io/dithering/",
+      "description": "Play with a toy that makes a pixel grid using dithering.",
+      "publishedAt": "2021-12-14T08:25:03.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@InktrapDesign",
+      "title": "12 Days of UXmas",
+      "publicURL": "https://uxmas.inktrap.co.uk",
+      "description": "Inktrap brings 12 inspiring pieces of UX design from some of our favourite apps, along with our guide to designing brilliant data-driven pro...",
+      "publishedAt": "2021-12-14T08:23:22.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@Codrops",
+      "title": "Case Study: A Unique Website for Basement Grotesque",
+      "publicURL": "https://tympanus.net/codrops/2021/12/13/case-study-a-unique-website-for-basement-grotesque/",
+      "description": "A look behind the scenes of Basement Grotesque’s website, the open-source typeface of basement studio.",
+      "publishedAt": "2021-12-14T08:22:31.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "@mariacameireles",
+      "title": "Doom Slayer UX",
+      "publicURL": "https://superjumpmagazine.com/doom-slayer-ux-ee8ed7142c9b?source=user_profile---------7-------------------------------",
+      "description": "How do you become the Doom Slayer? Onboarding to any game is an important design challenge for game developers, especially in Doom Eternal.",
+      "publishedAt": "2021-12-14T08:19:49.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "Sidebar",
+  "programImage": "https://sidebar.ioimg/favicon.png",
+  "programDescription": "The five best design links, every weekday."
+}

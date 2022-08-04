@@ -1,0 +1,97 @@
+{
+  "episodes": [
+    {
+      "creator": "doxas",
+      "title": "まるで映像のワンカットのような個性的なイントロ演出が見事な The Andrei Sakharov Museum",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2113",
+      "categories": "non-categoraized",
+      "description": "アンドレイ・サハロフの生涯をたどる\n今回ご紹介するのは、ノーベル平和賞を受賞された人権活動家 Andrei Sakharov について取り上げたウェブサイトです。\nこの Andrei Sakharov という人物、若い頃は水爆などのいわゆる核兵器の開発に携わった科学者だったそうですが、それらを利用した際の人的被害、健康被害、環境汚染などを目の当たりにするなかで、逆に部分的核実験禁止条約締結などに尽力をされた方だそうです。\n今回のサイトでは、そんなアンドレイ・サハロフさんの生涯をかなりつぶさにたどっていくことができるようになっており、写真、画像などが多く使われていてかなりボリュームのあるコンテンツとなっています。\nリンク：\nThe Andrei Sakharov Museum",
+      "publishedAt": "2021-12-23T04:24:30.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2113_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "クリスタルの質感も見事な Louis Vuitton の生誕 200 年を記念したインタラクティブ WebGL 製コンテンツ",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2112",
+      "categories": "non-categoraized",
+      "description": "WebGL コンテンツとしての完成度の高さが光る\n今回ご紹介するのは、ファッションブランドとしては世界でも有数の知名度を誇るルイヴィトンのウェブサイトです。\nルイヴィトン（Louis Vuitton）は創業者の人名で、これをそのままブランド名として使っています。どうやらこの創業者である Louis Vuitton さんの生誕２００年を記念して作られたのが今回のサイトのようです。\nちょっと調べてみると、確かに 1821 年、8 月 4 日に生まれたということのようで、そんなに昔から世界中で愛されるブランドが綿々と受け継がれているというのはすごいことですよね。ちなみに、日本人で初めてルイヴィトン製品を購入したのは板垣退助だそうです……\nリンク：\nLouis 200 | LOUIS VUITTON ®",
+      "publishedAt": "2021-12-22T05:12:44.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2112_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "PlayCanvas で作られた投資信託ファンドが提供するお金についてしっかり学べるオンライン教材が面白い",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2111",
+      "categories": "non-categoraized",
+      "description": "かなりのボリュームがあり見応え十分\n今回ご紹介するのは、PlayCanvas で作られた WebGL 実装で、いわゆる投資信託の銘柄を運用するファンドがスポンサーをしているコンテンツのようですね。\n投資信託のファンドが提供している、という点を訝しく思う人もいるかもしれませんが、内容はかなりしっかりしている印象で、銀行選びや車を購入する際に気をつけることなど、かなり具体的な例をいくつもあげて、お金について学ぶことができるようになっています。\n残念ながら日本語版は用意されていないのと、当然、日本では若干事情が異なるケースもあるのでそのあたりは注意ですね。\nリンク：\nHow Not to Suck at Money – Sponsored by Invesco QQQ",
+      "publishedAt": "2021-12-21T04:36:06.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2111_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "独自のコンセプトが色濃く現れたかなり変わったオリジナル EC サイト ARE YOU OKOK? が面白い",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2110",
+      "categories": "non-categoraized",
+      "description": "かなり独特な雰囲気のウェブサイト\n今回ご紹介するのは ARE YOU OKOK? というちょっと変わったタイトルが付けられたウェブサイトです。About の記載内容を見て見ると、もしかしたらプロジェクトとしては正確には OKOK Meter というプロジェクト名なのかもしれないです。\nこちらのサイトでは、いわゆるコンセプトアート的な意味を持つ WebGL 製の 3D インタラクティブデモと、それらに関連したオリジナルグッズなどを販売する EC サイトの機能が実装されています。\nたぶんグッズを売ることが主たる目的というわけではなくて、今回のサイトの持つコンセプトというか、アート的・クリエイティブ的の文脈のほうがまず中心にあるのかな～ という感じがします。\nリンク：\nARE YOU OKOK?",
+      "publishedAt": "2021-12-20T04:29:06.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2110_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "独自の軽量 WebGL ライブラリを用いた実装で軽快動作！ 株式会社 ACSL のスペシャルサイト",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2109",
+      "categories": "non-categoraized",
+      "description": "スピード感や疾走感のある切れのある表現\n今回ご紹介するのは、ドローン関連事業全般で様々な機器の開発・販売、サービス展開などを行っている株式会社 ACSL のスペシャルサイトです。\n今回のサイトは特に、産業用のドローン「SOTEN-蒼天」のために作られた特設サイトみたいですね。\nサイトの実装は、株式会社スタジオ ディテイルズが手掛けており、特に WebGL 実装については @ko_yelie さんが自作した kgl という軽量ライブラリを使って実装されているのだそうです。\n軽快でキレのある、かっこいいウェブサイトに仕上がっています。\nリンク：\n未来を支えるセキュアな国産ドローン「SOTEN-蒼天」 - 国産産業用ドローンのACSL | 株式会社ＡＣＳＬ",
+      "publishedAt": "2021-12-17T04:40:20.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2109_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "パーティクルやネオンのようなライン描画で重厚な世界観を描く BlueYard Capital のウェブサイト",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2108",
+      "categories": "non-categoraized",
+      "description": "効果音もどこか荘厳な感じ\n今回ご紹介するのは、いわゆるベンチャーキャピタルの BlueYard Capital のウェブサイトです。\n暗い背景に、加算合成のブレンディングで大量のパーティクルを描く、比較的よく見かけるテイストのビジュアルです。\nただ、いわゆる下層ページに相当する詳細が表示される場面では、まるでネオンのラインのような不思議な質感のオブジェクトなども登場します。\nリンク：\nBlueYard Capital",
+      "publishedAt": "2021-12-16T05:35:17.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2108_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "Gobelins のワークショップで公開されたブラウザ上で動作するシーケンサーアプリ Vortex",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2107",
+      "categories": "non-categoraized",
+      "description": "ビジュアルのインパクトも素晴らしい\n今回ご紹介するのは、フランスで多数のクリエイターを輩出してきた、Gobelins の関連サイトです。\nどうやらワークショップで作られた、あるいは公開された作品のようなのですが、普通にブラウザで楽しく遊べるウェブアプリとして公開されているオーディオシーケンサー的な実装ですね。\n独自の音源を追加することもできますが、プリセットで用意されている音源を組み合わせるだけで十分に楽しめる作りとなっています。\nリンク：\nVortex",
+      "publishedAt": "2021-12-15T05:00:04.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2107_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "全天球を活用してショップの様子を見せる 1700 年代から続く伝統の高級宝石ブランド Chaumet のウェブサイト",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2106",
+      "categories": "non-categoraized",
+      "description": "文字通り、ラグジュアリーな雰囲気満点\n今回ご紹介するのは、世界的にも有名な高級ジュエリーブランド、Chaumet のウェブサイトです。\n日本語的な発音だとショーメとなるようで、たしかになんとなく聞いたことがあるような無いような……　今回のサイトで紹介されているのはパリにある店舗や工房ですが、日本にも銀座などに支店があるようですね。\nWebGL を使っていると言ってもあまり大げさな表現がされているわけではなく、主に全天球ビューを使った表現が実装されています。\nリンク：\nChaumet - Ballade n°12 at Vendôme",
+      "publishedAt": "2021-12-14T05:02:44.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2106_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "扱っている製品同様の遊び心あふれるいろいろな仕込みが楽しい Ferro 13 のウェブサイト",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2105",
+      "categories": "non-categoraized",
+      "description": "様々な表現方法が上手に取り入れられている\n今回ご紹介するのは Ferro 13 というイタリアのワイナリーのウェブサイトです。\nWebGL を利用した個性的な表現が多く見られ、とても楽しい雰囲気に仕上げられたウェブサイトとなっています。\n実際のところ、彼らが扱っているワインの銘柄というんでしょうか、その名前も結構凝ったものが多く、ボトルに貼られたラベルのデザインとかも結構変わったものが多いです。\nリンク：\nWines Made With Love | Ferro 13",
+      "publishedAt": "2021-12-13T04:23:15.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2105_001.jpg"
+    },
+    {
+      "creator": "doxas",
+      "title": "まるでプリズムのキューブのような美しい質感に酔いしれる Vivid+Co のコーポレートサイト",
+      "publicURL": "https://webgl.souhonzan.org/entry?v=2104",
+      "categories": "non-categoraized",
+      "description": "レンズフレアのような表現も見事\n今回ご紹介するのは、Vivid+Co というエージェンシーのウェブサイトです。\nコンセプトがかなりハッキリしたウェブサイトになっていて、まるでプリズムのような透明なキューブが登場する CG は、単純にめちゃくちゃキレイで見ていて癒やされます……\nレンズフレアのような実際の物理現象っぽい表現もあり、とても洗練された雰囲気のウェブサイトとなっています。\nリンク：\nVivid+Co | Full-Service Agency and Strategic Advisor",
+      "publishedAt": "2021-12-10T06:02:12.000Z",
+      "thumbnail": "https://webgl.souhonzan.org/i/entry/2000/2104_001.jpg"
+    }
+  ],
+  "programTitle": "WebGL 総本山",
+  "programImage": "https://tympanus.net/codrops/wp-content/themes/codropstheme03/images/codrops-logo.svg",
+  "programDescription": "WebGL総合取扱い - webgl.souhonzan.org -"
+}

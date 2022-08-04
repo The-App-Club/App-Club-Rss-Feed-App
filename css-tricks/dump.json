@@ -1,0 +1,127 @@
+{
+  "episodes": [
+    {
+      "creator": "Farai Gandiya",
+      "title": "Working With Web Feeds: It’s More Than RSS",
+      "publicURL": "https://css-tricks.com/?p=358576",
+      "description": "Between Google Chrome experimenting with “following” sites, along with a growing frustration of how social media platforms limit a creator’s reach to their fans through algorithmic feeds, there’s been renewed interest in RSS feeds and they’re primed for a …",
+      "publishedAt": "2021-12-16T15:15:11.000Z",
+      "thumbnail": "https://css-tricks.com/wp-content/uploads/2021/09/fem-topstack.svg"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "Maybe there kinda is background-opacity?",
+      "publicURL": "https://css-tricks.com/?p=359032",
+      "description": "I was reading Jake’s “Cross-fading any two DOM elements is currently impossible” which is a wonderfully nerdy deep dive into how there is no real way to literally cross-fade elements. Yeah, you can animate both of their opacities, but even …",
+      "publishedAt": "2021-12-15T22:27:07.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "The Vite Ecosystem",
+      "publicURL": "https://css-tricks.com/?p=359234",
+      "description": "Matias Capeletto covers the breadth of Vite, from the technological shoulders it stands on, to the peers exploring similar territory, to the other technologies it supports, to the frameworks that now use it primarily, and more. The fact that …",
+      "publishedAt": "2021-12-15T20:58:30.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Laura Kalbag",
+      "title": "Remove Trackers",
+      "publicURL": "https://css-tricks.com/?p=358026",
+      "description": "Earlier this week, I tried out a starter theme for a blog platform. The theme had loads of nice default features: pretty typography, fancy navigation, dark mode widget… and a couple of default trackers I really don’t want just sitting …",
+      "publishedAt": "2021-12-15T15:20:14.000Z",
+      "thumbnail": "https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-08-at-11.47.48-AM.png?resize=1024%2C919&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "The UI fund",
+      "publicURL": "https://css-tricks.com/?p=359107",
+      "description": "Google is handing out bucks for CSS-related projects, so you might as well know about it! Nicole Sullivan:\nAll of us who work on the web regularly benefit from the work of people who create specifications, tools, demos, tutorials, and \n…",
+      "publishedAt": "2021-12-15T15:18:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Geoff Graham",
+      "title": "Read Your Website",
+      "publicURL": "https://css-tricks.com/?p=356603",
+      "description": "When’s the last time you read your website? Like out loud in the lobby of a Starbucks on a weekday afternoon, over the phone to your parents, or perhaps even as a bedtime story for your kids.\nNo worries, this …",
+      "publishedAt": "2021-12-14T22:37:26.000Z",
+      "thumbnail": "https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/11/theres-a-good-reason-the-burger-patties-are-square-1502392997.jpg?resize=780%2C439&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "Faulty logic",
+      "publicURL": "https://css-tricks.com/?p=359180",
+      "description": "Ain’t this the truth:\nIt’s like when you’re learning a new language. At some point your brain goes from translating from your mother tongue into the other language, and instead starts thinking in that other language.\n\n\n\n\nI don’t speak …",
+      "publishedAt": "2021-12-14T22:28:29.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Amit Sheen",
+      "title": "Think Without Boxes",
+      "publicURL": "https://css-tricks.com/?p=357660",
+      "description": "What’s the one thing people can do to make their website better? Now that is a good question. One with many right answers, like improving performance, taking care of accessibility, and upgrading user experience as prime examples. These are all …",
+      "publishedAt": "2021-12-14T15:38:00.000Z",
+      "thumbnail": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/12/p5u7lnskift11.webp?resize=960%2C476&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "I’m confused about Static Site Generators. Are they only for informational sites where I can’t log in or display any dynamic data?",
+      "publicURL": "https://css-tricks.com/?p=358672",
+      "description": "(This is a sponsored post.)\nI got this question from a listener the other day. Fair question, I’d say. The word “Static” in “Static Site Generator” is at-odds with the word “Dynamic.” It seems to imply that the website …",
+      "publishedAt": "2021-12-14T15:35:04.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "CSS-Tricks Chronicle XLI",
+      "publicURL": "https://css-tricks.com/?p=358436",
+      "description": "Ya know, I used to do one of these posts after making a few podcast appearances I hadn’t had a chance to link up yet, so I could share them. As fate would have it, I haven’t been on many …",
+      "publishedAt": "2021-12-13T22:55:14.000Z",
+      "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/cpr.jpg?resize=858%2C1024&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "File Scaffolding With Hygen",
+      "publicURL": "https://css-tricks.com/?p=359002",
+      "description": "I read a recent Smashing Magazine post that included a recommendation for Hygen. I just happen to be doing quite a bit of new UI work in a Next.js app and the amount of manual folder/file scaffolding I was …",
+      "publishedAt": "2021-12-13T22:05:20.000Z",
+      "thumbnail": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2021/12/Screen-Shot-2021-12-09-at-3.09.31-PM.png?resize=448%2C276&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "Shadow Palette Generator",
+      "publicURL": "https://css-tricks.com/?p=358926",
+      "description": "Josh’s Shadow Palette Generator is a fantastic tool. The premise is that box-shadow pretty much always looks better when there are multiple layered shadows that are a bit tinted. It reminds me of how gradients almost always look better when …",
+      "publishedAt": "2021-12-13T18:13:22.000Z",
+      "thumbnail": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/12/preview.webp?resize=2426%2C1286&ssl=1"
+    },
+    {
+      "creator": "Bramus",
+      "title": "Embrace the Platform",
+      "publicURL": "https://css-tricks.com/?p=358612",
+      "description": "So what is the one thing that people can do is to make their website better? To answer that, let’s take a step back in time …\nThe year is 1998, and the web is on the rise. In an …",
+      "publishedAt": "2021-12-13T15:18:08.000Z",
+      "thumbnail": "https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/11/nike-product-pages-js.png?resize=781%2C334&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "Ship a Full-Stack App in Days with AWS Amplify Studio",
+      "publicURL": "https://css-tricks.com/?p=358450",
+      "description": "(This is a sponsored post.)\nAmazon has a vision with AWS Amplify. First, a premise:\nAs browsers have become faster and more powerful over the last decade, front-end developers are building web apps that are more feature-rich and …",
+      "publishedAt": "2021-12-13T15:17:24.000Z",
+      "thumbnail": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/12/aws-amplify-logo.png?resize=351%2C50&ssl=1"
+    },
+    {
+      "creator": "Chris Coyier",
+      "title": "Why would a business push a native app over a website?",
+      "publicURL": "https://css-tricks.com/?p=356088",
+      "description": "I wanted to write down what I think the reasons are here in December of 2021 so that we might revisit it from time to time in the future and see if these reasons are still relevant. I’m a web …",
+      "publishedAt": "2021-12-10T22:09:56.000Z",
+      "thumbnail": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/12/image.png?resize=473%2C1024&ssl=1"
+    }
+  ],
+  "programTitle": "CSS-Tricks",
+  "programImage": "https://i1.wp.com/css-tricks.com/wp-content/uploads/2021/07/star.png?fit=32%2C32&ssl=1",
+  "programDescription": "Tips, Tricks, and Techniques on using Cascading Style Sheets."
+}

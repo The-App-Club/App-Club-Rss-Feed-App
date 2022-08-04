@@ -1,0 +1,265 @@
+[
+  {
+    "feedURL": "https://reactjsexample.com/tag/templates/rss",
+    "tagName": "Templates"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/material-design/rss",
+    "tagName": "Material design"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/list/rss", "tagName": "List" },
+  { "feedURL": "https://reactjsexample.com/tag/cards/rss", "tagName": "Cards" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/infinite-scroll/rss",
+    "tagName": "Infinite Scroll"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/bootstrap/rss",
+    "tagName": "Bootstrap"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/table/rss", "tagName": "Table" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/layout/rss",
+    "tagName": "Layout"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/scroll/rss",
+    "tagName": "Scroll"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/single-page/rss",
+    "tagName": "Single Page"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/responsive/rss",
+    "tagName": "Responsive"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/style/rss", "tagName": "Style" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/admin-template/rss",
+    "tagName": "Admin Templates"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/ui/rss", "tagName": "All UI" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/slides/rss",
+    "tagName": "Slides"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/slider/rss",
+    "tagName": "Slider"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/chart/rss", "tagName": "Chart" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/lightbox/rss",
+    "tagName": "Lightbox"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/video/rss", "tagName": "Video" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/gallery/rss",
+    "tagName": "Gallery"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/carousel/rss",
+    "tagName": "Carousel"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/images/rss",
+    "tagName": "Images"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/player/rss",
+    "tagName": "Player"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/audio/rss", "tagName": "Audio" },
+  { "feedURL": "https://reactjsexample.com/tag/music/rss", "tagName": "Music" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/movies/rss",
+    "tagName": "Movies"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/maps/rss", "tagName": "Maps" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/calculator/rss",
+    "tagName": "Calculator"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/drag/rss", "tagName": "Drag" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/tooltip/rss",
+    "tagName": "Tooltip"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/notifications/rss",
+    "tagName": "Notifications"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/pagination/rss",
+    "tagName": "Pagination"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/toggle/rss",
+    "tagName": "Toggle"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/icons/rss", "tagName": "Icons" },
+  { "feedURL": "https://reactjsexample.com/tag/emoji/rss", "tagName": "Emoji" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/progress/rss",
+    "tagName": "Progress"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/loading/rss",
+    "tagName": "Loading"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/svg/rss", "tagName": "Svg" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/accordion/rss",
+    "tagName": "Accordion"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/modals/rss",
+    "tagName": "Modals"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/popup/rss", "tagName": "Popup" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/dialogs/rss",
+    "tagName": "Dialogs"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/color/rss",
+    "tagName": "Color "
+  },
+  { "feedURL": "https://reactjsexample.com/tag/clock/rss", "tagName": "Clock" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/avatar/rss",
+    "tagName": "Avatar"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/circular/rss",
+    "tagName": "Circular"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/sticky/rss",
+    "tagName": "Sticky"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/calendar/rss",
+    "tagName": "Calendar"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/form/rss", "tagName": "Form" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/select/rss",
+    "tagName": "Select"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/date/rss", "tagName": "Date" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/typography/rss",
+    "tagName": "Typography"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/textarea/rss",
+    "tagName": "Textarea"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/message/rss",
+    "tagName": "Message"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/upload/rss",
+    "tagName": "Upload"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/notes/rss", "tagName": "Notes" },
+  { "feedURL": "https://reactjsexample.com/tag/text/rss", "tagName": "Text" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/search/rss",
+    "tagName": "Search"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/data/rss", "tagName": "Data" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/editor/rss",
+    "tagName": "Editor"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/autocomplete/rss",
+    "tagName": "Autocomplete"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/inbox/rss", "tagName": "Inbox" },
+  { "feedURL": "https://reactjsexample.com/tag/time/rss", "tagName": "Time" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/markdown/rss",
+    "tagName": "Markdown"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/input/rss", "tagName": "Input" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/dropdown/rss",
+    "tagName": "Dropdown"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/navbar/rss",
+    "tagName": "Navbar"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/navigator/rss",
+    "tagName": "Navigator"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/swipe/rss", "tagName": "Swipe" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/tabbar/rss",
+    "tagName": "Tabbar"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/sidebar/rss",
+    "tagName": "Sidebar"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/intro/rss", "tagName": "Intro" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/button/rss",
+    "tagName": "Button"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/tabs/rss", "tagName": "Tabs" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/drag-drop/rss",
+    "tagName": "Drag/Drop"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/dock/rss", "tagName": "Dock" },
+  { "feedURL": "https://reactjsexample.com/tag/fixed/rss", "tagName": "Fixed" },
+  { "feedURL": "https://reactjsexample.com/tag/tree/rss", "tagName": "Tree" },
+  { "feedURL": "https://reactjsexample.com/tag/menu/rss", "tagName": "Menu" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/animation/rss",
+    "tagName": "Animation"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/games/rss", "tagName": "Games" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/mobile/rss",
+    "tagName": "Mobile"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/todo/rss", "tagName": "Todo" },
+  { "feedURL": "https://reactjsexample.com/tag/vote/rss", "tagName": "Vote" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/sortable/rss",
+    "tagName": "Sortable"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/weather/rss",
+    "tagName": "Weather"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/resizable/rss",
+    "tagName": "Resizable"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/skillbars/rss",
+    "tagName": "Skillbars"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/framework/rss",
+    "tagName": "Framework"
+  },
+  {
+    "feedURL": "https://reactjsexample.com/tag/miscellaneous/rss",
+    "tagName": "Miscellaneous"
+  },
+  { "feedURL": "https://reactjsexample.com/tag/books/rss", "tagName": "Books" },
+  {
+    "feedURL": "https://reactjsexample.com/tag/overlay/rss",
+    "tagName": "Overlay"
+  }
+]

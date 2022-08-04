@@ -1,0 +1,58 @@
+[
+  {
+    "feedURL": "https://qiita.com/tags/webgl/feed",
+    "tagName": "webgl"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/p5.js/feed",
+    "tagName": "p5.js"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/processing/feed",
+    "tagName": "processing"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/glsl/feed",
+    "tagName": "glsl"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/three.js/feed",
+    "tagName": "three.js"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/react-three-fiber/feed",
+    "tagName": "react-three-fiber"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/blender/feed",
+    "tagName": "blender"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/gltf/feed",
+    "tagName": "gltf"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/gsap/feed",
+    "tagName": "gsap"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/react/feed",
+    "tagName": "react"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/next.js/feed",
+    "tagName": "next.js"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/firebase/feed",
+    "tagName": "firebase"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/graphql/feed",
+    "tagName": "graphql"
+  },
+  {
+    "feedURL": "https://qiita.com/tags/hasura/feed",
+    "tagName": "hasura"
+  }
+]

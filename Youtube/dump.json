@@ -1,0 +1,87 @@
+{
+  "episodes": [
+    {
+      "creator": "Mary Lou",
+      "title": "Collective #692",
+      "publicURL": "https://tympanus.net/codrops/?post_type=collective&p=57966",
+      "description": "12 Days of Web * Pixel Patterns * DoodleCSS * Breaking Out of the Box * Vortex * HTTP compression\nThe post Collective #692 appeared first on Codrops.",
+      "publishedAt": "2021-12-16T11:52:47.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/C692_WOTW.jpg"
+    },
+    {
+      "creator": "Mary Lou",
+      "title": "Inspirational Websites Roundup #32",
+      "publicURL": "https://tympanus.net/codrops/?p=57908",
+      "description": "Get updated on the latests web design trends with this carefully selected collection of creative websites.\nThe post Inspirational Websites Roundup #32 appeared first on Codrops.",
+      "publishedAt": "2021-12-14T11:03:05.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/Адвент-календарь-2022.jpg"
+    },
+    {
+      "creator": "Julián Benegas",
+      "title": "Case Study: A Unique Website for Basement Grotesque",
+      "publicURL": "https://tympanus.net/codrops/?p=57585",
+      "description": "A look behind the scenes of the website built for Basement Grotesque, the open-source typeface of basement.studio\nThe post Case Study: A Unique Website for Basement Grotesque appeared first on Codrops.",
+      "publishedAt": "2021-12-13T11:56:44.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/GT_02-800x391.png"
+    },
+    {
+      "creator": "Yuriy Artyukh",
+      "title": "Pixelated Distortion Effect with Three.js",
+      "publicURL": "https://tympanus.net/codrops/?p=57872",
+      "description": "In this coding tutorial, you'll learn how to recreate an interactive pixel distortion effect using Three.js.\nThe post Pixelated Distortion Effect with Three.js appeared first on Codrops.",
+      "publishedAt": "2021-12-13T11:30:17.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Mary Lou",
+      "title": "Collective #691",
+      "publicURL": "https://tympanus.net/codrops/?post_type=collective&p=57604",
+      "description": "The 2021 Web Almanac * Open Props * Defensive CSS * Floating UI * Line length revisited\nThe post Collective #691 appeared first on Codrops.",
+      "publishedAt": "2021-12-09T11:10:24.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/C691_WOTW.jpg"
+    },
+    {
+      "creator": "George Francis",
+      "title": "Coloring With Code — A Programmatic Approach To Design",
+      "publicURL": "https://tympanus.net/codrops/?p=57609",
+      "description": "Learn to create beautiful, inspiring, and unique color palettes/combinations, all from the comfort of your favorite text editor!\nThe post Coloring With Code — A Programmatic Approach To Design appeared first on Codrops.",
+      "publishedAt": "2021-12-07T11:31:35.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/hsl-hue-shift-comparison.png"
+    },
+    {
+      "creator": "Mary Lou",
+      "title": "UI Interactions & Animations Roundup #20",
+      "publicURL": "https://tympanus.net/codrops/?p=57740",
+      "description": "A special collection of inspirational UI interaction shots with hot animations.\nThe post UI Interactions & Animations Roundup #20 appeared first on Codrops.",
+      "publishedAt": "2021-12-06T14:12:53.000Z",
+      "thumbnail": "https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png"
+    },
+    {
+      "creator": "Yuriy Artyukh",
+      "title": "Teleportation Transition with Three.js",
+      "publicURL": "https://tympanus.net/codrops/?p=57735",
+      "description": "A coding session where you will learn how to recreate the teleportation transition seen on \"Marseille 2021\" by La Phase 5.\nThe post Teleportation Transition with Three.js appeared first on Codrops.",
+      "publishedAt": "2021-12-06T10:34:06.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Mary Lou",
+      "title": "Grid Zoom Layout",
+      "publicURL": "https://tympanus.net/codrops/?p=57586",
+      "description": "A simple image grid layout where a small grid image zooms to become larger while a content view opens.\nThe post Grid Zoom Layout appeared first on Codrops.",
+      "publishedAt": "2021-12-01T15:12:41.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/12/GridZoom_01-800x499.jpg"
+    },
+    {
+      "creator": "advertiser",
+      "title": "They’re Here! 10 Best Cyber Monday 2021 Deals for Designers and Agencies",
+      "publicURL": "https://tympanus.net/codrops/?p=57520",
+      "description": "A list of great Cyber Monday deals and bargains for designers and agencies.\nThe post They’re Here! 10 Best Cyber Monday 2021 Deals for Designers and Agencies appeared first on Codrops.",
+      "publishedAt": "2021-11-29T14:31:58.000Z",
+      "thumbnail": "https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2021/11/image-800x332.jpeg"
+    }
+  ],
+  "programTitle": "Codrops",
+  "programImage": "https://tympanus.net/codrops/wp-content/themes/codropstheme03/images/codrops-logo.svg",
+  "programDescription": "Creative front-end resources and inspiration for web professionals"
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "streamId": "0557A775",
+    "itemInfoList": [
+      {
+        "title": "オンラインゲームの舞台を雰囲気満点のマップで表現した New World の WebGL 実装サイトが面白い",
+        "published": 1638507013,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2099",
+        "description": "<center>\n                    <div style=\"text-align:center;color:#424242;font-size:0.8em;margin-bottom:30px;\">\n                        <div>\n                            Ads from Inoreader &bull; <a target=\"_blank\" style=\"text-decoration:underline;color:#424242;\" href=\"https://www.inoreader.com/about_ads\">Remove</a>\n                        </div>\n                        <div style=\"margin-top:10px;\">\n                            <a href=\"https://www.inoreader.com/adv/www/delivery/ck.php?n=a49f975d&cb=61acaccd78f4e\" target=\"_blank\"><img src=\"https://www.inoreader.com/adv/www/delivery/avw.php?zoneid=23&from_api=1&cb=61acaccd78f4e&n=a49f975d&sens=0&pd=2\" style=\"border:0;width:320px;height:50px;margin:0; auto 0 auto !important;float:none !important;\"></a>\n                        </div>\n                    </div>\n                    <div style=\"clear:both;\">\n                    </div>\n                </center>中世ヨーロッパ風のマップ表現 \n今回ご紹介するのは、いろいろな意味で（？）最近話題になっている、Amazon Games によって開発されているオンラインゲーム、New World のスペシャルサイトです。 \n私は該当するゲームをプレイしたことはないのですが、恐らくゲームの内容に沿ったマップデータが、WebGL によって再現されている形なのだと思います。 \nマウスカーソルの動きに応じたインタラクティブな効果が面白い、見た目にもカッコいいウェブサイトになっています。 \nリンク： \nMap | New World"
+      },
+      {
+        "title": "絵本のような手描き風イラストと WebGL を用いた 3D 表現が融合した de Bijenkorf のスペシャルサイト",
+        "published": 1638422034,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2098",
+        "description": "もしかしたら期間限定のサイトかもなので注意 \n今回ご紹介するのは、オランダにあるデパート de Bijenkorf のスペシャルサイトです。 \n日本で言うところの三越や高島屋といった、高級デパートなんでしょうか。今回のサイト上ではいくつかの特別なアイテムを森の中に展示したような、ちょっと不思議な世界観が作り込まれています。 \n読み込んでいる画像などのリソース量がめちゃくちゃ多いからなのか、ちょっと最初のロード部分など一部重く感じる部分があるかもしれません。 \nまた、もしかしたらこちらのサイトはセール期間などに合わせた特設サイトかもしれず、すぐに見られなくなってしまうかもしれないので注意してください。 \nリンク： \nde Bijenkorf • Bewonder en Verwonder"
+      },
+      {
+        "title": "Lusion が手掛ける被写界深度エフェクトやブルームエフェクトを駆使したリアル志向 WebGL デモ作品 GEMINI",
+        "published": 1638334368,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2097",
+        "description": "２つのモードで楽しめる \n今回ご紹介するのは、Lusion が定期的に公開しているデモ作品の１つ、GEMINI です。 \nどうやら Lusion は実験的な作品を毎月１つ公開するようにしているみたいなのですが、その一連のシリーズは、過去に当サイトでも紹介したことがありました。 \n今回の実験作では、自動車を素材にフォトリアルな質感が美しく、近未来的なインターフェースでかっこよく仕上げられた WebGL 実装を体験することができます。 \nリンク： \nGEMINI - A WebGL Car Demo by Lusion"
+      },
+      {
+        "title": "暗号資産で名前を知られる Ripple が WebGL を使ってアート作品を 3D 化したギャラリーサイトが公開中",
+        "published": 1638244922,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2096",
+        "description": "暗号資産とアート作品 \n今回ご紹介するのは、暗号資産の XRP（リップル）で有名な Ripple Labs が公開しているウェブサイトで、WebGL を利用した 3D のアートギャラリーです。 \n近年、NFT が話題に上ることも多いですが…… \nアート作品と暗号資産やブロックチェーンの結びつきには何かと注目が集まっています。 \n私はあまり暗号資産やブロックチェーン技術には詳しくないので、技術的な詳細についてはよくわからない部分もありますので、ここでは WebGL 実装について見ていけたらと思います。 \nリンク： \nThe Swell Gallery curated by Ripple | Swell Ripple 2021 Gallery"
+      },
+      {
+        "title": "ドバイの World Expo をブラウザ上で表現した Virtual expo がコンテンツも豊富でおもしろい",
+        "published": 1638159873,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2095",
+        "description": "純粋に見ていて楽しいコンテンツ \n今回ご紹介するのは、いわゆる日本語で言うところの万博に関連したウェブサイトです。 \n2020 年、ドバイを舞台に万博が開催されていたように記憶しているのですが、実際にはコロナウィルスの影響で延期され、今年の１０月からあらためて開催されている形のようです。今回のサイトはそれをブラウザ上でバーチャルに再現したものみたいです。 \n各国のブースなどもときに映像を用いて WebGL 全天球ビューで再現されていて、かなり見た目的にも物量的にもリッチな内容になっています。 \nリンク： \nExpo Map | World Expo"
+      },
+      {
+        "title": "まるで水滴のような表現が美しく WebGL 実装以外のデザイン性も高い Atrezzo のウェブサイト",
+        "published": 1637903266,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2094",
+        "description": "ファッション業界に近いメーカーらしい出来栄え \n今回ご紹介するのは、スペインでマネキンなどを製造しているメーカー、Atrezzo のウェブサイトです。 \nコーポレートサイトではなさそうなので、なにかコンセプトを持って作られたスペシャルサイトの類だと思うのですが、とにかくデザイン性が高く、そこに絶妙にマッチする WebGL 演出も面白いです。 \nインタラクティブ性のある WebGL 演出はまるで水滴のような質感が美しい仕上がりになっています。 \nリンク： \nHome - Atrezzo 360º"
+      },
+      {
+        "title": "いわゆる NFT を利用してバーチャル空間上にクラフト可能な島を所有することもできる Ariteila が面白い",
+        "published": 1637817469,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2093",
+        "description": "オンラインでのマルチプレイも可能 \n今回ご紹介するのは、ウェブブラウザベースの仮想世界、Aritelia です。 \nこちらのウェブサービス、どうやら PlayCanvas で制作されているもののようで、今現在はまだアルファ版という扱いみたいですね。 \nアルファ版ではありますが、一応普通に動作するようにはすでになっていて、カメラを自由に動かしてみたり、アバターをワールドに配置して歩き回ったり、あるいは簡単なクラフトを行ったりといったことができるようです。 \nリンク： \nAritelia"
+      },
+      {
+        "title": "いくつかの表現をブラウザ上で体験できるようにした Marina Abramović 監修の WebGL 作品 Traces",
+        "published": 1637730181,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2092",
+        "description": "ややショッキングな内容も含むためご注意 \n今回ご紹介するのは、Marina Abramović というアーティストが監修した WebGL 作品です。 \nこの Marina Abramović というアーティスト、社会や政治に対するメッセージ性の強いアートや自己表現をされる方のようで、自身が命を失ってもおかしくないようなパフォーマンスを行うことなどから結構有名らしいです…… \n今回のサイトは、そんな彼女が監修したいくつかの作品が WebGL で表現されているのですが、ちょっとショッキングな内容の写真が出てきたりもするので、そのあたりちょっと苦手な方は注意が必要かもしれません。 \n※たとえば他人に拳銃を向けている白黒写真とかが一部あったりします \nリンク： \nMarina Abramović presents Traces, a digital time capsule for future generations"
+      },
+      {
+        "title": "三角錐の形をした特徴的なパーティクルが作り出す世界観がおもしろい Dala のコーポレートサイト",
+        "published": 1637560937,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2091",
+        "description": "アニメーションの滑らかさが際立つ \n今回ご紹介するのは、Dala というとあるスタートアップのウェブサイトです。 \nAI を活用したビジネスツール系のサービスみたいですが、まだまだこれからサービスを拡大していく最初の段階というような感じですね。 \nウェブサイト上の演出はいかにも先鋭的な WebGL を使った表現になっていて、独特な三角錐（ピラミッド型）のオブジェクトを使ったパーティクルが独特な味わいを醸し出しています。 \nリンク： \nDala"
+      },
+      {
+        "title": "まるでタブ型 UI のように角丸の矩形を上手に使った表現が面白い Creative Nights のウェブサイト",
+        "published": 1637298852,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2090",
+        "description": "<center>\n                    <div style=\"text-align:center;color:#424242;font-size:0.8em;margin-bottom:30px;\">\n                        <div>\n                            Ads from Inoreader &bull; <a target=\"_blank\" style=\"text-decoration:underline;color:#424242;\" href=\"https://www.inoreader.com/about_ads\">Remove</a>\n                        </div>\n                        <div style=\"margin-top:10px;\">\n                            <a href=\"https://www.inoreader.com/adv/www/delivery/ck.php?n=a49f975d&cb=61acaccd796ae\" target=\"_blank\"><img src=\"https://www.inoreader.com/adv/www/delivery/avw.php?zoneid=23&from_api=1&cb=61acaccd796ae&n=a49f975d&sens=0&pd=2\" style=\"border:0;width:320px;height:50px;margin:0; auto 0 auto !important;float:none !important;\"></a>\n                        </div>\n                    </div>\n                    <div style=\"clear:both;\">\n                    </div>\n                </center>一見簡単そうに見えるけど…… \n今回ご紹介するのは、チェコの首都、プラハで活動しているクリエイティブスタジオ、Creative Nights のウェブサイトです。 \nトップページのタイトルに Award-Winning と書かれているとおり、いわゆるウェブのフロントエンドのアワードを中心に様々な受賞歴のあるスタジオのようで、今回のサイトはいわゆるポートフォリオの体裁をとったコーポレートサイトとなっています。 \n矩形を活用したインタラクティブ性の高いインターフェースになっており、見た目のシンプルさとは裏腹に、かなりテクニカルな実装だと思います。 \nリンク： \nCreative Nights | Award-Winning Creative Studio"
+      },
+      {
+        "title": "広大な敷地と多彩な施設を備えたロシアの商業施設 Skolkovo park のウェブサイトがおもしろい",
+        "published": 1637212188,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2089",
+        "description": "公園と一体になったオフィス街 \n今回ご紹介するのは、ロシアで現在も建設中と思われる、商業都市 Skolkovo park のウェブサイトです。 \n自然豊かな公園とオフィスが融合した施設っぽいですが…… \nとにかく規模がものすごくて、日本の都市部では、こういう潤沢な土地を活用したオフィス構想みたいなものを想像するのちょっと難しいですね…… \nオフィスビルの各棟を細かく観察できる WebGL ビューは完成度が高いです。 \nリンク： \n\"Skolkovo park\" business district"
+      },
+      {
+        "title": "レンズ越しに日本語訳の文章が見えるという個性的な演出も面白い monopo london のコーポレートサイト",
+        "published": 1637126743,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2088",
+        "description": "日本で創業したクリエイティブ・エージェンシー \n今回ご紹介するのは、もともと日本で創業した monopo のロンドンオフィスのコーポレートサイトです。 \n背景にグラデーションが美しい WebGL のビジュアルを採用していることに加え、カーソルの位置にレンズのようなものが置かれ、そのレンズ越しに文章を見ると「英語が日本語に訳されて見える」というかなり特徴的な演出を見ることができます。 \nこういう演出は他で見たことがなく、アイデアとして面白いのはもちろんですがめちゃくちゃインパクトがありますね。 \nリンク： \nmonopo london | Tokyo-born design-driven creative agency."
+      },
+      {
+        "title": "まるで実際に紙や写真を動かしているかのような空間演出が面白い Thomas Monavon さんのポートフォリオサイト",
+        "published": 1637037164,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2087",
+        "description": "テーブルの上に写真が並べられていくような感覚 \n今回ご紹介するのは、フランスで活動している Thomas Monavon さんのポートフォリオサイトです。 \ninfo のページを見るとご自身のことを Creative Designer と書いてらっしゃるので、どちらかというと開発者というよりはデザイナーなのだと思いますが、そのデザインに込められたメッセージやコンセプトは事例紹介のページなどからも感じ取ることができます。 \n写真を多く使っているため視覚的な情報量が多めですが、くどい感じは全くありません。 \nどこか現実世界のフィードバックを感じさせる独特なインタラクションのあるウェブサイトです。 \nリンク： \ntoto — Portfolio 2021"
+      },
+      {
+        "title": "ハードカバーの表紙の手触りを見事に再現した美しい WebGL 実装 Stripe Press のウェブサイト",
+        "published": 1636955869,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2086",
+        "description": "一見シンプルだが実はリッチ \n今回ご紹介するのは、決済サービスで急成長中の Stripe の関連サイトで、アイデアをテーマにした Stripe Press です。 \nこちらのサイトでは実際にハードカバーの書籍として販売されている本を WebGL で紹介しています。 \n書籍の表面の質感、特に凹凸感や光沢感などがリアルに再現されていて、見た目に楽しいのはもちろんのこと、書籍の概要がわかるほか実際に Amazon 等で購入することもできます。 \nリンク： \nStripe Press — Ideas for progress"
+      },
+      {
+        "title": "美しい動画や写真を個性的なトランジションで魅力的に演出！ オフィス12 のウェブサイト",
+        "published": 1636691831,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2085",
+        "description": "スイスイと軽いタッチのアニメーション \n今回ご紹介するのは、いわゆるシェアオフィスを提供するオフィス12 のウェブサイトです。 \nシェアオフィスと言っても、キッチンが備えられた設備になっているなど、他の同業態ではあまり見かけないようなかなり個性的なオフィスになっていて、今回のサイトでは多くの写真や動画を使ってその魅力を存分に感じることができます。 \n全体的に写真などがビジュアルの多くを占めるデザインであるため視覚的な情報量が多く、それを考慮してか軽快な動作が重視された作りになっているように感じます。 \nリンク： \n暮らしを自由にするオフィス12（ジュウニ）は住まい機能を充実したシェアオフィスのオフィスブランド"
+      },
+      {
+        "title": "Wikipedia からデータを収集して可視化する歴史のタイムラインコンテンツ！ Histography がおもしろい",
+        "published": 1636605678,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2084",
+        "description": "大量のデータをスムーズに表示する \n今回ご紹介するのは、Bezalel Academy of Arts and Design というイスラエルにあるアカデミーが公開しているコンテンツで、ビッグバンから現代まで、人類が知り得た歴史を可視化した WebGL 実装のコンテンツです。 \nWebGL 実装とは言うものの、実際は Pixi.js を利用した実装になっていて、当然 DOM を使って構築されている部分も多くあります。 \n大量の点を扱う可視化方式であるため、Pixi.js を利用して高速に処理させているのだと思います。 \nリンク： \nHistography - Timeline of History"
+      },
+      {
+        "title": "大量の 3D オブジェクトが登場するボリューム満点のコンテンツ！ Blue Marine Foundation のウェブサイト",
+        "published": 1636518878,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2083",
+        "description": "様々な海の生物が次々出てくる \n今回ご紹介するのは、イギリスにある Blue Marine Foundation のウェブサイトです。 \nFoundation とあるので、いわゆる海洋保護などのための財団なのだと思いますが、様々な海の生き物たちが登場する WebGL コンテンツを通して、海洋保護の重要性を訴えるのが今回のサイトの趣旨みたいですね。 \n登場する生き物の種類がすごく多くて、写真や WebGL を使った演出も豊富、さらにはナレーションなどの音声もかなりしっかり用意されており、とにかく物量がすごいウェブサイトとなっています。 \nリンク： \nHome - The Sea We Breathe"
+      },
+      {
+        "title": "あらゆるものに対する心づかいが伝わってくる化粧品メーカー POLA のスペシャルサイトが素晴らしい手触り",
+        "published": 1636431900,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2082",
+        "description": "創業当時から受け継がれるもの \n今回ご紹介するのは、化粧品メーカーとしておなじみの POLA（ポーラ）のスペシャルサイトです。 \nポーラというと化粧品や美白用品などのイメージが強いですが、そもそも創業のきっかけは、創業者である鈴木忍さんが妻の手荒れを直したいとハンドクリームを作ったことに由来するんだそうです。 \nそういった創業当時の逸話とも関連するのだと思いますが、POLA では「We Care More.」と題し、あらゆるものに対する心づかいやケアを行っていくという理念を掲げています。今回のサイトではそういった一連の取り組みがウェブの実装として上手にまとめられています。 \nリンク： \n目の前を救いたい。ぜんぶそこから始まる。 - We Care More. 世界を変える、心づかいを。 | ポーラ公式 エイジングケアと美白・化粧品"
+      },
+      {
+        "title": "WebGL ベースであらゆるオブジェクトがスイスイ動く！ kirifuda inc. のコーポレートサイトがすごい！",
+        "published": 1636344674,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2081",
+        "description": "様々なテクニックがギュッと詰まった実装 \n今回ご紹介するのは、kirifuda inc. のウェブサイトです。 \nウェブやアプリなどの制作・開発はもちろん、オフラインのイベントに関する業務なども手掛ける企業で、ウェブ系を始めとする様々なアワードの受賞歴もある組織なので名前をご存知の方も多いかもしれません。 \n今回はサイトをリニューアルした形なのかなと想像しますが、画面全体を覆う Canvas 上で WebGL を用いた様々なグラフィックスが入り乱れる、とてもインパクトの強いウェブサイトとなっています。 \nリンク： \n株式会社切札 | kirifuda inc."
+      },
+      {
+        "title": "まるで絵本のような風合いに様々な技術を組み合わせた WebGL コンテンツ My Little Storybook がすごい！",
+        "published": 1636088137,
+        "publicURL": "https://webgl.souhonzan.org/entry?v=2080",
+        "description": "<center>\n                    <div style=\"text-align:center;color:#424242;font-size:0.8em;margin-bottom:30px;\">\n                        <div>\n                            Ads from Inoreader &bull; <a target=\"_blank\" style=\"text-decoration:underline;color:#424242;\" href=\"https://www.inoreader.com/about_ads\">Remove</a>\n                        </div>\n                        <div style=\"margin-top:10px;\">\n                            <a href=\"https://www.inoreader.com/adv/www/delivery/ck.php?n=a49f975d&cb=61acaccd7a00b\" target=\"_blank\"><img src=\"https://www.inoreader.com/adv/www/delivery/avw.php?zoneid=23&from_api=1&cb=61acaccd7a00b&n=a49f975d&sens=0&pd=2\" style=\"border:0;width:320px;height:50px;margin:0; auto 0 auto !important;float:none !important;\"></a>\n                        </div>\n                    </div>\n                    <div style=\"clear:both;\">\n                    </div>\n                </center>インタラクティブ性も考慮された絵本コンテンツ \n今回ご紹介するのは、ハイエンドな WebGL 実装を次々と公開している Lusion のウェブサイトです。 \n今回のコンテンツも、なにか案件というよりは実験作っぽい感じのものみたいですが、本当にレベルが高くて驚かされます。 \nポストエフェクト的なシェーダを使った表現も多彩で、まるでコンソールゲームタイトルのワンシーンかのような完成度となっています。 \nリンク： \nMy Little Storybook"
+      }
+    ]
+  }
+]

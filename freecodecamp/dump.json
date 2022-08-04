@@ -1,0 +1,167 @@
+{
+  "episodes": [
+    {
+      "creator": "by AnyOne",
+      "title": "Breaking Out of the Box",
+      "publicURL": "https://alistapart.com/article/breaking-out-of-the-box/",
+      "description": "CSS is about styling boxes. In fact, the whole web is made of boxes, from the browser viewport to elements on a page. But every once in a wh...",
+      "publishedAt": "2021-12-09T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "How to Sell UX Research with Two Simple Questions",
+      "publicURL": "https://alistapart.com/article/how-to-sell-ux-research/",
+      "description": "Do you find yourself designing screens with only a vague idea of how the things on the screen relate to the things elsewhere in the system? ...",
+      "publishedAt": "2021-10-21T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "A Content Model Is Not a Design System",
+      "publicURL": "https://alistapart.com/article/a-content-model-is-not-a-design-system/",
+      "description": "Do you remember when having a great website was enough? Now, people are getting answers from Siri, Google search snippets, and mobile apps, ...",
+      "publishedAt": "2021-09-23T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Design for Safety, An Excerpt",
+      "publicURL": "https://alistapart.com/article/design-for-safety-excerpt/",
+      "description": "Antiracist economist Kim Crayton says that “intention without strategy is chaos.” We’ve discussed how our biases, assumptions, and inattenti...",
+      "publishedAt": "2021-08-26T15:01:43.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Sustainable Web Design, An Excerpt",
+      "publicURL": "https://alistapart.com/article/sustainable-web-design-excerpt/",
+      "description": "In the 1950s, many in the elite running community had begun to believe it wasn’t possible to run a mile in less than four minutes. Runners h...",
+      "publishedAt": "2021-08-05T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Voice Content and Usability",
+      "publicURL": "https://alistapart.com/article/voice-content-and-usability/",
+      "description": "We’ve been having conversations for thousands of years. Whether to convey information, conduct transactions, or simply to check in on one an...",
+      "publishedAt": "2021-07-29T13:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Designing for the Unexpected",
+      "publicURL": "https://alistapart.com/article/designing-for-the-unexpected/",
+      "description": "I’m not sure when I first heard this quote, but it’s something that has stayed with me over the years. How do you create services for situat...",
+      "publishedAt": "2021-07-15T13:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Asynchronous Design Critique: Getting Feedback",
+      "publicURL": "https://alistapart.com/article/asynchronous-design-critique-giving-feedback-part2/",
+      "description": "“Any comment?” is probably one of the worst ways to ask for feedback. It’s vague and open ended, and it doesn’t provide any indication of wh...",
+      "publishedAt": "2021-07-01T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Asynchronous Design Critique: Giving Feedback",
+      "publicURL": "https://alistapart.com/article/async-design-critique-giving-feedback/",
+      "description": "Feedback, in whichever form it takes, and whatever it may be called, is one of the most effective soft skills that we have at our disposal t...",
+      "publishedAt": "2021-06-17T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "That’s Not My Burnout",
+      "publicURL": "https://alistapart.com/article/thats-not-my-burnout/",
+      "description": "Are you like me, reading about people fading away as they burn out, and feeling unable to relate? Do you feel like your feelings are invisib...",
+      "publishedAt": "2021-05-20T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by , AnyOne",
+      "title": "Beware the Cut ‘n’ Paste Persona",
+      "publicURL": "https://alistapart.com/article/beware-the-cut-n-paste-persona/",
+      "description": "This Person Does Not Exist is a website that generates human faces with a machine learning algorithm. It takes real portraits and recombines...",
+      "publishedAt": "2021-05-06T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Immersive Content Strategy",
+      "publicURL": "https://alistapart.com/article/immersive-content-strategy/",
+      "description": "Beyond the severe toll of the coronavirus pandemic, perhaps no other disruption has transformed user experiences quite like how the tethers ...",
+      "publishedAt": "2021-04-29T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Do You Need to Localize Your Website?",
+      "publicURL": "https://alistapart.com/article/do-you-need-to-localize-your-website/",
+      "description": "Global markets give you access to new customers. All you need to do is inform potential buyers about your product or service. \nYour website ...",
+      "publishedAt": "2021-04-22T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Human-Readable JavaScript: A Tale of Two Experts",
+      "publicURL": "https://alistapart.com/article/human-readable-javascript/",
+      "description": "Everyone wants to be an expert. But what does that even mean? Over the years I’ve seen two types of people who are referred to as “experts.”...",
+      "publishedAt": "2021-03-25T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Now THAT&#8217;S What I Call Service Worker!",
+      "publicURL": "https://alistapart.com/article/now-thats-what-i-call-service-worker/",
+      "description": "The Service Worker API is the Dremel of the web platform. It offers incredibly broad utility while also yielding resiliency and better perfo...",
+      "publishedAt": "2021-03-18T14:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "Keeping Your Design Mind New and Fresh",
+      "publicURL": "https://alistapart.com/article/keeping-a-fresh-design-mind/",
+      "description": "“Only a fool knows everything.”\n— African Proverb\nSince March 2020, most of us have been working from home, and the days blend into each oth...",
+      "publishedAt": "2021-03-11T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "How to Get a Dysfunctional Team Back on Track",
+      "publicURL": "https://alistapart.com/article/dysfunctional-teams-back-on-track/",
+      "description": "Maybe you’ve been part of a team that you’ve seen slowly slide into a rut. You didn’t notice it happen, but you’re now not shipping anything...",
+      "publishedAt": "2021-03-04T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "The Future of Web Software Is HTML-over-WebSockets",
+      "publicURL": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
+      "description": "The future of web-based software architectures is already taking form, and this time it’s server-rendered (again). Papa’s got a brand new ba...",
+      "publishedAt": "2021-02-25T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by , AnyOne",
+      "title": "Designing Inclusive Content Models",
+      "publicURL": "https://alistapart.com/article/designing-inclusive-content-models/",
+      "description": "In the 1920s, Robert Moses designed a system of parkways surrounding New York City. His designs, which included overpasses too low for publi...",
+      "publishedAt": "2021-02-18T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "by AnyOne",
+      "title": "The Never-Ending Job of Selling Design Systems",
+      "publicURL": "https://alistapart.com/article/selling-design-systems/",
+      "description": "I’m willing to bet that you probably didn’t start your web career because you wanted to be a politician or a salesperson. But here’s the col...",
+      "publishedAt": "2021-02-11T15:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "A List Apart: The Full Feed",
+  "programImage": "https://i0.wp.com/alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=960&ssl=1",
+  "programDescription": "Articles for people who make web sites."
+}

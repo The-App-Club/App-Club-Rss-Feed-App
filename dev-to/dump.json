@@ -1,0 +1,103 @@
+{
+  "episodes": [
+    {
+      "creator": "Kirti ",
+      "title": "PAGINATION using react/Paginate",
+      "publicURL": "https://dev.to/kirtisingh3008/pagination-using-reactpaginate-11o5",
+      "description": "Hello everyone, let's build a new feature with this article (i.e. pagination) many of you are already aware and have seen this feature in ma...",
+      "publishedAt": "2021-12-16T17:15:05.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Shayan Holakouee",
+      "title": "Rails 7, The Shinning Star We've been waiting for",
+      "publicURL": "https://dev.to/shayanholakouee/rails-7-the-shinning-star-weve-been-waiting-for-4npn",
+      "description": "Over the last few weeks, DHH and the Rails core team have announced a number of different JavaScript build tools for use with Rails 7. As I ...",
+      "publishedAt": "2021-12-16T17:08:30.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Code Media",
+      "title": "Build a Countdown Timer using JavaScript",
+      "publicURL": "https://dev.to/codemediaweb/build-a-countdown-timer-using-javascript-37ba",
+      "description": "In this article you will learn how to create JavaScript in countdown time. It's a bit like a digital watch, but it's the complete opposite. ...",
+      "publishedAt": "2021-12-16T17:03:18.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Vijay Patel",
+      "title": "AWS Relational Database - How to Create RDS Instance",
+      "publicURL": "https://dev.to/easyawslearn/aws-relational-database-how-to-create-rds-instance-2dn6",
+      "description": "What is Relational Database Service (RDS)\n\n\nAmazon Relational Database Service (Amazon RDS) makes it easy to set up, operate, and scale a re...",
+      "publishedAt": "2021-12-16T16:42:14.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Alok Kumar",
+      "title": "JavaScript Types ",
+      "publicURL": "https://dev.to/thecoollearner/javascript-types-5b4k",
+      "description": "Hey All 👋\nThis is more of a notes rather than an article that I took while doing an course. In this article we will talk about JavaScript t...",
+      "publishedAt": "2021-12-16T16:41:40.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Jenna Blumenfeld",
+      "title": "How to Build a Slack Clone with a Chat API",
+      "publicURL": "https://dev.to/jennablumenfeld/how-to-build-a-slack-clone-with-a-chat-api-73h",
+      "description": "Team messaging apps such as Slack, Google Chat, and Microsoft Teams are essential to modern workplaces. Particularly when many employees are...",
+      "publishedAt": "2021-12-16T16:27:28.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Adnan",
+      "title": "Day 1 of #100daysofcode: yay flexbox!",
+      "publicURL": "https://dev.to/th3realad/day-1-of-100daysofcode-yay-flexbox-132",
+      "description": "First day of 100 on TOP curriculum.\n\n\n\n  \n  \n  Points of this article:\n\n\n\nwhat i'm doing today.\nmy first flex real challenge\nQ-A\nanswers to ...",
+      "publishedAt": "2021-12-16T16:20:11.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Matthew Foley",
+      "title": "Implementing Dark Mode (Part 3)",
+      "publicURL": "https://dev.to/opensauced/implementing-dark-mode-part-3-5gn",
+      "description": "In contributing to Open Sauced and other OSS projects as well, I've found time and time again that there are such ample opportunities to lea...",
+      "publishedAt": "2021-12-16T15:57:20.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Andreas Sommarström",
+      "title": "Update dependencies safely - with a delay on newly published versions",
+      "publicURL": "https://dev.to/sumstrm/update-dependencies-safely-with-a-delay-on-newly-published-versions-17k9",
+      "description": "It’s common to regularly pull the latest versions of packages from public upstreams - without review or regard for version maturity. And in ...",
+      "publishedAt": "2021-12-16T15:40:36.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Raghav Mrituanjaya",
+      "title": "Introduction to Tor",
+      "publicURL": "https://dev.to/raghavmri/introduction-to-tor-2h3",
+      "description": "Why Tor?\n\n\nHave you ever wondered when you search for some product like let's say a Mobile Phone and Facebook, Google And Many others show y...",
+      "publishedAt": "2021-12-16T15:30:12.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "Ustariz Enzo",
+      "title": "The useRef() hook in React!",
+      "publicURL": "https://dev.to/ziratsu/the-useref-hook-in-react-3h98",
+      "description": "Hey fellow creators\nThe useRef() hook is a way to select elements with React. You could use the usual document.querySelector method, however...",
+      "publishedAt": "2021-12-16T15:10:24.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "creator": "martin tyeman",
+      "title": "Binance Clone App- Get Exclusive Binance Clone App Solutions for Your Business Startup",
+      "publicURL": "https://dev.to/martintyeman/binance-clone-app-get-exclusive-binance-clone-app-solutions-for-your-business-startup-2e8p",
+      "description": "Binance clone app development\n\n\nThis article will explore the concept of Binance clone app development and show if they are business-friendl...",
+      "publishedAt": "2021-12-16T14:31:55.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "DEV Community",
+  "programImage": "https://res.cloudinary.com/practicaldev/image/fetch/s--pVCMYZWJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_350/https://scontent-lga3-1.cdninstagram.com/vp/7c898e2c9e9fa71f72dd5d422d444549/5DFE1BFA/t51.2885-15/fr/e15/s1080x1080/57390242_386431405416711_440644832181536446_n.jpg%3F_nc_ht%3Dscontent-lga3-1.cdninstagram.com",
+  "programDescription": "A constructive and inclusive social network for software developers. With you every step of your journey."
+}

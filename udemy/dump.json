@@ -1,0 +1,869 @@
+{
+  "count": 1628,
+  "next": "https://www.udemy.com/api-2.0/courses/?category=IT+%26+Software&page=2&page_size=12&search=javascript+react",
+  "previous": null,
+  "results": [
+    {
+      "_class": "course",
+      "id": 3452848,
+      "title": "モダンJavaScriptの基礎から始める挫折しないためのReact入門",
+      "url": "/course/modern_javascipt_react_beginner/",
+      "is_paid": true,
+      "price": "￥4,200",
+      "price_detail": {
+        "amount": 4200,
+        "currency": "JPY",
+        "price_string": "￥4,200",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "XhBlmt74Tui_pjrdVya2JQ",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 56179368,
+          "title": "じゃけぇ (Takumi Okada)",
+          "name": "じゃけぇ",
+          "display_name": "じゃけぇ (Takumi Okada)",
+          "job_title": "Frontend Developer",
+          "image_50x50": "https://img-b.udemycdn.com/user/50x50/56179368_6705_3.jpg?secure=lWTPBf9TzgsG5kjUHW8clw%3D%3D%2C1641485790",
+          "image_100x100": "https://img-b.udemycdn.com/user/100x100/56179368_6705_3.jpg?secure=uIC-WWTNRzs3NzR8mFxb-g%3D%3D%2C1641485790",
+          "initials": "(",
+          "url": "/user/huriransuziyakee/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3452848_0c2e.jpg?secure=J2pAsf-lBSu-sPlTALy3Hg%3D%3D%2C1641485790",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3452848_0c2e.jpg?secure=fw8psXW-Yu9IXNgokNtRHw%3D%3D%2C1641485790",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3452848_0c2e.jpg?secure=11CYry0ZOfP3iH_JKDfnIw%3D%3D%2C1641485790",
+      "published_title": "modern_javascipt_react_beginner",
+      "tracking_id": "D-tb0ZTSRsioniJjhcup_w",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "Reactの習得に苦戦する理由は「JavaScript」への理解不足です。このコースではスムーズにReact開発のスタート地点に立てるように、モダンJavaScriptの動作の仕組みや概念、機能から解説します。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3723270,
+      "title": "Nextjs + Tailwind CSS +  Django REST Framework で学ぶモダンReact開発",
+      "url": "/course/nextjs-tailwind-css-django-rest-framework-react/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "yfhpZHAkRoisvq6zBRLHLA",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3723270_61e7_4.jpg?secure=waS8j-qauDkxu2BPydLr-Q%3D%3D%2C1641485790",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3723270_61e7_4.jpg?secure=R14gun7XX9zl6pBqEC_8cA%3D%3D%2C1641485790",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3723270_61e7_4.jpg?secure=CzbeTtzMUsF7WU5RcnfcgA%3D%3D%2C1641485790",
+      "published_title": "nextjs-tailwind-css-django-rest-framework-react",
+      "tracking_id": "ErEKM83-ThCBCK4QKjurBg",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "[最新技術] : ホームページ、LP、ブログなどSEO対策や高速レンダリングに最適なモダンReact フレームワークNext.jsを習得します。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 995788,
+      "title": "すぐできる！動かす React JS サンプル講座",
+      "url": "/course/reactjs-x/",
+      "is_paid": true,
+      "price": "￥4,800",
+      "price_detail": {
+        "amount": 4800,
+        "currency": "JPY",
+        "price_string": "￥4,800",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "HnhVXZFiQWeEB6USYBiFNg",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 26731752,
+          "title": "和香奈 吉澤",
+          "name": "和香奈",
+          "display_name": "和香奈 吉澤",
+          "job_title": "株式会社CAMON.TOKYO CEO 兼 CTO",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/26731752_de5e_3.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/26731752_de5e_3.jpg",
+          "initials": "",
+          "url": "/user/ji-ze-he-xiang-nai/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/995788_4a62_2.jpg?secure=YOrXM2Ubg_aGtoSG3wN-fA%3D%3D%2C1641485790",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/995788_4a62_2.jpg?secure=hNTZJunWvWKZV6vfVQQ4zQ%3D%3D%2C1641485790",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/995788_4a62_2.jpg?secure=H1vILzpAazJOOsSVWQxilw%3D%3D%2C1641485790",
+      "published_title": "reactjs-x",
+      "tracking_id": "l6tgNe8YSyKkN8ZwqSpkDw",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "jQuery は使ったことがあるけれど、React JS も使えるようになりたいという方を対象にしたコースです。動く React サンプルの作成ついてご紹介します。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3295154,
+      "title": "[COVID 19アプリ編] Reactで作るコロナウイルス Live ダッシュボード",
+      "url": "/course/covid-19-react-live/",
+      "is_paid": true,
+      "price": "￥19,800",
+      "price_detail": {
+        "amount": 19800,
+        "currency": "JPY",
+        "price_string": "￥19,800",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "FOWXdJu6QmKaalogqUchCg",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3295154_ad7f.jpg?secure=mClVjVzn7fIAjqrJfaeK4Q%3D%3D%2C1641485790",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3295154_ad7f.jpg?secure=3N8KbeEdc2WqxpBjgmfzOQ%3D%3D%2C1641485790",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3295154_ad7f.jpg?secure=Mh2YpBGR03KWGTvyOckc1A%3D%3D%2C1641485790",
+      "published_title": "covid-19-react-live",
+      "tracking_id": "n9Cn5L1pSeCaVrSAvWFo_Q",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [
+        {
+          "title": "[訂正]create-<strong>react</strong>-app オプションとchart <strong>js</strong> のversion指定",
+          "id": 24588166,
+          "item_type": "lecture",
+          "has_linked_workspace": false
+        },
+        {
+          "title": "[訂正] create-<strong>react</strong>-app オプションとchart <strong>js</strong> + axios のversion指定",
+          "id": 24588204,
+          "item_type": "lecture",
+          "has_linked_workspace": false
+        },
+        {
+          "title": "[訂正] create-<strong>react</strong>-app オプションとchart <strong>js</strong>+axios version",
+          "id": 24588228,
+          "item_type": "lecture",
+          "has_linked_workspace": false
+        }
+      ],
+      "headline": "React Hooks + Redux ToolKit + TypeScript を使って、COVID19 (コロナウイルス)ダッシュボードWebアプリを作ります。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 4048592,
+      "title": "High Performance React Web 開発",
+      "url": "/course/high-performance-react-web-django/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "kGicdfBBQxeIQJgivJx49w",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/4048592_0934_4.jpg?secure=DL94j414lt5hYY3LqFOA5Q%3D%3D%2C1641485839",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/4048592_0934_4.jpg?secure=7tmJroXUHGulvBzhsHa9hw%3D%3D%2C1641485839",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/4048592_0934_4.jpg?secure=rdme18oY72RoSzQ5mL85lQ%3D%3D%2C1641485839",
+      "published_title": "high-performance-react-web-django",
+      "tracking_id": "v5YmN03gS3eJfyKEey56hg",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "2021最新のReact開発における状態管理のBest practiceを習得。react-query, redux-toolkit, custom hook, memoを活用した高性能React application開発",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3576919,
+      "title": "Firebase + React Hooks(TypeScript)によるWebアプリ開発",
+      "url": "/course/firebase-react-hookstypescriptweb/",
+      "is_paid": true,
+      "price": "￥19,800",
+      "price_detail": {
+        "amount": 19800,
+        "currency": "JPY",
+        "price_string": "￥19,800",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "bNvKrzOjSc2DpKCAZy_4mg",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3576919_2dd3_3.jpg?secure=DkeS3_dTk4TmOp7pJZGFjg%3D%3D%2C1641485839",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3576919_2dd3_3.jpg?secure=apaCkol0Fax9zSCX-pHNoA%3D%3D%2C1641485839",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3576919_2dd3_3.jpg?secure=ZzsaicHB_kwSboWUOd7clw%3D%3D%2C1641485839",
+      "published_title": "firebase-react-hookstypescriptweb",
+      "tracking_id": "Qlso6HPET5qTbVaOhkoDIQ",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "Twitter の クローンアプリを作成しながらReactとFirebase連携、Redux ToolKit、TypeScriptについて学びます。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3746032,
+      "title": "[テスト編] Nextjs + React-testing-libraryでモダンReactソフトウェアテスト",
+      "url": "/course/nextjs-react-testing-library-react/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "5n38rCQFQjielheaDsTwCg",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-b.udemycdn.com/user/50x50/31774944_54f9_12.jpg?secure=8SeEf7U7G0l4LjJb2z_P_A%3D%3D%2C1641485868",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3746032_6c07_3.jpg?secure=Un_F2HVpAW7vqh0Ek9agEQ%3D%3D%2C1641485868",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3746032_6c07_3.jpg?secure=tzM8AtNO5G8ITM-jfK8abQ%3D%3D%2C1641485868",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3746032_6c07_3.jpg?secure=VK5IEHm9k9hylG74svfEmQ%3D%3D%2C1641485868",
+      "published_title": "nextjs-react-testing-library-react",
+      "tracking_id": "iRnUzUPVT0eDSXACtExGaw",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "日本先行公開 : NextjsのReact-testing-libraryを使ったテスト手法を体系的に学習。TypeScript, Tailwind CSS, Jest, React-Testing-Library, MSW, useSWR",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3261882,
+      "title": "[Redux編] Redux Tool KitとReact HooksによるモダンReact フロントエンド開発",
+      "url": "/course/redux-redux-tool-kitreact-hooksreact/",
+      "is_paid": true,
+      "price": "￥19,800",
+      "price_detail": {
+        "amount": 19800,
+        "currency": "JPY",
+        "price_string": "￥19,800",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "nCKObVETRfya9D-BqetcTg",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-b.udemycdn.com/user/50x50/31774944_54f9_12.jpg?secure=8SeEf7U7G0l4LjJb2z_P_A%3D%3D%2C1641485868",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3261882_6e86_8.jpg?secure=91p4uXR_IG9WUsyGNx5QiQ%3D%3D%2C1641485868",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3261882_6e86_8.jpg?secure=lgf_TLPi7qgYpo1o0U6iSw%3D%3D%2C1641485868",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3261882_6e86_8.jpg?secure=8ZsRXwnrZg0C3VhfuxGQdA%3D%3D%2C1641485868",
+      "published_title": "redux-redux-tool-kitreact-hooksreact",
+      "tracking_id": "XRf7p8miQ9mY_3b6Hxd-4A",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "Redux開発チームから公式に推奨されている最新技術 Redux Tool Kitの使い方を学びます。React Hooks + Redux Tool Kitで最新のReact開発手法を習得します。API との連携も網羅しています。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3399722,
+      "title": "Reactソフトウェアテスト(Hooks+ReduxToolKit時代のモダンテスト手法)",
+      "url": "/course/reacthooksreduxtoolkit/",
+      "is_paid": true,
+      "price": "￥19,800",
+      "price_detail": {
+        "amount": 19800,
+        "currency": "JPY",
+        "price_string": "￥19,800",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "X6n18A_BQfuVtw1EnSXpHQ",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3399722_4300_3.jpg?secure=xt8-hGlqFfEc_Uaa4q4RMQ%3D%3D%2C1641485839",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3399722_4300_3.jpg?secure=YxDEVEliI1WALDejstj0-g%3D%3D%2C1641485839",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3399722_4300_3.jpg?secure=nFWz8JY_hMhL8sIQcZxC4w%3D%3D%2C1641485839",
+      "published_title": "reacthooksreduxtoolkit",
+      "tracking_id": "H-KQy60rSuq-1gK9bNTTIw",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "React Testing Library + JESTを使った最新ソフトウェアテスト手法を解説。Redux ToolKitのIntegration Testや最新API Mock手法を解説。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 2947556,
+      "title": "JavaScript(ES6)/Vue.js/TypeScript フロントエンド技術入門",
+      "url": "/course/js-ts-vue/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "IVmHtcG8RaeWEmYttIhiTw",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 15592430,
+          "title": "たにぐち まこと（ともすた）",
+          "name": "たにぐち",
+          "display_name": "たにぐち まこと（ともすた）",
+          "job_title": "HTML/CSS/JavaScript/PHP",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/15592430_0d9c_3.jpg",
+          "image_100x100": "https://img-b.udemycdn.com/user/100x100/15592430_0d9c_3.jpg?secure=6U4r869CSXPS-epBOS7ycQ%3D%3D%2C1641485790",
+          "initials": "",
+          "url": "/user/taniguchi-makoto/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/2947556_08b5.jpg?secure=_CpnqL5-jSHPLVdH2TNJSw%3D%3D%2C1641485790",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/2947556_08b5.jpg?secure=bEDteCvtcbslLzjte0_hZQ%3D%3D%2C1641485790",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/2947556_08b5.jpg?secure=bJFqoZJyq1lVrkj_TvInEA%3D%3D%2C1641485790",
+      "published_title": "js-ts-vue",
+      "tracking_id": "6PKD1uPdTgq1nd_oGaHq5A",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "フロントエンド開発に欠かせない JavaScriptをキホンから。TypeScriptや Vue.jsもこれ一本で学習して頂けます。",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 3845506,
+      "title": "[Hasura基礎編] Nextjs+Hasura+Apollo Clientで学ぶモダンGraphQL Web開発",
+      "url": "/course/hasura-nextjs-hasura-apollo-client-graphql-web/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "yqJyU0ZVQUyoG65XwoRqyw",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-b.udemycdn.com/user/100x100/31774944_54f9_12.jpg?secure=gvxY1QKEH8buMS4Ne57Z7g%3D%3D%2C1641485839",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/3845506_b94d_5.jpg?secure=nTz_Wkz6m9RGiXZ6L_X2ow%3D%3D%2C1641485839",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/3845506_b94d_5.jpg?secure=VIb_ZsnmLBg7z2oNB_Ig2A%3D%3D%2C1641485839",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/3845506_b94d_5.jpg?secure=cgOXGCuRERZLlzRqtJJP9A%3D%3D%2C1641485839",
+      "published_title": "hasura-nextjs-hasura-apollo-client-graphql-web",
+      "tracking_id": "E6iIbplqSGiTTherhG68vg",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "Hasura cloud, Nextjs, Apollo Client, Typescript, React-testing-library, Tailwind CSS, MSW, next-page-tester",
+      "instructor_name": null
+    },
+    {
+      "_class": "course",
+      "id": 4100678,
+      "title": "[Hasura応用編] Nextjs + Firebase + HasuraによるGraphQL Web開発",
+      "url": "/course/hasura-nextjs-firebase-hasuragraphql-web/",
+      "is_paid": true,
+      "price": "￥24,000",
+      "price_detail": {
+        "amount": 24000,
+        "currency": "JPY",
+        "price_string": "￥24,000",
+        "currency_symbol": "¥"
+      },
+      "price_serve_tracking_id": "vJNP0h2BQbu7Vxc_ZOXpoA",
+      "visible_instructors": [
+        {
+          "_class": "user",
+          "id": 31774944,
+          "title": "Kazu .T",
+          "name": "Kazu",
+          "display_name": "Kazu .T",
+          "job_title": "React, Rust, FastAPI, DRF, GraphQL",
+          "image_50x50": "https://img-c.udemycdn.com/user/50x50/31774944_54f9_12.jpg",
+          "image_100x100": "https://img-c.udemycdn.com/user/100x100/31774944_54f9_12.jpg",
+          "initials": "K.",
+          "url": "/user/goma777/"
+        }
+      ],
+      "image_125_H": "https://img-b.udemycdn.com/course/125_H/4100678_bd43_2.jpg?secure=1F05fzMZV68ofwqi79W8_Q%3D%3D%2C1641485868",
+      "image_240x135": "https://img-b.udemycdn.com/course/240x135/4100678_bd43_2.jpg?secure=xK1Pez0_lRX-2cyqlIHGKw%3D%3D%2C1641485868",
+      "is_practice_test_course": false,
+      "image_480x270": "https://img-b.udemycdn.com/course/480x270/4100678_bd43_2.jpg?secure=JYFkTZ6JTeUA71QsOfxp1g%3D%3D%2C1641485868",
+      "published_title": "hasura-nextjs-firebase-hasuragraphql-web",
+      "tracking_id": "tIiJPIfVTYKMYig9l7QJ0Q",
+      "predictive_score": null,
+      "relevancy_score": null,
+      "input_features": null,
+      "lecture_search_result": null,
+      "curriculum_lectures": [],
+      "order_in_results": null,
+      "curriculum_items": [],
+      "headline": "Nextjs + React-query + Firebase + Hasura + Redux-toolkit + TypeScriptによるGraphQL Web開発手法を習得",
+      "instructor_name": null
+    }
+  ],
+  "aggregations": [
+    {
+      "id": "price",
+      "title": "価格",
+      "options": [
+        {
+          "key": "price",
+          "title": "有料",
+          "count": 1336,
+          "value": "price-paid"
+        },
+        {
+          "key": "price",
+          "title": "無料",
+          "count": 292,
+          "value": "price-free"
+        }
+      ]
+    },
+    {
+      "id": "instructional_level",
+      "title": "レベル",
+      "options": [
+        {
+          "key": "instructional_level",
+          "title": "初級",
+          "count": 775,
+          "value": "beginner"
+        },
+        {
+          "key": "instructional_level",
+          "title": "すべてのレベル",
+          "count": 549,
+          "value": "all"
+        },
+        {
+          "key": "instructional_level",
+          "title": "中級",
+          "count": 285,
+          "value": "intermediate"
+        },
+        {
+          "key": "instructional_level",
+          "title": "専門",
+          "count": 19,
+          "value": "expert"
+        }
+      ]
+    },
+    {
+      "id": "features",
+      "title": "特徴",
+      "options": [
+        {
+          "key": "has_closed_caption",
+          "title": "字幕",
+          "count": 942,
+          "value": "true"
+        },
+        {
+          "key": "has_simple_quiz",
+          "title": "小テスト",
+          "count": 242,
+          "value": "true"
+        },
+        {
+          "key": "has_coding_exercises",
+          "title": "コーディング練習",
+          "count": 33,
+          "value": "true"
+        }
+      ]
+    },
+    {
+      "id": "language",
+      "title": "言語",
+      "options": [
+        {
+          "key": "language",
+          "title": "English",
+          "count": 828,
+          "value": "en"
+        },
+        {
+          "key": "language",
+          "title": "Español",
+          "count": 250,
+          "value": "es"
+        },
+        {
+          "key": "language",
+          "title": "Português",
+          "count": 129,
+          "value": "pt"
+        },
+        {
+          "key": "language",
+          "title": "日本語",
+          "count": 87,
+          "value": "ja"
+        },
+        {
+          "key": "language",
+          "title": "Italiano",
+          "count": 47,
+          "value": "it"
+        },
+        {
+          "key": "language",
+          "title": "Bahasa Indonesia",
+          "count": 42,
+          "value": "id"
+        },
+        {
+          "key": "language",
+          "title": "Français",
+          "count": 40,
+          "value": "fr"
+        },
+        {
+          "key": "language",
+          "title": "العربية",
+          "count": 30,
+          "value": "ar"
+        },
+        {
+          "key": "language",
+          "title": "Русский",
+          "count": 25,
+          "value": "ru"
+        },
+        {
+          "key": "language",
+          "title": "中文",
+          "count": 24,
+          "value": "zh"
+        },
+        {
+          "key": "language",
+          "title": "Türkçe",
+          "count": 22,
+          "value": "tr"
+        },
+        {
+          "key": "language",
+          "title": "한국어",
+          "count": 13,
+          "value": "ko"
+        },
+        {
+          "key": "language",
+          "title": "தமிழ்",
+          "count": 13,
+          "value": "ta"
+        },
+        {
+          "key": "language",
+          "title": "हिन्दी",
+          "count": 12,
+          "value": "hi"
+        },
+        {
+          "key": "language",
+          "title": "Polski",
+          "count": 12,
+          "value": "pl"
+        },
+        {
+          "key": "language",
+          "title": "Deutsch",
+          "count": 11,
+          "value": "de"
+        },
+        {
+          "key": "language",
+          "title": "Bangla",
+          "count": 8,
+          "value": "bn"
+        },
+        {
+          "key": "language",
+          "title": "اردو",
+          "count": 8,
+          "value": "ur"
+        },
+        {
+          "key": "language",
+          "title": "ภาษาไทย",
+          "count": 7,
+          "value": "th"
+        },
+        {
+          "key": "language",
+          "title": "Tiếng Việt",
+          "count": 7,
+          "value": "vi"
+        },
+        {
+          "key": "language",
+          "title": "Română",
+          "count": 4,
+          "value": "ro"
+        },
+        {
+          "key": "language",
+          "title": "Українська",
+          "count": 3,
+          "value": "uk"
+        },
+        {
+          "key": "language",
+          "title": "Български",
+          "count": 1,
+          "value": "bg"
+        },
+        {
+          "key": "language",
+          "title": "ગુજરાતી",
+          "count": 1,
+          "value": "gu"
+        },
+        {
+          "key": "language",
+          "title": "‏עברית‏",
+          "count": 1,
+          "value": "he"
+        },
+        {
+          "key": "language",
+          "title": "Hrvatski",
+          "count": 1,
+          "value": "hr"
+        },
+        {
+          "key": "language",
+          "title": "Malayāḷam",
+          "count": 1,
+          "value": "ml"
+        },
+        {
+          "key": "language",
+          "title": "Српски",
+          "count": 1,
+          "value": "sr"
+        }
+      ]
+    },
+    {
+      "id": "ratings",
+      "title": "評価",
+      "options": [
+        {
+          "key": "ratings",
+          "title": "4.5以上",
+          "count": 539,
+          "value": "4.5"
+        },
+        {
+          "key": "ratings",
+          "title": "4.0以上",
+          "count": 1080,
+          "value": "4.0"
+        },
+        {
+          "key": "ratings",
+          "title": "3.5以上",
+          "count": 1310,
+          "value": "3.5"
+        },
+        {
+          "key": "ratings",
+          "title": "3.0以上",
+          "count": 1405,
+          "value": "3.0"
+        }
+      ]
+    },
+    {
+      "id": "duration",
+      "title": "時間",
+      "options": [
+        {
+          "key": "duration",
+          "title": "0～1時間",
+          "count": 291,
+          "value": "extraShort"
+        },
+        {
+          "key": "duration",
+          "title": "1～3時間",
+          "count": 564,
+          "value": "short"
+        },
+        {
+          "key": "duration",
+          "title": "3～6時間",
+          "count": 326,
+          "value": "medium"
+        },
+        {
+          "key": "duration",
+          "title": "6～17時間",
+          "count": 339,
+          "value": "long"
+        },
+        {
+          "key": "duration",
+          "title": "17時間以上",
+          "count": 108,
+          "value": "extraLong"
+        }
+      ]
+    }
+  ],
+  "search_tracking_id": "6H26DhkySraV-uVuHVaJeg"
+}

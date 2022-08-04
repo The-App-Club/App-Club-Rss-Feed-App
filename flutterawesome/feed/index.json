@@ -1,0 +1,315 @@
+[
+  { "feedURL": "https://flutterawesome.com/tag/grid/rss", "tagName": "Grid" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/material-design/rss",
+    "tagName": "Material Design"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/cards/rss", "tagName": "Cards" },
+  { "feedURL": "https://flutterawesome.com/tag/flip/rss", "tagName": "Flip" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/layout/rss",
+    "tagName": "Layout"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/splash-screen/rss",
+    "tagName": "Splash Screen"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/intro-screen/rss",
+    "tagName": "Intro Screen"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/onboarding/rss",
+    "tagName": "Onboarding"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/login-screen/rss",
+    "tagName": "Login Screen"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/timeline/rss",
+    "tagName": "Timeline"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/list/rss", "tagName": "List" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/perallax-scroll/rss",
+    "tagName": "Perallax Scroll"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/ui/rss", "tagName": "All UI" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/slider/rss",
+    "tagName": "Slider"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/maps/rss", "tagName": "Maps" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/images/rss",
+    "tagName": "Images"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/gallery/rss",
+    "tagName": "Gallery"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/movie/rss", "tagName": "Movie" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/music-player/rss",
+    "tagName": "Music"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/carousel/rss",
+    "tagName": "Carousel"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/chart/rss",
+    "tagName": "Charts"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/video/rss",
+    "tagName": "Video Player"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/audio/rss", "tagName": "Audio" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/animation/rss",
+    "tagName": "Animation"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/calculator/rss",
+    "tagName": "Calculator"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/chips/rss", "tagName": "Chips" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/curves/rss",
+    "tagName": "Curves"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/time/rss", "tagName": "Time" },
+  { "feedURL": "https://flutterawesome.com/tag/icons/rss", "tagName": "Icons" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/sticky/rss",
+    "tagName": "Sticky"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/svg/rss", "tagName": "Svg" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/shapes/rss",
+    "tagName": "Shapes"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/notification/rss",
+    "tagName": "Notification"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/alert/rss", "tagName": "Alert" },
+  { "feedURL": "https://flutterawesome.com/tag/popup/rss", "tagName": "Popup" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/dialog/rss",
+    "tagName": "Dialog"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/toast/rss", "tagName": "Toast" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/rating/rss",
+    "tagName": "Rating"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/quotes/rss",
+    "tagName": "Quotes"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/avatar/rss",
+    "tagName": "Avatar"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/loading/rss",
+    "tagName": "Loading"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/textfield/rss",
+    "tagName": "Textfield"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/forms/rss", "tagName": "Forms" },
+  { "feedURL": "https://flutterawesome.com/tag/input/rss", "tagName": "Input" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/editor/rss",
+    "tagName": "Editor"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/markdown/rss",
+    "tagName": "Markdown"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/keyboard/rss",
+    "tagName": "Keyboard"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/validation/rss",
+    "tagName": "Validation"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/checkboxes/rss",
+    "tagName": "Checkboxes"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/datepicker/rss",
+    "tagName": "Date Picker"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/autocomplete/rss",
+    "tagName": "Autocomplete"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/search/rss",
+    "tagName": "Search"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/password/rss",
+    "tagName": "Password"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/todo/rss", "tagName": "Todo" },
+  { "feedURL": "https://flutterawesome.com/tag/text/rss", "tagName": "Text" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/verification/rss",
+    "tagName": "Verification"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/note/rss", "tagName": "Note" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/machine-learning/rss",
+    "tagName": "Machine Learning"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/picker/rss",
+    "tagName": "Picker"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/chat/rss", "tagName": "Chat" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/navigation/rss",
+    "tagName": "Navigation"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/tabbar/rss",
+    "tagName": "Tabbar"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/drawer/rss",
+    "tagName": "Drawer"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/widgets/rss",
+    "tagName": "Widgets"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/swipe/rss", "tagName": "Swipe" },
+  { "feedURL": "https://flutterawesome.com/tag/slide/rss", "tagName": "Slide" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/button/rss",
+    "tagName": "Button"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/menu/rss", "tagName": "Menu" },
+  { "feedURL": "https://flutterawesome.com/tag/pin/rss", "tagName": "Pin" },
+  { "feedURL": "https://flutterawesome.com/tag/books/rss", "tagName": "Books" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/calendar/rss",
+    "tagName": "Calendar"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/progress/rss",
+    "tagName": "Progress"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/floating/rss",
+    "tagName": "Floating"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/signin-tag/rss",
+    "tagName": "Signin"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/refresh/rss",
+    "tagName": "Refresh"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/scroll/rss",
+    "tagName": "Scroll"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/communication/rss",
+    "tagName": "Communication"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/authentication/rss",
+    "tagName": "Authentication"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/transitions/rss",
+    "tagName": "Transitions"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/location/rss",
+    "tagName": "Location"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/counter/rss",
+    "tagName": "Counter"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/dev-tools/rss",
+    "tagName": "Dev Tools"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/analytics/rss",
+    "tagName": "Analytics"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/i18n/rss", "tagName": "i18n" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/review/rss",
+    "tagName": "review"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/tags/rss", "tagName": "Tags" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/templates/rss",
+    "tagName": "Templates"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/apps-tag/rss",
+    "tagName": "Apps"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/wallpaper/rss",
+    "tagName": "Wallpaper"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/weather/rss",
+    "tagName": "Weather"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/games/rss", "tagName": "Games" },
+  { "feedURL": "https://flutterawesome.com/tag/news/rss", "tagName": "News" },
+  { "feedURL": "https://flutterawesome.com/tag/book/rss", "tagName": "Book" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/qrcode/rss",
+    "tagName": "Qrcode"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/contacts/rss",
+    "tagName": "Contacts"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/task/rss", "tagName": "Task" },
+  { "feedURL": "https://flutterawesome.com/tag/pdf/rss", "tagName": "PDF" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/bluetooth/rss",
+    "tagName": "Bluetooth"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/country/rss",
+    "tagName": "Country"
+  },
+  {
+    "feedURL": "https://flutterawesome.com/tag/payment/rss",
+    "tagName": "Payment"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/ad/rss", "tagName": "AD" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/messenger/rss",
+    "tagName": "Messenger"
+  },
+  { "feedURL": "https://flutterawesome.com/tag/color/rss", "tagName": "Color" },
+  { "feedURL": "https://flutterawesome.com/tag/quiz/rss", "tagName": "Quiz" },
+  { "feedURL": "https://flutterawesome.com/tag/nfc/rss", "tagName": "NFC" },
+  {
+    "feedURL": "https://flutterawesome.com/tag/miscellaneous/rss",
+    "tagName": "Miscellaneous"
+  }
+]

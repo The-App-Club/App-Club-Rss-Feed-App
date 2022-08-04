@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "format": "prettier --write \"{,!(node_modules|dist|build)/**/}*.*\""
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "jsdom": "^19.0.0",
+    "mkdirp": "^1.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}

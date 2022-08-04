@@ -1,0 +1,750 @@
+{
+  "episodes": [
+    {
+      "title": "Reduce Your Website’s Environmental Impact With a Carbon Budget",
+      "description": "In this article for CSS Tricks’ end-of-year series I wrote about how we in the web development industry should examine the environmental imp...",
+      "publishedAt": "2021-12-06T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Don’t Forget the “lang” Attribute",
+      "description": "An interesting notification from @cyishere popped up in my Twitter feed the other day:I use a Chrome extension Read Aloud to read the web p...",
+      "publishedAt": "2021-12-02T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "A Guide To Modern CSS Colors With RGB, HSL, HWB, LAB And LCH",
+      "description": "There’s more to color on the web than meets the eye, and it’s about to get a lot more interesting! In this article, we’ll take a look at the...",
+      "publishedAt": "2021-11-18T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "IT Career Energizer Podcast",
+      "description": "I recently had the priviledge of chatting to Phil Burgess on the IT Career Energizer Podcast about my journey into web development, and advi...",
+      "publishedAt": "2021-11-17T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Favourite Web Development Courses",
+      "description": "I’m not one for taking loads of courses. It’s hard to find the time, and when it comes to learning I always feel that, for me, doing beats r...",
+      "publishedAt": "2021-11-16T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Accessible Toggles",
+      "description": "I recently received some great advice from Scott O’Hara on improving the accessibility of a demo featuring a reduced-motion toggle (for this...",
+      "publishedAt": "2021-11-01T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Respecting Users’ Motion Preferences",
+      "description": "The prefers-reduced-motion media query has excellent support in all modern browsers going back a couple of years. In this article, we’ll loo...",
+      "publishedAt": "2021-10-21T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "The State of CSS 2021",
+      "description": "There has arguably never been a better time to be working with CSS. We have so many more tools available at our disposal than even just a co...",
+      "publishedAt": "2021-10-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Evaluating Clever CSS Solutions",
+      "description": "Ahmad Shadeed recently published an article where he dug into Facebook’s implementation of the border-radius property on their card componen...",
+      "publishedAt": "2021-10-19T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Creating 3D Characters in Three.js",
+      "description": "In this tutorial we’ll talk through creating a three-dimensional character using Three.js, adding some simple but effective animation, and a...",
+      "publishedAt": "2021-10-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Simplifying Form Styles With accent-color",
+      "description": "The new CSS accent-color property makes it quick and easy to roll out our brand colors to certain form inputs by leveraging user agent style...",
+      "publishedAt": "2021-09-23T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Simpler Block Spacing in WordPress with :is() and :where()",
+      "description": "The :is() and :where() pseudo-selectors are relatively new additions to CSS, which allow us to target elements that meet the criteria in the...",
+      "publishedAt": "2021-09-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Developer Decisions For Building Flexible Components",
+      "description": "One of the key skills of a front-end developer is to be able to take designs and turn them into code. These designs are often presented as s...",
+      "publishedAt": "2021-09-09T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Learning in the Open",
+      "description": "Over the years I’ve tried out a lot of different ways of learning CSS and JS: books, online courses, articles, video tutorials… But for me, ...",
+      "publishedAt": "2021-09-04T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "New Length Debugging Tool in Chrome Canary",
+      "description": "A few weeks ago I blogged about inspecting sizes in the browser dev tools, lamenting the lack of a way to toggle between different unit type...",
+      "publishedAt": "2021-08-24T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Masking One Element With Another",
+      "description": "Somehow it escaped my knowledge until recently that the CSS element() function is supported in Firefox. In fact, it has been for a good whil...",
+      "publishedAt": "2021-08-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Is it Time to Ditch the Design Grid?",
+      "description": "I came across this website, Gridless Design recently, and it immediately struck a chord. It’s something I’ve been thinking about for a long ...",
+      "publishedAt": "2021-07-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building A Dynamic Header With Intersection Observer",
+      "description": "Have you ever needed to build a UI where some component on the page needs to respond to elements as they’re scrolled to a certain threshold ...",
+      "publishedAt": "2021-07-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Inspecting Sizes",
+      "description": "I don’t know about you, but I’ve often had a designer, looking over a site I’m developing, say something like “Can you move that five pixels...",
+      "publishedAt": "2021-07-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Detecting Hover-Capable Devices",
+      "description": "With a greater proliferation of devices than ever before, we developers can no longer rely on viewport size as the factor that determines th...",
+      "publishedAt": "2021-06-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Video: Dev Roulette Live",
+      "description": "Last week I had the honour of participating in Dev Roulette Live — a new video series co-ordinated by Stephanie Eckles, where developers are...",
+      "publishedAt": "2021-06-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Trigonometry in CSS and JS: A Series",
+      "description": "While working on some demos earlier this year, I started to get really interested in trigonometry. Having left the subject alone since schoo...",
+      "publishedAt": "2021-06-11T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Creating Generative SVG Characters",
+      "description": "I came across George Francis’ work recently, and am completely in love with his generative SVG characters — especially the googly eyes! What...",
+      "publishedAt": "2021-05-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Toggling CSS Custom Properties with Radio Buttons",
+      "description": "As part of a recent article published on Codrops, I made some demos that allowed the user to toggle between three different values for a cli...",
+      "publishedAt": "2021-05-04T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Dynamic CSS Masks with Custom Properties and GSAP",
+      "description": "Learn how to animate CSS masks based on the cursor position using GSAP and custom properties for a unique spotlight effect.Read the article...",
+      "publishedAt": "2021-05-04T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Development Budgets",
+      "description": "Personally, I find that one of the hardest things to do as a developer is estimate how long a piece of work will take. At Atomic Smash we’ve...",
+      "publishedAt": "2021-04-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Paper Snowflakes: Combining Clipping and Masking in CSS",
+      "description": "Just after Christmas I made a fun little Codepen demo recreating realistic-looking paper snowflakes in CSS, inspired by our homemade decorat...",
+      "publishedAt": "2021-04-07T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Quick Tip: Style Pseudo-elements with Javascript Using Custom Properties",
+      "description": "In Javascript we have a few ways of selecting elements, but we can’t directly target pseudo-elements. Something like this, for instance, won...",
+      "publishedAt": "2021-03-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Animating Underlines",
+      "description": "I recently gave my personal website a makeover and included a few cool little CSS tricks. Over the next few posts I’ll share some of these. ...",
+      "publishedAt": "2021-03-24T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Debugging Media Queries: A Dev Tools Wish List",
+      "description": "The Level 5 Media Queries specification brings us the ability to detect a whole load of different user preferences from within our CSS file,...",
+      "publishedAt": "2021-03-02T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Favourite Things 2: New CSS Features, JS Libraries and More",
+      "description": "Here’s a short round-up of some of the web technologies and resources that are getting me excited right now. Having started with the best in...",
+      "publishedAt": "2021-02-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Finding an Element’s Nearest Relative Positioned Ancestor",
+      "description": "This article was updated on 15 March 2021.Have you ever been faced with a CSS positioning dilemma where an element with position: absolute ...",
+      "publishedAt": "2021-02-09T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "My Typical Day",
+      "description": "I’ve been reading quite a few blog posts in a kind of unofficial series started by Colin Devroe, who kicked things off by writing about his ...",
+      "publishedAt": "2021-02-05T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "On a break",
+      "description": "Since starting this blog almost three years ago, I’ve regularly published two more more articles every month. I love writing and I love web ...",
+      "publishedAt": "2021-01-26T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Goodbye, 2020",
+      "description": "We all know 2020 has been a bad year. Nevertheless, I feel compelled to continue the tradition of writing my end-of-year review, to reflect ...",
+      "publishedAt": "2020-12-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Video: Using Tailwind with Wordpress",
+      "description": "Last week I had the pleasure of chatting with Keith Devon and Mark Wilkinson of Highrise Digital, alongside Ben Furfie, about my experience ...",
+      "publishedAt": "2020-12-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "A Utility Class for Covering Elements",
+      "description": "Here’s something I find myself needing to do again and again in CSS: completely covering one element with another. It’s the same CSS every t...",
+      "publishedAt": "2020-12-06T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Troubleshooting Caching",
+      "description": "While launching the new version of this site recently, I came across a few issues with some browsers unexpectedly caching the old version – ...",
+      "publishedAt": "2020-11-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Color Theming with CSS Custom Properties and Tailwind",
+      "description": "I’m a big fan of custom properties, and this post for CSS Tricks covers how we use them with Tailwind CSS at Atomic Smash for building theme...",
+      "publishedAt": "2020-11-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Launching the New and Improved CSS { In Real Life }",
+      "description": "After a few months of on-and-off work, this week I’m pleased to finally launch the new and improved version of this site! It’s not a major r...",
+      "publishedAt": "2020-11-04T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Tailwind Thoughts",
+      "description": "Although I use utility class framework Tailwind CSS for work, in some ways I am a reluctant user. I actively advocated for us to adopt it as...",
+      "publishedAt": "2020-10-22T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Making Work Experience a Positive Experience",
+      "description": "Last week at Atomic Smash we had Alice, a junior developer, join us for some work experience. Helping someone get the most out of a work exp...",
+      "publishedAt": "2020-10-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Quick Command Line Tip: Create Mutliple Files With the Same Extension",
+      "description": "If you’re familiar with the command line, you’ll probably already know you can create a new file using the touch command. For example, this ...",
+      "publishedAt": "2020-09-25T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Learning About CSS 3D Transforms and Perspective",
+      "description": "3D transforms, despite being available in CSS for a while, are one area I’ve never understood well. I think if they were new to CSS now, I’d...",
+      "publishedAt": "2020-09-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Why I Don’t Have Time For Your Coding Challenge",
+      "description": "It tends to be standard recruitment practice in the tech industry to require candidates to complete some sort of coding test or challenge. S...",
+      "publishedAt": "2020-09-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Favourite Things 1: GSAP ScrollTrigger, Eleventy, and more",
+      "description": "For a while I’ve been thinking about publishing a semi-regular round-up of all the things that have been interesting me in tech recently, pa...",
+      "publishedAt": "2020-08-31T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building the Zig-Zag Gradient Lab",
+      "description": "Last month I had the priviledge of giving a talk at Vienna Calling, the online meetup organised by CSS-In-Vienna and Webclerks. Alongside fa...",
+      "publishedAt": "2020-08-13T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Accessibly Hiding Focus Outlines",
+      "description": "This article was updated on 13 August 2020 to include performance considerations with the Javascript solution.By default, browsers provide ...",
+      "publishedAt": "2020-08-09T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Drop-Shadow: The Underrated CSS Filter",
+      "description": "This article was updated on 13 August 2020 to include additional reference material.If you’re familiar with CSS, you probably know all abou...",
+      "publishedAt": "2020-08-04T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "From Gatsby to Eleventy: Choosing a Static Site Generator for a Personal Site",
+      "description": "Fig 1 Cassie Evans’ personal site is resplendent with playful touchesThere have been so many great personal site redesigns recently. Cassi...",
+      "publishedAt": "2020-07-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Irregular-shaped Links with Subgrid",
+      "description": "Card-based UIs are commonly-used web design patterns, and it’s not unusual to build a UI that requires a hover (or focus) effect to be appli...",
+      "publishedAt": "2020-06-24T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Mentoring",
+      "description": "This blog has been a little quiet over the past couple of weeks. With everything going on in the world right now, it doesn't feel like the r...",
+      "publishedAt": "2020-06-11T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "CSS-only Slide-up Caption Hover Effect",
+      "description": "Have you ever needed to build a UI where a caption needs to slide over an image on hover, revealing more content?This is something I’ve bee...",
+      "publishedAt": "2020-05-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "All the CSS Colours",
+      "description": "I recently made a demo where I needed to list all the CSS named colours as options in a select input. I didn’t want to write them all out by...",
+      "publishedAt": "2020-05-19T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Exciting Things on the Horizon For CSS Layout",
+      "description": "This past week has brought a few announcements from browser vendors of some exciting things that might have a big impact on CSS layout in th...",
+      "publishedAt": "2020-05-01T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Video: 90 Seconds on CSS Custom Properties",
+      "description": "Last year I spoke at Future Sync conference, and this year the organisers asked me if I could provide a short recorded introduction to a CSS...",
+      "publishedAt": "2020-04-22T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Tips for Writing for the Web",
+      "description": "Writing for the web is a skill, like any other, that can only be perfected through practice. I’ve been writing on this blog for two years no...",
+      "publishedAt": "2020-04-21T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Different Approaches to Responsive CSS Motion Path",
+      "description": "When it comes to using CSS Motion Path, it always bugs me that the path itself is doesn’t scale. The path size, as created, is essentially a...",
+      "publishedAt": "2020-04-18T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building an Interactive Timetable",
+      "description": "This week the UK joined many other parts of the world in imposing a lockdown to battle the coronavirus (AKA Covid-19), and so we find oursel...",
+      "publishedAt": "2020-03-31T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Positioning Text Along a Path with CSS",
+      "description": "I’ve been playing around with CSS Motion Path a lot over the past couple of months, and having a lot of fun creating demos, some of which yo...",
+      "publishedAt": "2020-03-18T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "In Search of Simplicity",
+      "description": "During the past month or so at Atomic Smash I’ve been working on building our new front end framework (recently christened ‘Snap’) – a repos...",
+      "publishedAt": "2020-02-17T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Do We Need CSS4?",
+      "description": "Jen Simmons raised an interesting proposal for the CSS Working Group this week:Let’s Define CSS 4It’s come up quite a few times recently t...",
+      "publishedAt": "2020-02-13T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Quick and Easy Dark Mode with CSS Custom Properties",
+      "description": "Adding “dark mode” support to a website or app is becoming increasingly popular among developers, many of whom favour this setting themselve...",
+      "publishedAt": "2020-02-03T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Optimising SVGs for the Web",
+      "description": "Optimising SVGs (scalable vector graphics) for web projects has the dual benefits of reducing the file size and making them easier to work w...",
+      "publishedAt": "2020-01-26T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Fun with CSS Motion Path",
+      "description": "Animating an element along a path is something we as developers would normally reach for a big old JS library (like GSAP) for. But with the ...",
+      "publishedAt": "2020-01-06T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Imperfect",
+      "description": "Different people have differing views on writing when it comes to personal blogs. Some people spend a long time perfecting a draft, making s...",
+      "publishedAt": "2020-01-03T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "2019 in Review",
+      "description": "I’m going to try to keep this 2019 retrospective brief, but like many people, I find it cathartic to look back at the year’s triumphs and di...",
+      "publishedAt": "2019-12-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "7 Uses for CSS Custom Properties",
+      "description": "Custom properties (also known as CSS variables) allow us to store property values for re-use in our stylesheets. If you’re relatively new to...",
+      "publishedAt": "2019-12-09T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Beautiful Scrolling Experiences – Without Libraries",
+      "description": "Published on 24Ways",
+      "publishedAt": "2019-12-06T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Re-creating the ‘His Dark Materials’ Logo in CSS",
+      "description": "I love the new BBC adaptation of Philip Pullman’s His Dark Materials trilogy of novels. There’s also some pretty nice graphic design to appr...",
+      "publishedAt": "2019-12-05T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "A Layout Trick for Building a Contact List",
+      "description": "I recently needed to build a design for a contact list that looks like this:It consists of an email address and telephone number (with the ...",
+      "publishedAt": "2019-11-16T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 3: Building Our Sass Architecture",
+      "description": "In the previous two articles we went through configuring a project starter repository using NPM scripts and Parcel. I tend to employ more or...",
+      "publishedAt": "2019-10-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 2: Module Bundling with Parcel",
+      "description": "Parcel purports to be a “zero-config” alternative to Webpack, a popular Javascript module bundler. A module bundler takes separate, reusable...",
+      "publishedAt": "2019-10-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 1: Building a Project Starter with NPM Scripts",
+      "description": "When it comes to building a simple front-end project, how do you get started? What are the tools you need? I suspect everyone will have a di...",
+      "publishedAt": "2019-10-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "State of the Art CSS",
+      "description": "An article on new and upcoming CSS features for Web Designer magazine.",
+      "publishedAt": "2019-10-23T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building a Scrapbook Layout with CSS Grid",
+      "description": "My son was recently tasked with the responsibility of looking after his pre-school class teddy bear for the week, which comes with the oblig...",
+      "publishedAt": "2019-09-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Thoughts on the State of the Web",
+      "description": "Laura Kalbag on stage at State of the Browser 2019I’ve just come back from State of the Browser, a wonderful, community-run conference in ...",
+      "publishedAt": "2019-09-16T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Get ready for the CSS Grid Revolution",
+      "description": "An interview for Net magazine",
+      "publishedAt": "2019-09-06T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Accessibly Split Text",
+      "description": "I recently published an article on animating variable fonts with the help of the Javascript library Splitting.js. A few people asked about t...",
+      "publishedAt": "2019-08-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Variable Font Animation with CSS and Splitting JS",
+      "description": "A little while ago I made an animated variable font demo on Codepen. In this article I’ll explain what variable fonts are, how they can be a...",
+      "publishedAt": "2019-08-13T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Heatwave: An Animated CSS Sun Illustration",
+      "description": "Animated sun illustrationWe’re right in the middle of a heatwave here in the UK, and things have been a little quiet on this blog while I’...",
+      "publishedAt": "2019-07-26T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 3: Auto-flow, Order and Item Placement",
+      "description": "When it comes to building a layout, CSS Grid offers us a number of different choices for placing items. In this article we’ll take a look at...",
+      "publishedAt": "2019-07-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Enable Experimental Web Platform Features in Chrome and Firefox",
+      "description": "Want to experiment with the latest bleeding-edge web technologies? One way is to download a nightly (or developer) version of the browser. B...",
+      "publishedAt": "2019-06-21T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Video: Building Complex Layouts at Future Sync 2019",
+      "description": "Future Sync conference recently published the videos from their 2019 conference, including the one from my talk, Building Complex Layouts wi...",
+      "publishedAt": "2019-06-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Pixel Pioneers 2019 Roundup",
+      "description": "Last week I attended Pixel Pioneers, an annual conference in my local city of Bristol. It has fast become a firm date in my calendar, and th...",
+      "publishedAt": "2019-06-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Video: Super-powered Layouts at State of the Browser 2018",
+      "description": "Last year I spoke about CSS Grid at State of the Browser conference. This was a great conference to attend, with awesome speakers including ...",
+      "publishedAt": "2019-06-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Top Tips for Hiring Diverse Teams",
+      "description": "Like many women in tech, I sometimes get asked how companies can recruit a more diverse team. It’s no secret that the tech world is very mal...",
+      "publishedAt": "2019-05-29T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Subgrid is here",
+      "description": "Support for subgrid (part of the CSS Grid Level 2 specification) has just landed in Firefox Nightly! To start experimenting with it you’ll n...",
+      "publishedAt": "2019-05-26T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How Git Stash Can Help You Juggle Multiple Branches",
+      "description": "When juggling multiple branches in Git, it’s easy to accidentally start working on the wrong branch, before realising you need to switch to ...",
+      "publishedAt": "2019-05-25T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 2: What the Fr(action)?",
+      "description": "In the second part of the Debugging CSS Grid series, we’ll take a look at fr (or fraction) units. Fr units are very useful for sizing grid t...",
+      "publishedAt": "2019-05-16T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Part 1: Understanding Implicit Tracks",
+      "description": "This post was edited on 22 July 2019 to better describe item placement in the example of overlapping grid items.When observing people getti...",
+      "publishedAt": "2019-04-30T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Controlling Leftover Grid Items with Pseudo-selectors",
+      "description": "I recently wrote about some of the cases where you might want to use Grid instead of flexbox, and vice-versa. One of the scenarios I pointed...",
+      "publishedAt": "2019-04-13T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Amending Your Past Commits with Git",
+      "description": "Have you ever pushed some code with a bad commit message and wished you could go back in time and edit it? Perhaps you got two different com...",
+      "publishedAt": "2019-04-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Create Better Themes with CSS Variables",
+      "description": "Published on LogRocket",
+      "publishedAt": "2019-04-01T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building a Dependency-free Site in 2019",
+      "description": "A screenshot of my new, improved personal websiteAfter several years of basically ignoring it, I decided recently that it was time for a r...",
+      "publishedAt": "2019-03-22T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to Convince Your Team to Adopt CSS Grid",
+      "description": "Are you keen to jump into CSS Grid Layout but having trouble convincing the rest of your team (whether your peers or your managers)? Someone...",
+      "publishedAt": "2019-03-09T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Becoming a Tech Speaker",
+      "description": "In this post I’m taking a brief diversion from my usual CSS topics to discuss how becoming a tech speaker has helped me develop my career an...",
+      "publishedAt": "2019-02-23T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "To Grid or to Flex?",
+      "description": "A recent Twitter thread started by Chris Coyier got me thinking about how people in general interpret the use cases for CSS Grid Layout vers...",
+      "publishedAt": "2019-02-10T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "My CSS Grid Wishlist",
+      "description": "If you follow this blog you’ll know I’m a big fan of CSS Grid, and without a doubt it’s given us developers more power than ever before when...",
+      "publishedAt": "2019-02-03T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "A Year of Utility Classes",
+      "description": "Last year at Mud we adopted a utility-first approach to CSS (also known as atomic CSS). Specifically we decided to use TailwindCSS, a utilit...",
+      "publishedAt": "2019-01-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Animating CSS Grid",
+      "description": "Animated CSS Grid properties in action (Firefox Nightly)Soooo, Jen Simmons just dropped a surprise bombshell on Twitter – CSS Grid grid-te...",
+      "publishedAt": "2019-01-14T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Solving a Tricky Layout Problem with CSS Grid",
+      "description": "Last year, while working at Mud, I worked on the CSS on a site for Warner Brothers Leavesden Park studios. A large part of my contribution i...",
+      "publishedAt": "2019-01-12T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Wrapping Up 2018",
+      "description": "The past few days I’ve been reading a lot of people’s end-of-year reviews, where they share their personal and professional accomplishments,...",
+      "publishedAt": "2018-12-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Reversing an Easing Curve",
+      "description": "Published on CSS Tricks",
+      "publishedAt": "2018-12-18T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Into the Matrix with SVG Filters",
+      "description": "In this article we’ll explore how to use SVG filters for advanced colour manipulation on images.Blend modes and beyondIf you’re writing CS...",
+      "publishedAt": "2018-11-20T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Mentoring Junior Developers",
+      "description": "Last week I gave a talk at Bath Digital Festival about CSS Grid and CSS Variables. I was lucky enough to be able to attend a full day of tal...",
+      "publishedAt": "2018-10-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Negative Grid Lines",
+      "description": "Did you know you can use negative line numbers to position grid items with CSS Grid? I didn’t until recently – or rather, I hadn’t given it ...",
+      "publishedAt": "2018-10-14T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "20 Inspiring Women in Tech",
+      "description": "Marko Bijelic, designer at Hipinspire, recently published this article on Medium title Web design legends: where are they now?. The article ...",
+      "publishedAt": "2018-09-25T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Relative Grid Items with CSS Variables",
+      "description": "I was helping my colleague get started with a CSS Grid layout recently and he asked me if there was a way of offsetting grid items relative ...",
+      "publishedAt": "2018-09-13T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Notes from State of the Browser",
+      "description": "Charlie Owen at State of the BrowserI recently had the pleasure of speaking at State of the Browser, a community-run web conference in Lon...",
+      "publishedAt": "2018-09-11T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Super-powered Grid Components with CSS Custom Properties",
+      "description": "Published on CSS Tricks",
+      "publishedAt": "2018-08-28T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Experimental Layouts with CSS Shapes and Clip-path",
+      "description": "​Recently there has been a proliferation of demos using the CSS property shape-outside to create interesting and unusual text and layout eff...",
+      "publishedAt": "2018-08-14T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Building a Progressive Web App with Gatsby",
+      "description": "​In my previous article, Progressive Web Apps: An Introduction, I wrote about the key technologies involved with building a PWA and how to g...",
+      "publishedAt": "2018-07-31T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Speaking at Bristol JS on Super-powered Layouts",
+      "description": "Last Wednesday I had the honour of presenting a new talk at Bristol JS meetup group, alongside veteran speaker, JS whizz and web audio pione...",
+      "publishedAt": "2018-07-02T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Progressive Web Apps: An Introduction",
+      "description": "If you’re in the business of building websites, you may have increasingly heard people talking about Progressive Web Apps (PWAs). Developed ...",
+      "publishedAt": "2018-06-29T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "In Defence of Bad Code",
+      "description": "I saw a tweet the other day from Christian Heilmann of Microsoft (formerly of Mozilla), a big name in the web industry and tech conference c...",
+      "publishedAt": "2018-06-14T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Great Front End Writers to Follow",
+      "description": "As this is a brand new blog, I want to highlight some of the people in web development who have inspired me and whose articles (and writing ...",
+      "publishedAt": "2018-06-12T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Practical Tips for Working with CSS Variables",
+      "description": "I’ve been playing around with CSS variables (or custom properties) quite a lot recently and thought I’d share a few tips as I develop a prac...",
+      "publishedAt": "2018-06-01T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Introduction to Gatsby",
+      "description": "In case you haven’t heard about it, Gatsby is the latest hot thing in static site generators. While many static site generators (SSGs) use t...",
+      "publishedAt": "2018-05-29T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Aspect Ratio Cells with CSS Grid Layout",
+      "description": "I found myself recently building a layout in CSS Grid that would have previously needed JavaScript in order to work. It’s a layout based on ...",
+      "publishedAt": "2018-05-27T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "CSS Grid: More Flexibility with Minmax()",
+      "description": "One of the things that can put people off trying out CSS Grid is there’s so much choice when it comes to defining your grid layout and placi...",
+      "publishedAt": "2018-04-29T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Using Pseudo-elements with CSS Grid",
+      "description": "This week I’ve had a couple of scenarios where I’ve needed to build a hero section with a full-width image, a large heading and a translucen...",
+      "publishedAt": "2018-04-19T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Super-powered layouts with CSS Variables + CSS Grid",
+      "description": "We’ve been using CSS Grid in production at Mud for a few months now and I absolutely love the flexibility it’s giving me when coding layout....",
+      "publishedAt": "2018-03-29T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "How to be a Good Co-worker",
+      "description": "Transitioning to a new team inevitably involves learning new methods and processes – as well as getting used to the personalities of your co...",
+      "publishedAt": "2016-04-17T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "CSS In Real Life",
+  "programImage": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+}

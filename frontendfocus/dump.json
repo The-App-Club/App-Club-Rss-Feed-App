@@ -1,0 +1,35 @@
+{
+  "episodes": [
+    {
+      "title": "The state of CSS in 2021",
+      "publicURL": "https://frontendfoc.us/issues/521",
+      "description": "Frontend Focus#​521 — December 15, 2021 | Read on the web      Results of the State of CSS 2021 Survey — Here's the results fro...",
+      "publishedAt": "2021-12-15T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "It's time your site had a carbon budget",
+      "publicURL": "https://frontendfoc.us/issues/520",
+      "description": "Frontend Focus#​520 — December 8, 2021 | Read on the web      Google's Fonts Knowledge Base — A new site from Google that’s a r...",
+      "publishedAt": "2021-12-08T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "🎨 doing neat things with the Paint API..",
+      "publicURL": "https://frontendfoc.us/issues/519",
+      "description": "Frontend Focus#​519 — December 1, 2021 | Read on the web      Creating Generative Patterns with the CSS Paint API — A detailed ...",
+      "publishedAt": "2021-12-01T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    },
+    {
+      "title": "Handling colors in CSS",
+      "publicURL": "https://frontendfoc.us/issues/518",
+      "description": "Frontend Focus#​518 — November 24, 2021 | Read on the web      A Guide To Modern CSS Colors with RGB, HSL, HWL, LAB and LCH — A...",
+      "publishedAt": "2021-11-24T00:00:00.000Z",
+      "thumbnail": "https://media1.giphy.com/media/3TACspcXhhQPK/giphy.gif"
+    }
+  ],
+  "programTitle": "Frontend Focus",
+  "programImage": "https://res.cloudinary.com/cpress/image/upload/v1602675575/hhmdxfk96fnbq3effjk1.png",
+  "programDescription": "A once–weekly roundup of the best front-end news, articles and tutorials. HTML, CSS, WebGL, Canvas, browser tech, and more."
+}
